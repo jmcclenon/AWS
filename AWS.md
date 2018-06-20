@@ -17,8 +17,11 @@ Elastic Beanstalk - *Run and manage web apps*
 
 **STORAGE**
 S3 - *Scalable storage in the cloud*
+
 EFS - *Managed file storage for EC2*
+
 Glacier - *Archive storage in the cloud*
+
 Storage Gateway - *Hybrid storage integration*
 
 **DATABASE**
@@ -155,5 +158,5 @@ Amazon GameLift -
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NDY5Njg4MF19
+eyJoaXN0b3J5IjpbNzgyNzI1NzU0XX0=
 -->
