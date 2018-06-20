@@ -5,7 +5,7 @@ This repository is dedicated to the Certified Developer Associate credential for
 
 These are the notes that I am taking as I am viewing the course. When I run into important concepts, terms, books, and other resources, they will be listed here.
 
-The [Geekbooks](https://www.geekbooks.me/) website has a large collection of books related to 
+The [Geekbooks](https://www.geekbooks.me/) website has a large collection of books related to AWS, and those resources will be listed here as well. Geekbooks is subscription based, so you will not be able to download any books until you purchase a subscription. It is we
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MzI4MjMwMSwtMTg3MDU3NTI5MF19
+eyJoaXN0b3J5IjpbMTgyMDAwMjc3NCwtMTg3MDU3NTI5MF19
 -->
