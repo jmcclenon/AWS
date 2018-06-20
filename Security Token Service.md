@@ -42,10 +42,14 @@ You are hosting a company website on some EC2 web servers in your VPC. Users of 
 8. Amazon S3 uses IAM to verify that the credentials allow the requested operation on the given S3 bucket and key.
 9. IAM provides S3 with the go-ahead to perform the requested operation.
 
+STEPS (Distilled)
+
+1. Develop an Identity Broker to communicate with LDAP 
+
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzMyNzk3NTksLTU3NDM4MzQ3LDE3OT
-Q0NDI0NDYsMTAzNzYyNzQ1LDY4MDczOTExOCwxMTU3MzUyMzY0
-XX0=
+eyJoaXN0b3J5IjpbMTY2MjQ3NzU0NCwtNTc0MzgzNDcsMTc5ND
+Q0MjQ0NiwxMDM3NjI3NDUsNjgwNzM5MTE4LDExNTczNTIzNjRd
+fQ==
 -->
