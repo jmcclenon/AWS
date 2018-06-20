@@ -194,13 +194,13 @@ Mobile Analytics - *Collect, view and export app analytics*
 Amazon Sumerian - *Build VR, AR, and 3D applications*
 
 **APPLICATION INTEGRATION**
-Step Functions - Coordinate distributed applications
+Step Functions - *Coordinate distributed applications*
 
-Amazon MQ - Managed message broker service for Apache ActiveMQ
+Amazon MQ - *Managed message broker service for Apache ActiveMQ*
 
-Simple Notification Service - SNS Pub/Sub, movile Push and SMS
+Simple Notification Service - *SNS Pub/Sub, movile Push and SMS*
 
-Simple Queue Service - SQS Managed message queues
+Simple Queue Service - S*QS Managed message queues*
 
 SWF - Workflow service for coordinating application components
 
@@ -251,6 +251,6 @@ Amazon GameLift - Deploy and scaled session-based multiplayer games
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDM1OTg4MzgsNzE1MjkyMDg4LC0xOD
-g5OTM2NDIyLDE1NDM0ODQyMDJdfQ==
+eyJoaXN0b3J5IjpbLTIyNDcyNTkxNiw3MTUyOTIwODgsLTE4OD
+k5MzY0MjIsMTU0MzQ4NDIwMl19
 -->
