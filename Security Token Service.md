@@ -6,21 +6,21 @@ Grants users limited and temporary access to AWS resources. Users can come from 
 
  - Uses Security Assertion Markup Language ([SAML](https://en.wikipedia.org/wiki/Security_Assertion_Markup_Language)) 
  - Grants temporary access based off the users Active Directory credentials. 
- - Does not need to be a user in IAM. Single sign on allows users to log into AWS console ***without*** assigning IAM credentials
+ - Does not need to be a user in IAM. Single sign on allows users to log into AWS console ***without*** assigning IAM credentials.
 
 **Federation with Mobile Apps**
 
- - Use Facebook/Amazon/Google or other [OpenID](https://en.wikipedia.org/wiki/OpenID) providers to log in
+ - Use Facebook/Amazon/Google or other [OpenID](https://en.wikipedia.org/wiki/OpenID) providers to log in.
 
 **Cross Account Access**
 
- - Lets users from one AWS account account access resources in another  AWS account
+ - Lets users from one AWS account account access resources in another  AWS account.
 ---
 **Key Terms**
 
- - [Federation](https://en.wikipedia.org/wiki/Federation_%28information_technology%29): Combining or joining a list of users in one domain (such   as IAM) with a list of users in another domain (such as Active  Directory, Facebook, etc.)
+ - [Federation](https://en.wikipedia.org/wiki/Federation_%28information_technology%29): Combining or joining a list of users in one domain (such   as IAM) with a list of users in another domain (such as Active  Directory, Facebook, etc.).
 
-- Identity Broker: A service that allows you to take an identity from point A and join it (federate it) to point B
+- Identity Broker: A service that allows you to take an identity from point A and join it (federate it) to point B.
 
 - Identity Store: Services like Active Directory, Facebook, Google, etc.
 
@@ -39,6 +39,6 @@ You are hosting a company website on some EC2 web servers in your VPC. Users of 
 5. The Security Token Service confirms that the policy of the IAM user making the call to GetFederationToken gives permission to create new tokens and then return four values to the application: An access key, a secret access key, a token, and a duration (the token's lifetime).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MTczMDUxOSwxNzk0NDQyNDQ2LDEwMz
-c2Mjc0NSw2ODA3MzkxMTgsMTE1NzM1MjM2NF19
+eyJoaXN0b3J5IjpbLTU3NDM4MzQ3LDE3OTQ0NDI0NDYsMTAzNz
+YyNzQ1LDY4MDczOTExOCwxMTU3MzUyMzY0XX0=
 -->
