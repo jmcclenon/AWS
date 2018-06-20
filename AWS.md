@@ -117,7 +117,7 @@ MediaTailor - *Personalize and monetize multiscreen content with server-side ad 
 
 **MACHINE LEARNING**
 
-Amazon SageMaker - *Build, train, and deploy machine learning models*
+Amazon SageMaker - *Build, train, and deploy [machine learning](https://en.wikipedia.org/wiki/Machine_learning) models*
 
 Amazon Comprehend - *Analyze unstructured text*
 
@@ -253,7 +253,7 @@ Amazon GameLift - *Deploy and scaled session-based multiplayer games*
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg0OTQzMjU2LC0xOTg4NjI4MDQ3LDIwND
-g0MzQ2OTYsNzE1MjkyMDg4LC0xODg5OTM2NDIyLDE1NDM0ODQy
-MDJdfQ==
+eyJoaXN0b3J5IjpbLTE1ODQ0NjEyNDgsLTE5ODg2MjgwNDcsMj
+A0ODQzNDY5Niw3MTUyOTIwODgsLTE4ODk5MzY0MjIsMTU0MzQ4
+NDIwMl19
 -->
