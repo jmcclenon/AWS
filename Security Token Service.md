@@ -58,11 +58,16 @@ You are hosting a company website on some EC2 web servers in your VPC. Users of 
 2. Identity Broker always authenticated with LDAP first, THEN with AWS STS
 3. Application then gets temporary access to AWS resources 
 
+---
+Questions:
+
+1. What is the name of the service to allow users to use their social media account to gain temporary access to AWS
+
   
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTc3NDk1MDAzOF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODQxMzEwNzZdfQ==
+eyJoaXN0b3J5IjpbODU1OTYwMjQ3XX0=
 -->
