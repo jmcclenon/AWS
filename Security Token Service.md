@@ -34,7 +34,7 @@ You are hosting a company website on some EC2 web servers in your VPC. Users of 
 
 **Scenario 1 Answer (User credentials)**
 1. Employee enters their username and password.
-2. The application calls an Identity Broker. The broker captures the username and password.
+2. The application calls an Identity Broker (developed in-house). The broker captures the username and password.
 3. The Identity Broker uses the organization's [LDAP](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol) directory to validate the employee's identity.
 4. The Identity Broker calls the new [GetFederationToken](https://docs.aws.amazon.com/STS/latest/APIReference/API_GetFederationToken.html) function using IAM credentials. The call must include an IAM policy and a duration (1 to 36 hours), along with a policy that specifies the permissions to be granted to the temporary security credentials.
 5. The Security Token Service confirms that the policy of the IAM user making the call to GetFederationToken gives permission to create new tokens and then return four values to the application: An access key, a secret access key, a token, and a duration (the token's lifetime).
@@ -59,7 +59,8 @@ You are hosting a company website on some EC2 web servers in your VPC. Users of 
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE3Mzk0ODI4LC0xOTY4NDM5MzEsLTEwND
-g3ODM3MTksMzQ1NzE1OTU1LC01NzQzODM0NywxNzk0NDQyNDQ2
-LDEwMzc2Mjc0NSw2ODA3MzkxMTgsMTE1NzM1MjM2NF19
+eyJoaXN0b3J5IjpbMTUyMDkyMzU4Nyw5MTczOTQ4MjgsLTE5Nj
+g0MzkzMSwtMTA0ODc4MzcxOSwzNDU3MTU5NTUsLTU3NDM4MzQ3
+LDE3OTQ0NDI0NDYsMTAzNzYyNzQ1LDY4MDczOTExOCwxMTU3Mz
+UyMzY0XX0=
 -->
