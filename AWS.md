@@ -121,11 +121,9 @@ Created: 6/20/2018
  - AWS Single Sign-On - *Manage Single Sign-On
    ([SSO](https://en.wikipedia.org/wiki/Single_sign-on)) access to AWS accounts and business applications*
  - Certificate Manager - *Provision,, manage and deploy
-   [SSL/TLS] https://en.wikipedia.org/wiki/Transport_Layer_Security)
-   certificates*
+   [SSL/TLS] certificates*
  - CloudHSM - *Managed hardware security modules in the cloud*
- - Directory Service - *Host and manage [Active
-   Directory](https://en.wikipedia.org/wiki/Active_Directory)*
+ - Directory Service - *Host and manage [Active Directory](https://en.wikipedia.org/wiki/Active_Directory)*
  - WAF & Shield - *Protect against [DDoS](https://en.wikipedia.org/wiki/Denial-of-service_attack#Distributed_attack) attacks and malicious web traffic*
  - Artifact - *AWS compliance reports and agreements*
 
@@ -202,7 +200,7 @@ Amazon GameLift - *Deploy and scaled session-based multiplayer games*
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMDczNTQxOSw0NDI0MTU0NDMsLTEwNT
+eyJoaXN0b3J5IjpbMTM5OTgyMDE5NSw0NDI0MTU0NDMsLTEwNT
 QyNTUxMzYsMTk5ODQzNzQzOSwxMDgyODU4MDgwLC0xNzkzOTc3
 MTM2LC05Mzg2OTQ3MzYsLTk1MzM3ODc5MiwxOTI4OTEwMTU3LC
 0xOTg0MjU5NDU5LDU3MzU1MTgwMCwtMTI1NjM1NzE0MSwtMTk4
