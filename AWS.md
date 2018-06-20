@@ -100,16 +100,12 @@ Created: 6/20/2018
  - Athena - *Query data in S3 using SQL*
  - EMR - *Managed [Hadoop](http://hadoop.apache.org/)  framework*
  - CloudSearch - *Managed search service*
-
-Elasticsearch Service - *Run and scale Elasticsearch clusters*
-
-Kinesis - *Work with real-time streaming data*
-
-QuickSight - *Fast, easy to use business analytics*
-
-Data Pipeline - *Orchestration for data-driven workflows*
-
-AWS Glue - *Fully managed [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) (extract, transform and load) service*
+ - Elasticsearch Service - *Run and scale Elasticsearch clusters*
+ - Kinesis - *Work with real-time streaming data*
+ - QuickSight - *Fast, easy to use business analytics*
+ - Data Pipeline - *Orchestration for data-driven workflows*
+ - AWS Glue - *Fully managed   [ETL(https://en.wikipedia.org/wiki/Extract,_transform,_load)
+   (extract, transform and load) service*
 
 **SECURITY IDENTITY & COMPLIANCE**
 
@@ -210,10 +206,10 @@ Amazon GameLift - *Deploy and scaled session-based multiplayer games*
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NzA4NDc0NiwtMTA1NDI1NTEzNiwxOT
-k4NDM3NDM5LDEwODI4NTgwODAsLTE3OTM5NzcxMzYsLTkzODY5
-NDczNiwtOTUzMzc4NzkyLDE5Mjg5MTAxNTcsLTE5ODQyNTk0NT
-ksNTczNTUxODAwLC0xMjU2MzU3MTQxLC0xOTg4NjI4MDQ3LDIw
-NDg0MzQ2OTYsNzE1MjkyMDg4LC0xODg5OTM2NDIyLDE1NDM0OD
-QyMDJdfQ==
+eyJoaXN0b3J5IjpbMzM0MDExNzI2LC0xMDU0MjU1MTM2LDE5OT
+g0Mzc0MzksMTA4Mjg1ODA4MCwtMTc5Mzk3NzEzNiwtOTM4Njk0
+NzM2LC05NTMzNzg3OTIsMTkyODkxMDE1NywtMTk4NDI1OTQ1OS
+w1NzM1NTE4MDAsLTEyNTYzNTcxNDEsLTE5ODg2MjgwNDcsMjA0
+ODQzNDY5Niw3MTUyOTIwODgsLTE4ODk5MzY0MjIsMTU0MzQ4ND
+IwMl19
 -->
