@@ -35,6 +35,7 @@ DynamoDB - *Managed NoSQL database*
 ElastiCache - *In-memory cache*
 
 Neptune - *Fast, reliable graph database build for the cloud*
+
 Amazon Redshift - *Fast, simple, cost-effective data warehousing*
 
 **MIGRATION**
@@ -164,5 +165,5 @@ Amazon GameLift -
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc3NTE5MDM0LDc4MjcyNTc1NF19
+eyJoaXN0b3J5IjpbNDc3NzM4NDA4LDI3NzUxOTAzNF19
 -->
