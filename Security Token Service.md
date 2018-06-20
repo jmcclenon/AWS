@@ -28,9 +28,11 @@ Grants users limited and temporary access to AWS resources. Users can come from 
 
 ---
 
+SCENARIOI
 
+You are hosting a company website on some EC2 web servers in your VPC. Users of the website must log in to the site which then authenticates against the com
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NDQ0MjQ0NiwxMDM3NjI3NDUsNjgwNz
-M5MTE4LDExNTczNTIzNjRdfQ==
+eyJoaXN0b3J5IjpbLTYyNDMwODE5NCwxNzk0NDQyNDQ2LDEwMz
+c2Mjc0NSw2ODA3MzkxMTgsMTE1NzM1MjM2NF19
 -->
