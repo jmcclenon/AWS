@@ -14,6 +14,7 @@ Grants users limited and temporary access to AWS resources. Users can come from 
 
 **Cross Account Access**
 
+- Lets users from one AWS account access resources in another AWS account.
 ---
 **Key Terms**
 
@@ -59,8 +60,8 @@ You are hosting a company website on some EC2 web servers in your VPC. Users of 
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMDQ0MjQyNiwxNzMzNjk1MDI1LDE1Mj
-A5MjM1ODcsOTE3Mzk0ODI4LC0xOTY4NDM5MzEsLTEwNDg3ODM3
-MTksMzQ1NzE1OTU1LC01NzQzODM0NywxNzk0NDQyNDQ2LDEwMz
-c2Mjc0NSw2ODA3MzkxMTgsMTE1NzM1MjM2NF19
+eyJoaXN0b3J5IjpbNjc5MzYxMTMwLDE3MzM2OTUwMjUsMTUyMD
+kyMzU4Nyw5MTczOTQ4MjgsLTE5Njg0MzkzMSwtMTA0ODc4Mzcx
+OSwzNDU3MTU5NTUsLTU3NDM4MzQ3LDE3OTQ0NDI0NDYsMTAzNz
+YyNzQ1LDY4MDczOTExOCwxMTU3MzUyMzY0XX0=
 -->
