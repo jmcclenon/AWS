@@ -224,22 +224,22 @@ WorkMail - *Secure email and calendaring service*
 
 **DESKTOP & APP STREAMING**
 
-WorkSpaces - Desktop in the cloud
+WorkSpaces - *Desktop in the cloud*
 
-AppStream 2.0 - Stream desktop applications securely to any browser
+AppStream 2.0 - *Stream desktop applications securely to any browser*
 
 **INTERNET of THINGS**
-IoT Core - Connect devices to the cloud
+IoT Core - *Connect devices to the cloud*
 
-IoT 1-Click - Trigger AWS Lambda functions from simple devices
+IoT 1-Click - *Trigger AWS Lambda functions from simple devices*
 
-IoT Device Management - Securely manage fleets as small as one device, or as broad as millions of devices
+IoT Device Management - *Securely manage fleets as small as one device, or as broad as millions of devices*
 
-IoT Analytics - Collect, preprocess, store, analyze and visualize data of IoT devices
+IoT Analytics - *Collect, preprocess, store, analyze and visualize data of IoT devices*
 
-Greengrass - Deploy and run code on your devices
+Greengrass - *Deploy and run code on your devices*
 
-Amazon FreeRTOS - Amazon FreeRTOS is an IoT Operating System for Microcontrollers
+Amazon FreeRTOS - *Amazon FreeRTOS is an IoT Operating System for Microcontrollers*
 
 **GAME DEVELOPMENT**
 
@@ -251,6 +251,6 @@ Amazon GameLift - Deploy and scaled session-based multiplayer games
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTgxMjUxNjYsNzE1MjkyMDg4LC0xOD
-g5OTM2NDIyLDE1NDM0ODQyMDJdfQ==
+eyJoaXN0b3J5IjpbLTg4MzMxMDIyMiw3MTUyOTIwODgsLTE4OD
+k5MzY0MjIsMTU0MzQ4NDIwMl19
 -->
