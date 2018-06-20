@@ -1,7 +1,7 @@
 # AWS
 Notes and Resources for AWS
 
-This respository is dedicated to all things pertaining to AWS certification. Topics will include such things as the AWS services list and descriptions, networking (VPC), Troubleshooting, programming, IPv4, IPv6, continuous delivery, exam guides, security, and best practices.
+This repository is dedicated to the Certified Developer credential for AWS. Th
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzA1NzUyOTBdfQ==
+eyJoaXN0b3J5IjpbLTM1NTc1Njc5NCwtMTg3MDU3NTI5MF19
 -->
