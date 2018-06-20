@@ -17,9 +17,8 @@ Created: 6/20/2018
 
 **STORAGE**
 
-S3 - *Scalable storage in the cloud*
-
-EFS - *Managed file storage for EC2*
+ - S3 - *Scalable storage in the cloud*
+ - EFS - *Managed file storage for EC2*
 
 Glacier - *Archive storage in the cloud*
 
@@ -252,7 +251,7 @@ Amazon GameLift - *Deploy and scaled session-based multiplayer games*
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MTQxNzMxMywtMTA1NDI1NTEzNiwxOT
+eyJoaXN0b3J5IjpbMTA2MzA0NDA5OSwtMTA1NDI1NTEzNiwxOT
 k4NDM3NDM5LDEwODI4NTgwODAsLTE3OTM5NzcxMzYsLTkzODY5
 NDczNiwtOTUzMzc4NzkyLDE5Mjg5MTAxNTcsLTE5ODQyNTk0NT
 ksNTczNTUxODAwLC0xMjU2MzU3MTQxLC0xOTg4NjI4MDQ3LDIw
