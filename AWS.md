@@ -169,7 +169,7 @@ Created: 6/20/2018
 
  - IoT Core - *Connect devices to the cloud*
  - IoT 1-Click - *Trigger AWS Lambda functions from simple devices*
- - IoT Device Management - *Securely manage fleets as small as onedevice, or as broad as millions of devices*
+ - IoT Device Management - *Securely manage fleets as small as one device, or as broad as millions of devices*
  - IoT Analytics - *Collect, preprocess, store, analyze and visualize
    data of IoT devices*
  - Greengrass - *Deploy and run code on your devices*
@@ -177,18 +177,16 @@ Created: 6/20/2018
 
 **GAME DEVELOPMENT**
 
-Amazon GameLift - *Deploy and scaled session-based multiplayer games*
-
-
+ - Amazon GameLift - *Deploy and scaled session-based multiplayer games*
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM1NjA0NjYzLDc5NTIxNjkyMiw0NDI0MT
-U0NDMsLTEwNTQyNTUxMzYsMTk5ODQzNzQzOSwxMDgyODU4MDgw
-LC0xNzkzOTc3MTM2LC05Mzg2OTQ3MzYsLTk1MzM3ODc5MiwxOT
-I4OTEwMTU3LC0xOTg0MjU5NDU5LDU3MzU1MTgwMCwtMTI1NjM1
-NzE0MSwtMTk4ODYyODA0NywyMDQ4NDM0Njk2LDcxNTI5MjA4OC
-wtMTg4OTkzNjQyMiwxNTQzNDg0MjAyXX0=
+eyJoaXN0b3J5IjpbLTEyMjUwOTU0Niw3OTUyMTY5MjIsNDQyND
+E1NDQzLC0xMDU0MjU1MTM2LDE5OTg0Mzc0MzksMTA4Mjg1ODA4
+MCwtMTc5Mzk3NzEzNiwtOTM4Njk0NzM2LC05NTMzNzg3OTIsMT
+kyODkxMDE1NywtMTk4NDI1OTQ1OSw1NzM1NTE4MDAsLTEyNTYz
+NTcxNDEsLTE5ODg2MjgwNDcsMjA0ODQzNDY5Niw3MTUyOTIwOD
+gsLTE4ODk5MzY0MjIsMTU0MzQ4NDIwMl19
 -->
