@@ -178,26 +178,23 @@ Mobile Analytics - Collect, view and export app analytics
 Amazon Sumerian - Build VR, AR, and 3D applications
 
 **APPLICATION INTEGRATION**
-Step Functions - 
-Amazon MQ - 
-Simple Notification Service - 
-Simple Queue Service - 
-SWF - 
-
+Step Functions - Coordinate distributed applications
+Amazon MQ - Managed message broker service for Apache ActiveMQ
+Simple Notification Service - SNS Pub/Sub, movile Push and SMS
+Simple Queue Service - SQS Managed message queues
+SWF - Workflow service for coordinating application components
 **CUSTOMER ENGAGEMENT**
-Amazon Connect - 
-Pinpoint - 
-Simple Email Service - 
-
+Amazon Connect - Amazon Connect is a contact center that enables engagement at any scale
+Pinpoint - Engage users via Email, SMS, Push & Analytics
+Simple Email Service - Email sending and receiving service
 **BUSINESS PRODUCTIVITY**
-Alexa for Business - 
-Amazon Chime - 
-WorkDocs - 
-WorkMail - 
-
+Alexa for Business - Alexa for business provides tools to manage Alexa in your organization
+Amazon Chime - Amazon Chime is a communications service that transforms online meetings
+WorkDocs - Secure enterprise storage and sharing service
+WorkMail - Secure email and calendaring service
 **DESKTOP & APP STREAMING**
-WorkSpaces - 
-AppStream 2.0 - 
+WorkSpaces - Desktop in the cloud
+AppStream 2.0 - Stream desktop applications securely to any browser
 
 **INTERNET of THINGS**
 IoT Core - 
@@ -216,6 +213,6 @@ Amazon GameLift -
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MDM3NTgwMywtMTg4OTkzNjQyMiwxNT
-QzNDg0MjAyXX0=
+eyJoaXN0b3J5IjpbLTEyMTA4Mjk3MzgsLTE4ODk5MzY0MjIsMT
+U0MzQ4NDIwMl19
 -->
