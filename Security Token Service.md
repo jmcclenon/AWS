@@ -30,7 +30,7 @@ Grants users limited and temporary access to AWS resources. Users can come from 
 
 SCENARIO
 
-You are hosting a company website on some EC2 web servers in your VPC. Users of the website must log in to the site which then authenticates against the companies active directory servers which are based on site at the companies headquaters. You VPC is connected to your company HQ via a secure IPSEC VPN. Once logged in the user can only have access to their own S3 bucket. How do you set this up?
+You are hosting a company website on some EC2 web servers in your VPC. Users of the website must log in to the site which then authenticates against the companies active directory servers which are based on site at the companies headquarters. You VPC is connected to your company HQ via a secure [IPSEC VPN](https://en.wikipedia.org/wiki/IPsec). Once logged in the user can only have access to their own S3 bucket. How do you set this up?
 
 1. Employee enters their username and password.
 2. The application calls an Identity Broker. The broker captures the username and password.
@@ -39,6 +39,6 @@ You are hosting a company website on some EC2 web servers in your VPC. Users of 
 5. The Security Token Service confirms that the policy of the IAM user making the call to GetFederationToken gives permission to create new tokens and then return four values to the application: An access key, a secret access key, a token, and a duration (the token's lifetime).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MDk0MjcxMSwxNzk0NDQyNDQ2LDEwMz
+eyJoaXN0b3J5IjpbMTYwNDE2MDIxMywxNzk0NDQyNDQ2LDEwMz
 c2Mjc0NSw2ODA3MzkxMTgsMTE1NzM1MjM2NF19
 -->
