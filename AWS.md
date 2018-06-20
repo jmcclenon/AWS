@@ -108,8 +108,11 @@ Kinesis Video Streams - *Capture, process, and store video streams for analytics
 MediaConvert - *Convert file-based content for broadcase and multiscreen delivery*
 
 MediaLive - *Convert video inputs into live outputs for broadcase and streaming delivery*
+
 MediaPackage - *Deliver video to many devices using just-in-time format conversion*
+
 MediaStore - *Store and deliver video assets for live or on-demand media workflows*
+
 MediaTailor - *Personalize and monetize multiscreen content with server-side ad insertion*
 
 **MACHINE LEARNING**
@@ -195,5 +198,5 @@ Amazon GameLift -
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Nzg1MDc2NTIsNDc3NzM4NDA4XX0=
+eyJoaXN0b3J5IjpbMTU0MzQ4NDIwMiwtMTY3ODUwNzY1Ml19
 -->
