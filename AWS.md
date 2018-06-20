@@ -199,7 +199,9 @@ Step Functions - Coordinate distributed applications
 Amazon MQ - Managed message broker service for Apache ActiveMQ
 
 Simple Notification Service - SNS Pub/Sub, movile Push and SMS
+
 Simple Queue Service - SQS Managed message queues
+
 SWF - Workflow service for coordinating application components
 **CUSTOMER ENGAGEMENT**
 Amazon Connect - Amazon Connect is a contact center that enables engagement at any scale
@@ -231,6 +233,6 @@ Amazon GameLift - Deploy and scaled session-based multiplayer games
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NDk1ODg0MCwtMTg4OTkzNjQyMiwxNT
-QzNDg0MjAyXX0=
+eyJoaXN0b3J5IjpbNzE1MjkyMDg4LDE5NjQ5NTg4NDAsLTE4OD
+k5MzY0MjIsMTU0MzQ4NDIwMl19
 -->
