@@ -13,9 +13,8 @@ Grants users limited and temporary access to AWS resources. Users can come from 
  - Use Facebook/Amazon/Google or other [OpenID](https://en.wikipedia.org/wiki/OpenID) providers to log in.
 
 **Cross Account Access**
-L
 
-** 
+ - Lets users from one AWS account access resources in another AWS  account.
 ---
 **Key Terms**
 
@@ -61,9 +60,9 @@ You are hosting a company website on some EC2 web servers in your VPC. Users of 
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzODQ5NTI4NiwtNDkwNTkwOTUyLDY3OT
-M2MTEzMCwxNzMzNjk1MDI1LDE1MjA5MjM1ODcsOTE3Mzk0ODI4
-LC0xOTY4NDM5MzEsLTEwNDg3ODM3MTksMzQ1NzE1OTU1LC01Nz
-QzODM0NywxNzk0NDQyNDQ2LDEwMzc2Mjc0NSw2ODA3MzkxMTgs
-MTE1NzM1MjM2NF19
+eyJoaXN0b3J5IjpbLTE3MzU0NjYzNjQsLTQ5MDU5MDk1Miw2Nz
+kzNjExMzAsMTczMzY5NTAyNSwxNTIwOTIzNTg3LDkxNzM5NDgy
+OCwtMTk2ODQzOTMxLC0xMDQ4NzgzNzE5LDM0NTcxNTk1NSwtNT
+c0MzgzNDcsMTc5NDQ0MjQ0NiwxMDM3NjI3NDUsNjgwNzM5MTE4
+LDExNTczNTIzNjRdfQ==
 -->
