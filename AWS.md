@@ -162,36 +162,36 @@ Cognito - *User identity and app data synchronization*
 
 Secrets Manager - *Easily rotate, manage, and retrieve secrets throughout their lifecycle*
 
-Guard Duty - Intelligent threat detection to protect your AWS accounts and workloads
+Guard Duty - *Intelligent threat detection to protect your AWS accounts and workloads*
 
-Inspector - Analyze application security
+Inspector - *Analyze application security*
 
-Amazon Macie - Amazon Macie classifies and secures your business-critical content
+Amazon Macie - *Amazon Macie classifies and secures your business-critical content*
 
-AWS Single Sign-On - Manage Single Sign-On (SSO) access to AWS accounts and business applications
+AWS Single Sign-On - *Manage Single Sign-On (SSO) access to AWS accounts and business applications*
 
-Certificate Manager - Provison, manage and deploy SSL/TLS certificates
+Certificate Manager - *Provison, manage and deploy SSL/TLS certificates*
 
-CloudHSM - Managed hardware security modules in the cloud
+CloudHSM - *Managed hardware security modules in the cloud*
 
-Directory Service - Host and manage Active Directory
+Directory Service - *Host and manage Active Directory*
 
-WAF & Shield - Protect against DDoS attacks and malicious web traffic
+WAF & Shield - *Protect against DDoS attacks and malicious web traffic*
 
-Artifact - AWS compliance reports and agreements
+Artifact - *AWS compliance reports and agreements*
 
 **MOBILE SERVICES**
 
-Mobile Hub - Build, test and monitor mobile apps
+Mobile Hub - *Build, test and monitor mobile apps*
 
-AWS AppSync - Real-time data synch using GraphQL for mobile & web apps, online and offline
+AWS AppSync - *Real-time data synch using GraphQL for mobile & web apps, online and offline*
 
-Device Farm - Test Android, iOS, and web apps on real devices in the cloud
+Device Farm - *Test Android, iOS, and web apps on real devices in the cloud*
 
-Mobile Analytics - Collect, view and export app analytics
+Mobile Analytics - *Collect, view and export app analytics*
 
 **AR & VR**
-Amazon Sumerian - Build VR, AR, and 3D applications
+Amazon Sumerian - *Build VR, AR, and 3D applications*
 
 **APPLICATION INTEGRATION**
 Step Functions - Coordinate distributed applications
@@ -251,6 +251,6 @@ Amazon GameLift - Deploy and scaled session-based multiplayer games
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMxMzg2MzgyLDcxNTI5MjA4OCwtMTg4OT
-kzNjQyMiwxNTQzNDg0MjAyXX0=
+eyJoaXN0b3J5IjpbLTE0NDM1OTg4MzgsNzE1MjkyMDg4LC0xOD
+g5OTM2NDIyLDE1NDM0ODQyMDJdfQ==
 -->
