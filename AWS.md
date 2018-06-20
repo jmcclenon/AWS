@@ -39,44 +39,74 @@ Neptune - *Fast, reliable graph database build for the cloud*
 Amazon Redshift - *Fast, simple, cost-effective data warehousing*
 
 **MIGRATION**
+
 AWS Migration Hub - *Simplify and accelerate the migration of your data centers to AWS*
+
 Application Discovery Service - *Discover on-premises application inventory and dependencies*
+
 Database Migration Service - *Managed database migration service*
+
 Server Migration Service - *Migrate on-premises servers to AWS*
 Snowball - *Large scale data transport*
 
 **NETWORKING & CONTENT DELIVERY**
+
 VPC - *Isolated cloud resources*
+
 CloudFront - *Global content delivery network*
+
 Route 53 - *Scalable dns and domain name registration*
+
 API Gateway - *Build, deploy and manage APIs*
+
 Direct Connect - *Dedicated network connection to AWS*
 
 **DEVELOPER TOOLS**
+
 CodeStar - *Quickly develop, build, and deploy applications*
+
 CodeCommit - *Store Code in private GIT repositories*
+
 CodeBuild - *Build and test code*
+
 CodeDeploy - *Automate code deployments*
+
 CodePipeline - *Release software using continous delivery*
+
 Cloud9 - *A cloud IDE for writing, running, and debugging code*
+
 X-Ray - *Analyze and debug your applications*
 
 **MANAGEMENT TOOLS**
+
 CloudWatch - *Monitor resources and applications*
+
 AWS Auto Scaling - *AWS auto scaling enables you to quickly scale your entire application on AWS*
+
 CloudFormation - *Create and manage resources with templates*
+
 CloudTrail - *Track user activity and API Usage*
+
 Config - *Track Resource Inventory and changes*
+
 OpsWorks - *Configuration management with Chef and Puppet*
+
 Service Catalog - *Create and use standardized products*
+
 Systems Manager - *AWS systems manager is a central place to view and manage AWS resources* 
+
 Trusted Advisor - *Optimize performance and security*
+
 Managed Services - *IT operations management for AWS*
 
 **MEDIA SERVICES**
+
 Elastic Transcoder - *Easy-to-use scalable media transcoding*
+
 Kinesis Video Streams - *Capture, process, and store video streams for analytics and machine learning*
+
 MediaConvert - *Convert file-based content for broadcase and multiscreen delivery*
+
 MediaLive - *Convert video inputs into live outputs for broadcase and streaming delivery*
 MediaPackage - *Deliver video to many devices using just-in-time format conversion*
 MediaStore - *Store and deliver video assets for live or on-demand media workflows*
@@ -165,5 +195,5 @@ Amazon GameLift -
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc3NzM4NDA4LDI3NzUxOTAzNF19
+eyJoaXN0b3J5IjpbLTE2Nzg1MDc2NTIsNDc3NzM4NDA4XX0=
 -->
