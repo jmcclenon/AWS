@@ -190,8 +190,10 @@ Device Farm - *Test Android, iOS, and web apps on real devices in the cloud*
 
 Mobile Analytics - *Collect, view and export app analytics*
 
+
 **AR & VR**
 Amazon Sumerian - *Build VR, AR, and 3D applications*
+
 
 **APPLICATION INTEGRATION**
 Step Functions - *Coordinate distributed applications*
@@ -243,7 +245,7 @@ Amazon FreeRTOS - *Amazon FreeRTOS is an IoT Operating System for Microcontrolle
 
 **GAME DEVELOPMENT**
 
-Amazon GameLift - Deploy and scaled session-based multiplayer games
+Amazon GameLift - *Deploy and scaled session-based multiplayer games*
 
 
 
@@ -251,6 +253,6 @@ Amazon GameLift - Deploy and scaled session-based multiplayer games
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MzMxMDIyMiw3MTUyOTIwODgsLTE4OD
+eyJoaXN0b3J5IjpbMjA0ODQzNDY5Niw3MTUyOTIwODgsLTE4OD
 k5MzY0MjIsMTU0MzQ4NDIwMl19
 -->
