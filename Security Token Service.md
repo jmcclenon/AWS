@@ -40,10 +40,12 @@ You are hosting a company website on some EC2 web servers in your VPC. Users of 
 6. The Identity Broker returns the temporary security credentials to the reporting application.
 7. The data storage application uses the temporary security credentials (including the token) to make requests to Amazon S3.
 8. Amazon S3 uses IAM to verify that the credentials allow the requested operation on the given S3 bucket and key.
-9. IAM 
+9. IAM provides S3 with the go-ahead to perform the requested operation.
+
+  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzQ2NzQzMDgsLTU3NDM4MzQ3LDE3OT
+eyJoaXN0b3J5IjpbLTIwNzMyNzk3NTksLTU3NDM4MzQ3LDE3OT
 Q0NDI0NDYsMTAzNzYyNzQ1LDY4MDczOTExOCwxMTU3MzUyMzY0
 XX0=
 -->
