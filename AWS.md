@@ -6,13 +6,14 @@ Created: 6/20/2018
 
 **COMPUTE**
 
-EC2 - *Virtual servers in the cloud*
-Lightsail - *Launch and manage virtual private servers*
-Elastic Container Service - *Run and manage [Docker](https://www.docker.com/) containers*
-EKS - *Managed [Kubernetes](https://kubernetes.io/) on AWS*
-Lambda - *Run code without thinking about servers*
-Batch - *Run batch jobs at any scale*
-Elastic Beanstalk - *Run and manage web apps*
+ - EC2 - *Virtual servers in the cloud*
+ - Lightsail - *Launch and manage virtual private servers*
+ - Elastic Container Service - *Run and manage
+   [Docker](https://www.docker.com/) containers*
+ - EKS - *Managed [Kubernetes](https://kubernetes.io/) on AWS*
+ - Lambda - *Run code without thinking about servers*
+ - Batch - *Run batch jobs at any scale*
+ - Elastic Beanstalk - *Run and manage web apps*
 
 **STORAGE**
 
@@ -251,10 +252,10 @@ Amazon GameLift - *Deploy and scaled session-based multiplayer games*
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTYzNDkxNTIsLTEwNTQyNTUxMzYsMT
-k5ODQzNzQzOSwxMDgyODU4MDgwLC0xNzkzOTc3MTM2LC05Mzg2
-OTQ3MzYsLTk1MzM3ODc5MiwxOTI4OTEwMTU3LC0xOTg0MjU5ND
-U5LDU3MzU1MTgwMCwtMTI1NjM1NzE0MSwtMTk4ODYyODA0Nywy
-MDQ4NDM0Njk2LDcxNTI5MjA4OCwtMTg4OTkzNjQyMiwxNTQzND
-g0MjAyXX0=
+eyJoaXN0b3J5IjpbMTU1MTQxNzMxMywtMTA1NDI1NTEzNiwxOT
+k4NDM3NDM5LDEwODI4NTgwODAsLTE3OTM5NzcxMzYsLTkzODY5
+NDczNiwtOTUzMzc4NzkyLDE5Mjg5MTAxNTcsLTE5ODQyNTk0NT
+ksNTczNTUxODAwLC0xMjU2MzU3MTQxLC0xOTg4NjI4MDQ3LDIw
+NDg0MzQ2OTYsNzE1MjkyMDg4LC0xODg5OTM2NDIyLDE1NDM0OD
+QyMDJdfQ==
 -->
