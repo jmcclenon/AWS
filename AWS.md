@@ -149,17 +149,17 @@ Created: 6/20/2018
 
 **CUSTOMER ENGAGEMENT**
 
-Amazon Connect - *Amazon Connect is a contact center that enables engagement at any scale*
-
-Pinpoint - *Engage users via Email, SMS, Push & Analytics*
-
-Simple Email Service - *Email sending and receiving service*
+ - Amazon Connect - *Amazon Connect is a contact center that enables engagement at any scale*
+ - Pinpoint - *Engage users via Email, SMS, Push & Analytics*
+ - Simple Email Service - *Email sending and receiving service*
 
 **BUSINESS PRODUCTIVITY**
 
-Alexa for Business - *Alexa for business provides tools to manage Alexa in your organization*
+ - Alexa for Business - *Alexa for business provides tools to manage
+   Alexa in your organization*
 
-Amazon Chime - *Amazon Chime is a communications service that transforms online meetings*
+ - Amazon Chime - *Amazon Chime is a communications service that
+   transforms online meetings*
 
 WorkDocs - *Secure enterprise storage and sharing service*
 
@@ -194,10 +194,10 @@ Amazon GameLift - *Deploy and scaled session-based multiplayer games*
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk1MjE2OTIyLDQ0MjQxNTQ0MywtMTA1ND
-I1NTEzNiwxOTk4NDM3NDM5LDEwODI4NTgwODAsLTE3OTM5Nzcx
-MzYsLTkzODY5NDczNiwtOTUzMzc4NzkyLDE5Mjg5MTAxNTcsLT
-E5ODQyNTk0NTksNTczNTUxODAwLC0xMjU2MzU3MTQxLC0xOTg4
-NjI4MDQ3LDIwNDg0MzQ2OTYsNzE1MjkyMDg4LC0xODg5OTM2ND
-IyLDE1NDM0ODQyMDJdfQ==
+eyJoaXN0b3J5IjpbLTEzNzAwOTgzMjMsNzk1MjE2OTIyLDQ0Mj
+QxNTQ0MywtMTA1NDI1NTEzNiwxOTk4NDM3NDM5LDEwODI4NTgw
+ODAsLTE3OTM5NzcxMzYsLTkzODY5NDczNiwtOTUzMzc4NzkyLD
+E5Mjg5MTAxNTcsLTE5ODQyNTk0NTksNTczNTUxODAwLC0xMjU2
+MzU3MTQxLC0xOTg4NjI4MDQ3LDIwNDg0MzQ2OTYsNzE1MjkyMD
+g4LC0xODg5OTM2NDIyLDE1NDM0ODQyMDJdfQ==
 -->
