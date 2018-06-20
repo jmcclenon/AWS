@@ -60,25 +60,21 @@ Created: 6/20/2018
 **MANAGEMENT TOOLS**
 
  - CloudWatch - *Monitor resources and applications*
-
- - AWS Auto Scaling - *AWS auto scaling enables you to quickly scale
-   your entire application on AWS*
-
+ - AWS Auto Scaling - *AWS auto scaling enables you to quickly scale your entire application on AWS*
  - CloudFormation - *Create and manage resources with templates*
-
  - CloudTrail - *Track user activity and API Usage*
-
  - Config - *Track Resource Inventory and changes*
+ - OpsWorks - *Configuration management with
+   [Chef](https://en.wikipedia.org/wiki/Chef_%28software%29) and  [Puppet](https://en.wikipedia.org/wiki/Puppet_%28software%29)*
 
-OpsWorks - *Configuration management with [Chef](https://en.wikipedia.org/wiki/Chef_%28software%29) and [Puppet](https://en.wikipedia.org/wiki/Puppet_%28software%29)*
+ - Service Catalog - *Create and use standardized products*
 
-Service Catalog - *Create and use standardized products*
+ - Systems Manager - *AWS systems manager is a central place to view and
+   manage AWS resources*
 
-Systems Manager - *AWS systems manager is a central place to view and manage AWS resources* 
+ - Trusted Advisor - *Optimize performance and security*
 
-Trusted Advisor - *Optimize performance and security*
-
-Managed Services - *IT operations management for AWS*
+ - Managed Services - *IT operations management for AWS*
 
 **MEDIA SERVICES**
 
@@ -234,7 +230,7 @@ Amazon GameLift - *Deploy and scaled session-based multiplayer games*
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NDU2NDgxOSwtMTA1NDI1NTEzNiwxOT
+eyJoaXN0b3J5IjpbMTM5MTcyNzg5MCwtMTA1NDI1NTEzNiwxOT
 k4NDM3NDM5LDEwODI4NTgwODAsLTE3OTM5NzcxMzYsLTkzODY5
 NDczNiwtOTUzMzc4NzkyLDE5Mjg5MTAxNTcsLTE5ODQyNTk0NT
 ksNTczNTUxODAwLC0xMjU2MzU3MTQxLC0xOTg4NjI4MDQ3LDIw
