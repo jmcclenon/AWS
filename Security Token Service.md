@@ -38,10 +38,12 @@ You are hosting a company website on some EC2 web servers in your VPC. Users of 
 4. The Identity Broker calls the new [GetFederationToken](https://docs.aws.amazon.com/STS/latest/APIReference/API_GetFederationToken.html) function using IAM credentials. The call must include an IAM policy and a duration (1 to 36 hours), along with a policy that specifies the permissions to be granted to the temporary security credentials.
 5. The Security Token Service confirms that the policy of the IAM user making the call to GetFederationToken gives permission to create new tokens and then return four values to the application: An access key, a secret access key, a token, and a duration (the token's lifetime).
 6. The Identity Broker returns the temporary security credentials to the reporting application.
-7. The data storage application uses the
+7. The data storage application uses the temporary security credentials (including the token) to make requests to Amazon S3.
+8. Amazon S3 uses IAM to verify that the credentials allow the requested operation on the given S3 bucket and key.
+9. IAM 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUzNTUzNzgwLC01NzQzODM0NywxNzk0ND
-QyNDQ2LDEwMzc2Mjc0NSw2ODA3MzkxMTgsMTE1NzM1MjM2NF19
-
+eyJoaXN0b3J5IjpbLTExMzQ2NzQzMDgsLTU3NDM4MzQ3LDE3OT
+Q0NDI0NDYsMTAzNzYyNzQ1LDY4MDczOTExOCwxMTU3MzUyMzY0
+XX0=
 -->
