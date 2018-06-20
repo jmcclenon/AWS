@@ -30,7 +30,7 @@ Storage Gateway - *Hybrid storage integration*
 
 RDS - *Managed relational database service*
 
-DynamoDB - *Managed NoSQL database*
+DynamoDB - *Managed [NoSQL](https://en.wikipedia.org/wiki/NoSQL) database*
 
 ElastiCache - *In-memory cache*
 
@@ -253,6 +253,6 @@ Amazon GameLift - *Deploy and scaled session-based multiplayer games*
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0ODQzNDY5Niw3MTUyOTIwODgsLTE4OD
-k5MzY0MjIsMTU0MzQ4NDIwMl19
+eyJoaXN0b3J5IjpbLTE5ODg2MjgwNDcsMjA0ODQzNDY5Niw3MT
+UyOTIwODgsLTE4ODk5MzY0MjIsMTU0MzQ4NDIwMl19
 -->
