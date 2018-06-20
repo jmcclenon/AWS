@@ -8,7 +8,7 @@ Created: 6/20/2018
 
 EC2 - *Virtual servers in the cloud*
 
-Lightsail - *Launch and manaage virtual private servers*
+Lightsail - *Launch and manage virtual private servers*
 
 Elastic Container Service - *Run and manage [Docker](https://www.docker.com/) containers*
 
@@ -257,9 +257,9 @@ Amazon GameLift - *Deploy and scaled session-based multiplayer games*
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5ODQzNzQzOSwxMDgyODU4MDgwLC0xNz
-kzOTc3MTM2LC05Mzg2OTQ3MzYsLTk1MzM3ODc5MiwxOTI4OTEw
-MTU3LC0xOTg0MjU5NDU5LDU3MzU1MTgwMCwtMTI1NjM1NzE0MS
-wtMTk4ODYyODA0NywyMDQ4NDM0Njk2LDcxNTI5MjA4OCwtMTg4
-OTkzNjQyMiwxNTQzNDg0MjAyXX0=
+eyJoaXN0b3J5IjpbLTEwNTQyNTUxMzYsMTk5ODQzNzQzOSwxMD
+gyODU4MDgwLC0xNzkzOTc3MTM2LC05Mzg2OTQ3MzYsLTk1MzM3
+ODc5MiwxOTI4OTEwMTU3LC0xOTg0MjU5NDU5LDU3MzU1MTgwMC
+wtMTI1NjM1NzE0MSwtMTk4ODYyODA0NywyMDQ4NDM0Njk2LDcx
+NTI5MjA4OCwtMTg4OTkzNjQyMiwxNTQzNDg0MjAyXX0=
 -->
