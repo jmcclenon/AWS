@@ -1,7 +1,6 @@
 # Read Me
 **Notes and Resources for AWS Certified Developer**
 
-
 This repository is dedicated to the Certified Developer Associate credential for AWS. The repo uses the [ACloudGuru](https://acloud.guru/dashboard) Udemy course as the source of the material.
 
 These are the notes that I am taking as I am viewing the course. When I run into important concepts, terms, books, and other resources, they will be listed here.
@@ -10,6 +9,6 @@ The [Geekbooks](https://www.geekbooks.me/) website has a large collection of boo
 
 I will also list some of the more important whitepapers that have been published by AWS, and provide links to them.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE0NzcyMTgxLDE5NTMzMTM4NDgsODgxNz
-QwNzIzLC0xODcwNTc1MjkwXX0=
+eyJoaXN0b3J5IjpbLTY0OTI1NDI5NywxOTUzMzEzODQ4LDg4MT
+c0MDcyMywtMTg3MDU3NTI5MF19
 -->
