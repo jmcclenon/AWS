@@ -89,7 +89,7 @@ CloudTrail - *Track user activity and API Usage*
 
 Config - *Track Resource Inventory and changes*
 
-OpsWorks - *Configuration management with Chef and Puppet*
+OpsWorks - *Configuration management with [Chef](https://en.wikipedia.org/wiki/Chef_%28software%29) and Puppet*
 
 Service Catalog - *Create and use standardized products*
 
@@ -253,7 +253,7 @@ Amazon GameLift - *Deploy and scaled session-based multiplayer games*
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMzcyNjM0MiwtMTk4ODYyODA0NywyMD
+eyJoaXN0b3J5IjpbMTc4MDM1NDExOSwtMTk4ODYyODA0NywyMD
 Q4NDM0Njk2LDcxNTI5MjA4OCwtMTg4OTkzNjQyMiwxNTQzNDg0
 MjAyXX0=
 -->
