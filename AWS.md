@@ -121,7 +121,7 @@ Amazon SageMaker - *Build, train, and deploy [machine learning](https://en.wikip
 
 Amazon Comprehend - *Analyze unstructured text*
 
-AWS DeepLens - *Deep larning enabled video camera*
+AWS DeepLens - *[Deep larning](https://en.wikipedia.org/wiki/Deep_learning) enabled video camera*
 
 Amazon Lex - *Build voice and text chatbots*
 
@@ -253,7 +253,7 @@ Amazon GameLift - *Deploy and scaled session-based multiplayer games*
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODQ0NjEyNDgsLTE5ODg2MjgwNDcsMj
+eyJoaXN0b3J5IjpbLTEyNTYzNTcxNDEsLTE5ODg2MjgwNDcsMj
 A0ODQzNDY5Niw3MTUyOTIwODgsLTE4ODk5MzY0MjIsMTU0MzQ4
 NDIwMl19
 -->
