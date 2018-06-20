@@ -71,7 +71,7 @@ CodeBuild - *Build and test code*
 
 CodeDeploy - *Automate code deployments*
 
-CodePipeline - *Release software using continuous delivery*
+CodePipeline - *Release software using [continuous delivery](https://en.wikipedia.org/wiki/Continuous_delivery)*
 
 Cloud9 - *A cloud [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment) for writing, running, and debugging code*
 
@@ -253,8 +253,9 @@ Amazon GameLift - *Deploy and scaled session-based multiplayer games*
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzODY5NDczNiwtOTUzMzc4NzkyLDE5Mj
-g5MTAxNTcsLTE5ODQyNTk0NTksNTczNTUxODAwLC0xMjU2MzU3
-MTQxLC0xOTg4NjI4MDQ3LDIwNDg0MzQ2OTYsNzE1MjkyMDg4LC
-0xODg5OTM2NDIyLDE1NDM0ODQyMDJdfQ==
+eyJoaXN0b3J5IjpbLTE3OTM5NzcxMzYsLTkzODY5NDczNiwtOT
+UzMzc4NzkyLDE5Mjg5MTAxNTcsLTE5ODQyNTk0NTksNTczNTUx
+ODAwLC0xMjU2MzU3MTQxLC0xOTg4NjI4MDQ3LDIwNDg0MzQ2OT
+YsNzE1MjkyMDg4LC0xODg5OTM2NDIyLDE1NDM0ODQyMDJdfQ==
+
 -->
