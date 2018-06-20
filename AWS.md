@@ -1,4 +1,5 @@
 ## Amazon AWS Services
+This is an overview of all of the current services on Amazon Web Services. The descriptions are from the 
 
 **COMPUTE**
 
@@ -253,9 +254,9 @@ Amazon GameLift - *Deploy and scaled session-based multiplayer games*
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTM5NzcxMzYsLTkzODY5NDczNiwtOT
-UzMzc4NzkyLDE5Mjg5MTAxNTcsLTE5ODQyNTk0NTksNTczNTUx
-ODAwLC0xMjU2MzU3MTQxLC0xOTg4NjI4MDQ3LDIwNDg0MzQ2OT
-YsNzE1MjkyMDg4LC0xODg5OTM2NDIyLDE1NDM0ODQyMDJdfQ==
-
+eyJoaXN0b3J5IjpbLTE2NjE3MDI0NzEsLTE3OTM5NzcxMzYsLT
+kzODY5NDczNiwtOTUzMzc4NzkyLDE5Mjg5MTAxNTcsLTE5ODQy
+NTk0NTksNTczNTUxODAwLC0xMjU2MzU3MTQxLC0xOTg4NjI4MD
+Q3LDIwNDg0MzQ2OTYsNzE1MjkyMDg4LC0xODg5OTM2NDIyLDE1
+NDM0ODQyMDJdfQ==
 -->
