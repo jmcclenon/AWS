@@ -18,7 +18,7 @@ Grants users limited and temporary access to AWS resources. Users can come from 
 ---
 **Key Terms**
 
- - Federation: Combining or joining a list of users in one domain (such   as IAM) with a list of users in another domain (such as Active  Directory, Facebook, etc.)
+ - [Federation](https://en.wikipedia.org/wiki/Federation_%28information_technology%29): Combining or joining a list of users in one domain (such   as IAM) with a list of users in another domain (such as Active  Directory, Facebook, etc.)
 
 - Identity Broker: A service that allows you to take an identity from point A and join it (federate it) to point B
 
@@ -27,6 +27,6 @@ Grants users limited and temporary access to AWS resources. Users can come from 
 - Identities: a user of service like Facebook, etc.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNzYyNzQ1LDY4MDczOTExOCwxMTU3Mz
-UyMzY0XX0=
+eyJoaXN0b3J5IjpbLTIwNTg2MDY2MzUsMTAzNzYyNzQ1LDY4MD
+czOTExOCwxMTU3MzUyMzY0XX0=
 -->
