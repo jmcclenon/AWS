@@ -45,7 +45,10 @@ Scenario 1 Answer
 
 Scenario 2 Answer
 
-1.  Develop an Identity Broker to communicate with LDAP and 
+1.  Develop an Identity Broker to communicate with LDAP and AWS STS.
+2. Identity Broker always authenticates with LDAP first, gets an IAM Role associated with the user.
+3. Application then authenticates with STS and assumes that IAM role.
+4. Application user
 
 **STEPS (Distilled)**
 
@@ -56,7 +59,7 @@ Scenario 2 Answer
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMDcyOTAwMCwtMTk2ODQzOTMxLC0xMD
-Q4NzgzNzE5LDM0NTcxNTk1NSwtNTc0MzgzNDcsMTc5NDQ0MjQ0
-NiwxMDM3NjI3NDUsNjgwNzM5MTE4LDExNTczNTIzNjRdfQ==
+eyJoaXN0b3J5IjpbNzk2NDc3NjUwLC0xOTY4NDM5MzEsLTEwND
+g3ODM3MTksMzQ1NzE1OTU1LC01NzQzODM0NywxNzk0NDQyNDQ2
+LDEwMzc2Mjc0NSw2ODA3MzkxMTgsMTE1NzM1MjM2NF19
 -->
