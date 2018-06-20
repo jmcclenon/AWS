@@ -155,23 +155,39 @@ Data Pipeline - *Orchestration for data-driven workflows*
 AWS Glue - *Fully managed ETL (extract, transform and load) service*
 
 **SECURITY IDENTITY & COMPLIANCE**
+
 IAM - Manage user access and encryption keys
+
 Cognito - User identity and app data synchronization
+
 Secrets Manager - Easily rotate, manage, and retrieve secrets throughout their lifecycle
+
 Guard Duty - Intelligent threat detection to protect your AWS accounts and workloads
+
 Inspector - Analyze application security
+
 Amazon Macie - Amazon Macie classifies and secures your business-critical content
+
 AWS Single Sign-On - Manage Single Sign-On (SSO) access to AWS accounts and business applications
+
 Certificate Manager - Provison, manage and deploy SSL/TLS certificates
+
 CloudHSM - Managed hardware security modules in the cloud
+
 Directory Service - Host and manage Active Directory
+
 WAF & Shield - Protect against DDoS attacks and malicious web traffic
+
 Artifact - AWS compliance reports and agreements
 
 **MOBILE SERVICES**
+
 Mobile Hub - Build, test and monitor mobile apps
+
 AWS AppSync - Real-time data synch using GraphQL for mobile & web apps, online and offline
+
 Device Farm - Test Android, iOS, and web apps on real devices in the cloud
+
 Mobile Analytics - Collect, view and export app analytics
 
 **AR & VR**
@@ -179,7 +195,9 @@ Amazon Sumerian - Build VR, AR, and 3D applications
 
 **APPLICATION INTEGRATION**
 Step Functions - Coordinate distributed applications
+
 Amazon MQ - Managed message broker service for Apache ActiveMQ
+
 Simple Notification Service - SNS Pub/Sub, movile Push and SMS
 Simple Queue Service - SQS Managed message queues
 SWF - Workflow service for coordinating application components
@@ -197,15 +215,15 @@ WorkSpaces - Desktop in the cloud
 AppStream 2.0 - Stream desktop applications securely to any browser
 
 **INTERNET of THINGS**
-IoT Core - 
-IoT 1-Click - 
-IoT Device Management - 
-IoT Analytics - 
-Greengrass - 
-Amazon FreeRTOS - 
+IoT Core - Connect devices to the cloud
+IoT 1-Click - Trigger AWS Lambda functions from simple devices
+IoT Device Management - Securely manage fleets as small as one device, or as broad as millions of devices
+IoT Analytics - Collect, preprocess, store, analyze and visualize data of IoT devices
+Greengrass - Deploy and run code on your devices
+Amazon FreeRTOS - Amazon FreeRTOS is an IoT Operating System for Microcontrollers
 
 **GAME DEVELOPMENT**
-Amazon GameLift - 
+Amazon GameLift - Deploy and scaled session-based multiplayer games
 
 
 
@@ -213,6 +231,6 @@ Amazon GameLift -
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTA4Mjk3MzgsLTE4ODk5MzY0MjIsMT
-U0MzQ4NDIwMl19
+eyJoaXN0b3J5IjpbMTk2NDk1ODg0MCwtMTg4OTkzNjQyMiwxNT
+QzNDg0MjAyXX0=
 -->
