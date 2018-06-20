@@ -141,16 +141,12 @@ Created: 6/20/2018
 **APPLICATION INTEGRATION**
 
  - Step Functions - *Coordinate distributed applications*
-
  - Amazon MQ - *Managed message broker service for [Apache
    ActiveMQ](https://en.wikipedia.org/wiki/Apache_ActiveMQ)*
+ - Simple Notification Service -   *SNS   Pub/Sub, mobile Push and [SMS](https://en.wikipedia.org/wiki/SMS)*
+ - Simple Queue Service -   *[SQS](https://en.wikipedia.org/wiki/Amazon_Simple_Queue_Service) Managed message queues*
 
- - Simple Notification Service -   *[SNS] https://en.wikipedia.org/wiki/Amazon_Simple_Notification_Service)
-   Pub/Sub, mobile Push and [SMS](https://en.wikipedia.org/wiki/SMS)*
-
-Simple Queue Service - *[SQS](https://en.wikipedia.org/wiki/Amazon_Simple_Queue_Service) Managed message queues*
-
-SWF - *Workflow service for coordinating application components*
+ - SWF - *Workflow service for coordinating application components*
 
 **CUSTOMER ENGAGEMENT**
 
@@ -199,10 +195,10 @@ Amazon GameLift - *Deploy and scaled session-based multiplayer games*
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTcxOTQzMyw0NDI0MTU0NDMsLTEwNT
-QyNTUxMzYsMTk5ODQzNzQzOSwxMDgyODU4MDgwLC0xNzkzOTc3
-MTM2LC05Mzg2OTQ3MzYsLTk1MzM3ODc5MiwxOTI4OTEwMTU3LC
-0xOTg0MjU5NDU5LDU3MzU1MTgwMCwtMTI1NjM1NzE0MSwtMTk4
-ODYyODA0NywyMDQ4NDM0Njk2LDcxNTI5MjA4OCwtMTg4OTkzNj
-QyMiwxNTQzNDg0MjAyXX0=
+eyJoaXN0b3J5IjpbNTUyMjQ0ODcyLDQ0MjQxNTQ0MywtMTA1ND
+I1NTEzNiwxOTk4NDM3NDM5LDEwODI4NTgwODAsLTE3OTM5Nzcx
+MzYsLTkzODY5NDczNiwtOTUzMzc4NzkyLDE5Mjg5MTAxNTcsLT
+E5ODQyNTk0NTksNTczNTUxODAwLC0xMjU2MzU3MTQxLC0xOTg4
+NjI4MDQ3LDIwNDg0MzQ2OTYsNzE1MjkyMDg4LC0xODg5OTM2ND
+IyLDE1NDM0ODQyMDJdfQ==
 -->
