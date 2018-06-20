@@ -108,23 +108,31 @@ Created: 6/20/2018
 
 **SECURITY IDENTITY & COMPLIANCE**
 
-IAM - *Manage user access and [encryption](https://en.wikipedia.org/wiki/Public-key_cryptography) keys*
+ - IAM - *Manage user access and [encryption](https://en.wikipedia.org/wiki/Public-key_cryptography)
+   keys*
 
-Cognito - *User identity and app data synchronization*
+ - Cognito - *User identity and app data synchronization*
 
-Secrets Manager - *Easily rotate, manage, and retrieve secrets throughout their lifecycle*
+ - Secrets Manager - *Easily rotate, manage, and retrieve secrets
+   throughout their lifecycle*
 
-Guard Duty - *Intelligent threat detection to protect your AWS accounts and workloads*
+ - Guard Duty - *Intelligent threat detection to protect your AWS
+   accounts and workloads*
 
-Inspector - *Analyze application security*
+ - Inspector - *Analyze application security*
 
-Amazon Macie - *Amazon Macie classifies and secures your business-critical content*
+ - Amazon Macie - *Amazon Macie classifies and secures your
+   business-critical content*
 
-AWS Single Sign-On - *Manage Single Sign-On ([SSO](https://en.wikipedia.org/wiki/Single_sign-on)) access to AWS accounts and business applications*
+ - AWS Single Sign-On - *Manage Single Sign-On
+   ([SSO](https://en.wikipedia.org/wiki/Single_sign-on)) access to AWS
+   accounts and business applications*
 
-Certificate Manager - *Provision,, manage and deploy [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) certificates*
+ - Certificate Manager - *Provision,, manage and deploy
+   [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security)
+   certificates*
 
-CloudHSM - *Managed hardware security modules in the cloud*
+ - CloudHSM - *Managed hardware security modules in the cloud*
 
 Directory Service - *Host and manage [Active Directory](https://en.wikipedia.org/wiki/Active_Directory)*
 
@@ -205,10 +213,10 @@ Amazon GameLift - *Deploy and scaled session-based multiplayer games*
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQyNDE1NDQzLC0xMDU0MjU1MTM2LDE5OT
-g0Mzc0MzksMTA4Mjg1ODA4MCwtMTc5Mzk3NzEzNiwtOTM4Njk0
-NzM2LC05NTMzNzg3OTIsMTkyODkxMDE1NywtMTk4NDI1OTQ1OS
-w1NzM1NTE4MDAsLTEyNTYzNTcxNDEsLTE5ODg2MjgwNDcsMjA0
-ODQzNDY5Niw3MTUyOTIwODgsLTE4ODk5MzY0MjIsMTU0MzQ4ND
-IwMl19
+eyJoaXN0b3J5IjpbLTE1MDMwMDAxODgsNDQyNDE1NDQzLC0xMD
+U0MjU1MTM2LDE5OTg0Mzc0MzksMTA4Mjg1ODA4MCwtMTc5Mzk3
+NzEzNiwtOTM4Njk0NzM2LC05NTMzNzg3OTIsMTkyODkxMDE1Ny
+wtMTk4NDI1OTQ1OSw1NzM1NTE4MDAsLTEyNTYzNTcxNDEsLTE5
+ODg2MjgwNDcsMjA0ODQzNDY5Niw3MTUyOTIwODgsLTE4ODk5Mz
+Y0MjIsMTU0MzQ4NDIwMl19
 -->
