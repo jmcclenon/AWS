@@ -44,12 +44,14 @@ You are hosting a company website on some EC2 web servers in your VPC. Users of 
 
 STEPS (Distilled)
 
-1. Develop an Identity Broker to communicate with LDAP 
+1. Develop an Identity Broker to communicate with LDAP and AWS STS
+2. Identity Broker always authenticated with LDAP first, THEN with AWS STS
+3. Application then gets temporary access to AWS resources 
 
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MjQ3NzU0NCwtNTc0MzgzNDcsMTc5ND
+eyJoaXN0b3J5IjpbLTc0OTU2NjIyMSwtNTc0MzgzNDcsMTc5ND
 Q0MjQ0NiwxMDM3NjI3NDUsNjgwNzM5MTE4LDExNTczNTIzNjRd
 fQ==
 -->
