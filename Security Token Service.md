@@ -22,7 +22,7 @@ Grants users limited and temporary access to AWS resources. Users can come from 
 
 - [Identity Broker](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_common-scenarios_federated-users.html): A service that allows you to take an identity from point A and join it (federate it) to point B.
 
-- Identity Store: Services like Active Directory, Facebook, Google, etc.
+- [Identity Store](https://en.wikipedia.org/wiki/Identity_management_system): Services like Active Directory, Facebook, Google, etc.
 
 - Identities: a user of service like Facebook, etc.
 
@@ -51,7 +51,7 @@ You are hosting a company website on some EC2 web servers in your VPC. Users of 
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDg3ODM3MTksMzQ1NzE1OTU1LC01Nz
-QzODM0NywxNzk0NDQyNDQ2LDEwMzc2Mjc0NSw2ODA3MzkxMTgs
-MTE1NzM1MjM2NF19
+eyJoaXN0b3J5IjpbLTE5Njg0MzkzMSwtMTA0ODc4MzcxOSwzND
+U3MTU5NTUsLTU3NDM4MzQ3LDE3OTQ0NDI0NDYsMTAzNzYyNzQ1
+LDY4MDczOTExOCwxMTU3MzUyMzY0XX0=
 -->
