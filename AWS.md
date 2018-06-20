@@ -152,7 +152,7 @@ QuickSight - *Fast, easy to use business analytics*
 
 Data Pipeline - *Orchestration for data-driven workflows*
 
-AWS Glue - *Fully managed ETL (extract, transform and load) service*
+AWS Glue - *Fully managed [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) (extract, transform and load) service*
 
 **SECURITY IDENTITY & COMPLIANCE**
 
@@ -253,7 +253,7 @@ Amazon GameLift - *Deploy and scaled session-based multiplayer games*
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTYzNTcxNDEsLTE5ODg2MjgwNDcsMj
-A0ODQzNDY5Niw3MTUyOTIwODgsLTE4ODk5MzY0MjIsMTU0MzQ4
-NDIwMl19
+eyJoaXN0b3J5IjpbNjA4NzI3MzY0LC0xMjU2MzU3MTQxLC0xOT
+g4NjI4MDQ3LDIwNDg0MzQ2OTYsNzE1MjkyMDg4LC0xODg5OTM2
+NDIyLDE1NDM0ODQyMDJdfQ==
 -->
