@@ -170,7 +170,7 @@ Amazon Macie - *Amazon Macie classifies and secures your business-critical conte
 
 AWS Single Sign-On - *Manage Single Sign-On ([SSO](https://en.wikipedia.org/wiki/Single_sign-on)) access to AWS accounts and business applications*
 
-Certificate Manager - *Provision,, manage and deploy SSL/TLS certificates*
+Certificate Manager - *Provision,, manage and deploy [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) certificates*
 
 CloudHSM - *Managed hardware security modules in the cloud*
 
@@ -253,7 +253,8 @@ Amazon GameLift - *Deploy and scaled session-based multiplayer games*
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODQyNTk0NTksNTczNTUxODAwLC0xMj
-U2MzU3MTQxLC0xOTg4NjI4MDQ3LDIwNDg0MzQ2OTYsNzE1Mjky
-MDg4LC0xODg5OTM2NDIyLDE1NDM0ODQyMDJdfQ==
+eyJoaXN0b3J5IjpbMTg5NjA2OTQwMywtMTk4NDI1OTQ1OSw1Nz
+M1NTE4MDAsLTEyNTYzNTcxNDEsLTE5ODg2MjgwNDcsMjA0ODQz
+NDY5Niw3MTUyOTIwODgsLTE4ODk5MzY0MjIsMTU0MzQ4NDIwMl
+19
 -->
