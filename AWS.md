@@ -145,7 +145,6 @@ Created: 6/20/2018
    ActiveMQ](https://en.wikipedia.org/wiki/Apache_ActiveMQ)*
  - Simple Notification Service -   *SNS   Pub/Sub, mobile Push and [SMS](https://en.wikipedia.org/wiki/SMS)*
  - Simple Queue Service -   *[SQS](https://en.wikipedia.org/wiki/Amazon_Simple_Queue_Service) Managed message queues*
-
  - SWF - *Workflow service for coordinating application components*
 
 **CUSTOMER ENGAGEMENT**
@@ -195,7 +194,7 @@ Amazon GameLift - *Deploy and scaled session-based multiplayer games*
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUyMjQ0ODcyLDQ0MjQxNTQ0MywtMTA1ND
+eyJoaXN0b3J5IjpbNzk1MjE2OTIyLDQ0MjQxNTQ0MywtMTA1ND
 I1NTEzNiwxOTk4NDM3NDM5LDEwODI4NTgwODAsLTE3OTM5Nzcx
 MzYsLTkzODY5NDczNiwtOTUzMzc4NzkyLDE5Mjg5MTAxNTcsLT
 E5ODQyNTk0NTksNTczNTUxODAwLC0xMjU2MzU3MTQxLC0xOTg4
