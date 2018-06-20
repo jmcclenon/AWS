@@ -57,7 +57,7 @@ CloudFront - *Global content delivery network*
 
 Route 53 - *Scalable dns and domain name registration*
 
-API Gateway - *Build, deploy and manage APIs*
+API Gateway - *Build, deploy and manage [API](https://en.wikipedia.org/wiki/Application_programming_interface)s*
 
 Direct Connect - *Dedicated network connection to AWS*
 
@@ -253,6 +253,7 @@ Amazon GameLift - *Deploy and scaled session-based multiplayer games*
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODg2MjgwNDcsMjA0ODQzNDY5Niw3MT
-UyOTIwODgsLTE4ODk5MzY0MjIsMTU0MzQ4NDIwMl19
+eyJoaXN0b3J5IjpbMTg2MTIyNDMzLC0xOTg4NjI4MDQ3LDIwND
+g0MzQ2OTYsNzE1MjkyMDg4LC0xODg5OTM2NDIyLDE1NDM0ODQy
+MDJdfQ==
 -->
