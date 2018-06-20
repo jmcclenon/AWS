@@ -107,7 +107,7 @@ Kinesis Video Streams - *Capture, process, and store video streams for analytics
 
 MediaConvert - *Convert file-based content for broadcast and multiscreen delivery*
 
-MediaLive - *Convert video inputs into live outputs for broadcase and streaming delivery*
+MediaLive - *Convert video inputs into live outputs for broadcast and streaming delivery*
 
 MediaPackage - *Deliver video to many devices using just-in-time format conversion*
 
@@ -253,7 +253,7 @@ Amazon GameLift - *Deploy and scaled session-based multiplayer games*
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NzQ4NzEsLTE5ODg2MjgwNDcsMjA0OD
-QzNDY5Niw3MTUyOTIwODgsLTE4ODk5MzY0MjIsMTU0MzQ4NDIw
-Ml19
+eyJoaXN0b3J5IjpbMjg0OTQzMjU2LC0xOTg4NjI4MDQ3LDIwND
+g0MzQ2OTYsNzE1MjkyMDg4LC0xODg5OTM2NDIyLDE1NDM0ODQy
+MDJdfQ==
 -->
