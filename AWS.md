@@ -198,9 +198,9 @@ Amazon Sumerian - *Build VR, AR, and 3D applications*
 **APPLICATION INTEGRATION**
 Step Functions - *Coordinate distributed applications*
 
-Amazon MQ - *Managed message broker service for Apache ActiveMQ*
+Amazon MQ - *Managed message broker service for [Apache ActiveMQ](https://en.wikipedia.org/wiki/Apache_ActiveMQ)*
 
-Simple Notification Service - *SNS Pub/Sub, movile Push and SMS*
+Simple Notification Service - *SNS Pub/Sub, mobile Push and SMS*
 
 Simple Queue Service - *SQS Managed message queues*
 
@@ -253,8 +253,8 @@ Amazon GameLift - *Deploy and scaled session-based multiplayer games*
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA0NTc1NjYzLC0xOTg0MjU5NDU5LDU3Mz
-U1MTgwMCwtMTI1NjM1NzE0MSwtMTk4ODYyODA0NywyMDQ4NDM0
-Njk2LDcxNTI5MjA4OCwtMTg4OTkzNjQyMiwxNTQzNDg0MjAyXX
-0=
+eyJoaXN0b3J5IjpbLTE3Mjk0MTcyMzIsLTE5ODQyNTk0NTksNT
+czNTUxODAwLC0xMjU2MzU3MTQxLC0xOTg4NjI4MDQ3LDIwNDg0
+MzQ2OTYsNzE1MjkyMDg4LC0xODg5OTM2NDIyLDE1NDM0ODQyMD
+JdfQ==
 -->
