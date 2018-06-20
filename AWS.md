@@ -66,30 +66,25 @@ Created: 6/20/2018
  - Config - *Track Resource Inventory and changes*
  - OpsWorks - *Configuration management with
    [Chef](https://en.wikipedia.org/wiki/Chef_%28software%29) and  [Puppet](https://en.wikipedia.org/wiki/Puppet_%28software%29)*
-
  - Service Catalog - *Create and use standardized products*
-
- - Systems Manager - *AWS systems manager is a central place to view and
-   manage AWS resources*
-
+ - Systems Manager - *AWS systems manager is a central place to view and  manage AWS resources*
  - Trusted Advisor - *Optimize performance and security*
-
  - Managed Services - *IT operations management for AWS*
 
 **MEDIA SERVICES**
 
-Elastic Transcoder - *Easy-to-use scalable media transcoding*
+ - Elastic Transcoder - *Easy-to-use scalable media transcoding*
 
-Kinesis Video Streams - *Capture, process, and store video streams for analytics and machine learning*
+ - Kinesis Video Streams - *Capture, process, and store video streams
+   for analytics and machine learning*
 
-MediaConvert - *Convert file-based content for broadcast and multiscreen delivery*
+ - MediaConvert - *Convert file-based content for broadcast and
+   multiscreen delivery*
 
-MediaLive - *Convert video inputs into live outputs for broadcast and streaming delivery*
+ - MediaLive - *Convert video inputs into live outputs for broadcast and  streaming delivery*
 
 MediaPackage - *Deliver video to many devices using just-in-time format conversion*
-
 MediaStore - *Store and deliver video assets for live or on-demand media workflows*
-
 MediaTailor - *Personalize and monetize multiscreen content with server-side ad insertion*
 
 **MACHINE LEARNING**
@@ -230,10 +225,10 @@ Amazon GameLift - *Deploy and scaled session-based multiplayer games*
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MTcyNzg5MCwtMTA1NDI1NTEzNiwxOT
-k4NDM3NDM5LDEwODI4NTgwODAsLTE3OTM5NzcxMzYsLTkzODY5
-NDczNiwtOTUzMzc4NzkyLDE5Mjg5MTAxNTcsLTE5ODQyNTk0NT
-ksNTczNTUxODAwLC0xMjU2MzU3MTQxLC0xOTg4NjI4MDQ3LDIw
-NDg0MzQ2OTYsNzE1MjkyMDg4LC0xODg5OTM2NDIyLDE1NDM0OD
-QyMDJdfQ==
+eyJoaXN0b3J5IjpbNDU1OTI4ODAwLC0xMDU0MjU1MTM2LDE5OT
+g0Mzc0MzksMTA4Mjg1ODA4MCwtMTc5Mzk3NzEzNiwtOTM4Njk0
+NzM2LC05NTMzNzg3OTIsMTkyODkxMDE1NywtMTk4NDI1OTQ1OS
+w1NzM1NTE4MDAsLTEyNTYzNTcxNDEsLTE5ODg2MjgwNDcsMjA0
+ODQzNDY5Niw3MTUyOTIwODgsLTE4ODk5MzY0MjIsMTU0MzQ4ND
+IwMl19
 -->
