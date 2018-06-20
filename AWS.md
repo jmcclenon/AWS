@@ -104,8 +104,7 @@ Created: 6/20/2018
  - Kinesis - *Work with real-time streaming data*
  - QuickSight - *Fast, easy to use business analytics*
  - Data Pipeline - *Orchestration for data-driven workflows*
- - AWS Glue - *Fully managed   [ETL(https://en.wikipedia.org/wiki/Extract,_transform,_load)
-   (extract, transform and load) service*
+ - AWS Glue - *Fully managed   [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) (extract, transform and load) service*
 
 **SECURITY IDENTITY & COMPLIANCE**
 
@@ -206,7 +205,7 @@ Amazon GameLift - *Deploy and scaled session-based multiplayer games*
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM0MDExNzI2LC0xMDU0MjU1MTM2LDE5OT
+eyJoaXN0b3J5IjpbNDQyNDE1NDQzLC0xMDU0MjU1MTM2LDE5OT
 g0Mzc0MzksMTA4Mjg1ODA4MCwtMTc5Mzk3NzEzNiwtOTM4Njk0
 NzM2LC05NTMzNzg3OTIsMTkyODkxMDE1NywtMTk4NDI1OTQ1OS
 w1NzM1NTE4MDAsLTEyNTYzNTcxNDEsLTE5ODg2MjgwNDcsMjA0
