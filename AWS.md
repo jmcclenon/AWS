@@ -156,11 +156,11 @@ AWS Glue - *Fully managed ETL (extract, transform and load) service*
 
 **SECURITY IDENTITY & COMPLIANCE**
 
-IAM - Manage user access and encryption keys
+IAM - *Manage user access and encryption keys*
 
-Cognito - User identity and app data synchronization
+Cognito - *User identity and app data synchronization*
 
-Secrets Manager - Easily rotate, manage, and retrieve secrets throughout their lifecycle
+Secrets Manager - *Easily rotate, manage, and retrieve secrets throughout their lifecycle*
 
 Guard Duty - Intelligent threat detection to protect your AWS accounts and workloads
 
@@ -203,28 +203,46 @@ Simple Notification Service - SNS Pub/Sub, movile Push and SMS
 Simple Queue Service - SQS Managed message queues
 
 SWF - Workflow service for coordinating application components
+
 **CUSTOMER ENGAGEMENT**
+
 Amazon Connect - Amazon Connect is a contact center that enables engagement at any scale
+
 Pinpoint - Engage users via Email, SMS, Push & Analytics
+
 Simple Email Service - Email sending and receiving service
+
 **BUSINESS PRODUCTIVITY**
+
 Alexa for Business - Alexa for business provides tools to manage Alexa in your organization
+
 Amazon Chime - Amazon Chime is a communications service that transforms online meetings
+
 WorkDocs - Secure enterprise storage and sharing service
+
 WorkMail - Secure email and calendaring service
+
 **DESKTOP & APP STREAMING**
+
 WorkSpaces - Desktop in the cloud
+
 AppStream 2.0 - Stream desktop applications securely to any browser
 
 **INTERNET of THINGS**
 IoT Core - Connect devices to the cloud
+
 IoT 1-Click - Trigger AWS Lambda functions from simple devices
+
 IoT Device Management - Securely manage fleets as small as one device, or as broad as millions of devices
+
 IoT Analytics - Collect, preprocess, store, analyze and visualize data of IoT devices
+
 Greengrass - Deploy and run code on your devices
+
 Amazon FreeRTOS - Amazon FreeRTOS is an IoT Operating System for Microcontrollers
 
 **GAME DEVELOPMENT**
+
 Amazon GameLift - Deploy and scaled session-based multiplayer games
 
 
@@ -233,6 +251,6 @@ Amazon GameLift - Deploy and scaled session-based multiplayer games
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE1MjkyMDg4LDE5NjQ5NTg4NDAsLTE4OD
-k5MzY0MjIsMTU0MzQ4NDIwMl19
+eyJoaXN0b3J5IjpbODMxMzg2MzgyLDcxNTI5MjA4OCwtMTg4OT
+kzNjQyMiwxNTQzNDg0MjAyXX0=
 -->
