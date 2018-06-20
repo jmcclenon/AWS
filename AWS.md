@@ -2,11 +2,17 @@
 
 **COMPUTE**
 EC2 - *Virtual servers in the cloud*
+
 Lightsail - *Launch and manaage virtual private servers*
+
 Elastic Container Service - *Run and manage [Docker](https://www.docker.com/) containers*
+
 EKS - *Managed [Kubernetes](https://kubernetes.io/) on AWS*
+
 Lambda - *Run code without thinking about servers*
+
 Batch - *Run batch jobs at any scale*
+
 Elastic Beanstalk - *Run and manage web apps*
 
 **STORAGE**
