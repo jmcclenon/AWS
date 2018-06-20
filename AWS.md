@@ -110,35 +110,28 @@ Created: 6/20/2018
 
  - IAM - *Manage user access and [encryption](https://en.wikipedia.org/wiki/Public-key_cryptography)
    keys*
-
  - Cognito - *User identity and app data synchronization*
-
  - Secrets Manager - *Easily rotate, manage, and retrieve secrets
    throughout their lifecycle*
-
  - Guard Duty - *Intelligent threat detection to protect your AWS
    accounts and workloads*
-
  - Inspector - *Analyze application security*
-
  - Amazon Macie - *Amazon Macie classifies and secures your
    business-critical content*
-
  - AWS Single Sign-On - *Manage Single Sign-On
-   ([SSO](https://en.wikipedia.org/wiki/Single_sign-on)) access to AWS
-   accounts and business applications*
-
+   ([SSO](https://en.wikipedia.org/wiki/Single_sign-on)) access to AWS accounts and business applications*
  - Certificate Manager - *Provision,, manage and deploy
-   [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security)
+   [SSL/TLS] https://en.wikipedia.org/wiki/Transport_Layer_Security)
    certificates*
-
  - CloudHSM - *Managed hardware security modules in the cloud*
+ - Directory Service - *Host and manage [Active
+   Directory](https://en.wikipedia.org/wiki/Active_Directory)*
 
-Directory Service - *Host and manage [Active Directory](https://en.wikipedia.org/wiki/Active_Directory)*
+ - WAF & Shield - *Protect against
+   [DDoS](https://en.wikipedia.org/wiki/Denial-of-service_attack#Distributed_attack)
+   attacks and malicious web traffic*
 
-WAF & Shield - *Protect against [DDoS](https://en.wikipedia.org/wiki/Denial-of-service_attack#Distributed_attack) attacks and malicious web traffic*
-
-Artifact - *AWS compliance reports and agreements*
+ - Artifact - *AWS compliance reports and agreements*
 
 **MOBILE SERVICES**
 
@@ -213,10 +206,10 @@ Amazon GameLift - *Deploy and scaled session-based multiplayer games*
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDMwMDAxODgsNDQyNDE1NDQzLC0xMD
-U0MjU1MTM2LDE5OTg0Mzc0MzksMTA4Mjg1ODA4MCwtMTc5Mzk3
-NzEzNiwtOTM4Njk0NzM2LC05NTMzNzg3OTIsMTkyODkxMDE1Ny
-wtMTk4NDI1OTQ1OSw1NzM1NTE4MDAsLTEyNTYzNTcxNDEsLTE5
-ODg2MjgwNDcsMjA0ODQzNDY5Niw3MTUyOTIwODgsLTE4ODk5Mz
-Y0MjIsMTU0MzQ4NDIwMl19
+eyJoaXN0b3J5IjpbMTA0OTI1Mjg0MSw0NDI0MTU0NDMsLTEwNT
+QyNTUxMzYsMTk5ODQzNzQzOSwxMDgyODU4MDgwLC0xNzkzOTc3
+MTM2LC05Mzg2OTQ3MzYsLTk1MzM3ODc5MiwxOTI4OTEwMTU3LC
+0xOTg0MjU5NDU5LDU3MzU1MTgwMCwtMTI1NjM1NzE0MSwtMTk4
+ODYyODA0NywyMDQ4NDM0Njk2LDcxNTI5MjA4OCwtMTg4OTkzNj
+QyMiwxNTQzNDg0MjAyXX0=
 -->
