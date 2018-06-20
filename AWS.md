@@ -1,6 +1,7 @@
 ## Amazon AWS Services
 
 **COMPUTE**
+
 EC2 - *Virtual servers in the cloud*
 
 Lightsail - *Launch and manaage virtual private servers*
@@ -16,6 +17,7 @@ Batch - *Run batch jobs at any scale*
 Elastic Beanstalk - *Run and manage web apps*
 
 **STORAGE**
+
 S3 - *Scalable storage in the cloud*
 
 EFS - *Managed file storage for EC2*
@@ -25,9 +27,13 @@ Glacier - *Archive storage in the cloud*
 Storage Gateway - *Hybrid storage integration*
 
 **DATABASE**
+
 RDS - *Managed relational database service*
+
 DynamoDB - *Managed NoSQL database*
+
 ElastiCache - *In-memory cache*
+
 Neptune - *Fast, reliable graph database build for the cloud*
 Amazon Redshift - *Fast, simple, cost-effective data warehousing*
 
@@ -158,5 +164,5 @@ Amazon GameLift -
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgyNzI1NzU0XX0=
+eyJoaXN0b3J5IjpbMjc3NTE5MDM0LDc4MjcyNTc1NF19
 -->
