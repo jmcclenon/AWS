@@ -62,7 +62,7 @@ You are hosting a company website on some EC2 web servers in your VPC. Users of 
 Questions:
 
 1. What is the name of the service to allow users to use their social media account to gain temporary access to the AWS platform: Web Identity Federation.
-2. What is the API call used to obtain temporary security credentials when authenticating using Web
+2. What is the API call used to obtain temporary security credentials when authenticating using Web Fe
 
   
 
@@ -70,6 +70,6 @@ Questions:
 eyJoaXN0b3J5IjpbLTc3NDk1MDAzOF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMTI5MzQwOSw1NTg4NzQwNzksMTM3MT
-UxNTQyMSwtMzMwNTc1MThdfQ==
+eyJoaXN0b3J5IjpbMjAyNzE3NDcwOCwxMjExMjkzNDA5LDU1OD
+g3NDA3OSwxMzcxNTE1NDIxLC0zMzA1NzUxOF19
 -->
