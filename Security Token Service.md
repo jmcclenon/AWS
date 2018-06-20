@@ -28,11 +28,13 @@ Grants users limited and temporary access to AWS resources. Users can come from 
 
 ---
 
-SCENARIOI
+SCENARIO
 
-You are hosting a company website on some EC2 web servers in your VPC. Users of the website must log in to the site which then authenticates against the companies active directory servers which are based on site at the companies headquaters. You VPC is connected to your company HQ via a secure IPSEC VPN. Once logged in the user can only hav
+You are hosting a company website on some EC2 web servers in your VPC. Users of the website must log in to the site which then authenticates against the companies active directory servers which are based on site at the companies headquaters. You VPC is connected to your company HQ via a secure IPSEC VPN. Once logged in the user can only have access to their own S3 bucket. How do you set this up?
+
+1. Employee enters their usern
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NDgyODMxOSwxNzk0NDQyNDQ2LDEwMz
+eyJoaXN0b3J5IjpbLTc4OTIzNzM0NywxNzk0NDQyNDQ2LDEwMz
 c2Mjc0NSw2ODA3MzkxMTgsMTE1NzM1MjM2NF19
 -->
