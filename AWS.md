@@ -116,24 +116,42 @@ MediaStore - *Store and deliver video assets for live or on-demand media workflo
 MediaTailor - *Personalize and monetize multiscreen content with server-side ad insertion*
 
 **MACHINE LEARNING**
+
 Amazon SageMaker - *Build, train, and deploy machine learning models*
+
 Amazon Comprehend - *Analyze unstructured text*
+
 AWS DeepLens - *Deep larning enabled video camera*
+
 Amazon Lex - *Build voice and text chatbots*
+
 Machine Learning - *Build smart applications quickly and easily*
+
 Amazon Polly - *Turn text into lifelike speech*
+
 Rekognition - *Search and analyze images*
+
 Amazon Transcribe - *Powerful speech recognition*
+
 Amazon Translate - *Translate text in real-time*
 
 **ANALYTICS**
+
 Athena - *Query data in S3 using SQL*
-EMR - *Managed [Hadoop](http://hadoop.apache.org/) framework*
+
+EMR - *Managed [Hadoop](http://hadoop.apache.org/) 
+framework*
+
 CloudSearch - *Managed search service*
+
 Elasticsearch Service - *Run and scale Elasticsearch clusters*
+
 Kinesis - *Work with real-time streaming data*
+
 QuickSight - *Fast, easy to use business analytics*
+
 Data Pipeline - *Orchestration for data-driven workflows*
+
 AWS Glue - *Fully managed ETL (extract, transform and load) service*
 
 **SECURITY IDENTITY & COMPLIANCE**
@@ -198,5 +216,5 @@ Amazon GameLift -
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MzQ4NDIwMiwtMTY3ODUwNzY1Ml19
+eyJoaXN0b3J5IjpbLTE4ODk5MzY0MjIsMTU0MzQ4NDIwMl19
 -->
