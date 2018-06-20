@@ -60,5 +60,5 @@ You are hosting a company website on some EC2 web servers in your VPC. Users of 
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NDk1MDAzOCwtMTkzNTE1OTk1OF19
+eyJoaXN0b3J5IjpbLTc3NDk1MDAzOF19
 -->
