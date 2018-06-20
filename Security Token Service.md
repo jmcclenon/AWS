@@ -33,6 +33,7 @@ SCENARIO
 You are hosting a company website on some EC2 web servers in your VPC. Users of the website must log in to the site which then authenticates against the companies active directory servers which are based on site at the companies headquarters. You VPC is connected to your company HQ via a secure [IPSEC VPN](https://en.wikipedia.org/wiki/IPsec). Once logged in the user can only have access to their own S3 bucket. How do you set this up?
 
 **Scenario 1 Answer (User credentials)**
+
 1. Employee enters their username and password.
 2. The application calls an Identity Broker (developed in-house). The broker captures the username and password.
 3. The Identity Broker uses the organization's [LDAP](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol) directory to validate the employee's identity.
@@ -59,8 +60,8 @@ You are hosting a company website on some EC2 web servers in your VPC. Users of 
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMDkyMzU4Nyw5MTczOTQ4MjgsLTE5Nj
-g0MzkzMSwtMTA0ODc4MzcxOSwzNDU3MTU5NTUsLTU3NDM4MzQ3
-LDE3OTQ0NDI0NDYsMTAzNzYyNzQ1LDY4MDczOTExOCwxMTU3Mz
-UyMzY0XX0=
+eyJoaXN0b3J5IjpbMTczMzY5NTAyNSwxNTIwOTIzNTg3LDkxNz
+M5NDgyOCwtMTk2ODQzOTMxLC0xMDQ4NzgzNzE5LDM0NTcxNTk1
+NSwtNTc0MzgzNDcsMTc5NDQ0MjQ0NiwxMDM3NjI3NDUsNjgwNz
+M5MTE4LDExNTczNTIzNjRdfQ==
 -->
