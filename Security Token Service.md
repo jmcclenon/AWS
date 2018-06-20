@@ -10,7 +10,7 @@ Grants users limited and temporary access to AWS resources. Users can come from 
 
 **Federation with Mobile Apps**
 
- - Use Facebook/Amazon/Google or other OpenID providers to log in
+ - Use Facebook/Amazon/Google or other [OpenID](https://en.wikipedia.org/wiki/OpenID) providers to log in
 
 **Cross Account Access**
 
@@ -39,6 +39,6 @@ You are hosting a company website on some EC2 web servers in your VPC. Users of 
 5. The Security Token Service confirms that the policy of the IAM user making the call to GetFederationToken gives permission to create new tokens and then return four values to the application: An access key, a secret access key, a token, and a duration (the token's lifetime).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMTQzNTI1NCwxNzk0NDQyNDQ2LDEwMz
+eyJoaXN0b3J5IjpbMTk3MTczMDUxOSwxNzk0NDQyNDQ2LDEwMz
 c2Mjc0NSw2ODA3MzkxMTgsMTE1NzM1MjM2NF19
 -->
