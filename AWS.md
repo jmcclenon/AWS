@@ -19,26 +19,20 @@ Created: 6/20/2018
 
  - S3 - *Scalable storage in the cloud*
  - EFS - *Managed file storage for EC2*
-
-Glacier - *Archive storage in the cloud*
-
-Storage Gateway - *Hybrid storage integration*
+ - Glacier - *Archive storage in the cloud*
+ - Storage Gateway - *Hybrid storage integration*
 
 **DATABASE**
 
-RDS - *Managed relational database service*
-
-DynamoDB - *Managed [NoSQL](https://en.wikipedia.org/wiki/NoSQL) database*
-
-ElastiCache - *In-memory cache*
-
-Neptune - *Fast, reliable graph database build for the cloud*
-
-Amazon Redshift - *Fast, simple, cost-effective data warehousing*
+ - RDS - *Managed relational database service*
+ - DynamoDB - *Managed [NoSQL](https://en.wikipedia.org/wiki/NoSQL)   database*
+ - ElastiCache - *In-memory cache*
+ - Neptune - *Fast, reliable graph database build for the cloud*
+ - Amazon Redshift - *Fast, simple, cost-effective data warehousing*
 
 **MIGRATION**
 
-AWS Migration Hub - *Simplify and accelerate the migration of your data centers to AWS*
+ - AWS Migration Hub - *Simplify and accelerate the migration of your  data centers to AWS*
 
 Application Discovery Service - *Discover on-premises application inventory and dependencies*
 
@@ -251,10 +245,10 @@ Amazon GameLift - *Deploy and scaled session-based multiplayer games*
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MzA0NDA5OSwtMTA1NDI1NTEzNiwxOT
-k4NDM3NDM5LDEwODI4NTgwODAsLTE3OTM5NzcxMzYsLTkzODY5
-NDczNiwtOTUzMzc4NzkyLDE5Mjg5MTAxNTcsLTE5ODQyNTk0NT
-ksNTczNTUxODAwLC0xMjU2MzU3MTQxLC0xOTg4NjI4MDQ3LDIw
-NDg0MzQ2OTYsNzE1MjkyMDg4LC0xODg5OTM2NDIyLDE1NDM0OD
-QyMDJdfQ==
+eyJoaXN0b3J5IjpbNzMxOTIwMzEsLTEwNTQyNTUxMzYsMTk5OD
+QzNzQzOSwxMDgyODU4MDgwLC0xNzkzOTc3MTM2LC05Mzg2OTQ3
+MzYsLTk1MzM3ODc5MiwxOTI4OTEwMTU3LC0xOTg0MjU5NDU5LD
+U3MzU1MTgwMCwtMTI1NjM1NzE0MSwtMTk4ODYyODA0NywyMDQ4
+NDM0Njk2LDcxNTI5MjA4OCwtMTg4OTkzNjQyMiwxNTQzNDg0Mj
+AyXX0=
 -->
