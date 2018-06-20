@@ -200,9 +200,9 @@ Step Functions - *Coordinate distributed applications*
 
 Amazon MQ - *Managed message broker service for [Apache ActiveMQ](https://en.wikipedia.org/wiki/Apache_ActiveMQ)*
 
-Simple Notification Service - *[SNS](https://en.wikipedia.org/wiki/Amazon_Simple_Notification_Service) Pub/Sub, mobile Push and SMS*
+Simple Notification Service - *[SNS](https://en.wikipedia.org/wiki/Amazon_Simple_Notification_Service) Pub/Sub, mobile Push and [SMS](https://en.wikipedia.org/wiki/SMS)*
 
-Simple Queue Service - *SQS Managed message queues*
+Simple Queue Service - *[SQS](https://en.wikipedia.org/wiki/Amazon_Simple_Queue_Service) Managed message queues*
 
 SWF - *Workflow service for coordinating application components*
 
@@ -253,7 +253,7 @@ Amazon GameLift - *Deploy and scaled session-based multiplayer games*
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NDQwMjc1MywtMTk4NDI1OTQ1OSw1Nz
+eyJoaXN0b3J5IjpbMTkyODkxMDE1NywtMTk4NDI1OTQ1OSw1Nz
 M1NTE4MDAsLTEyNTYzNTcxNDEsLTE5ODg2MjgwNDcsMjA0ODQz
 NDY5Niw3MTUyOTIwODgsLTE4ODk5MzY0MjIsMTU0MzQ4NDIwMl
 19
