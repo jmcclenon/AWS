@@ -156,7 +156,7 @@ AWS Glue - *Fully managed [ETL](https://en.wikipedia.org/wiki/Extract,_transform
 
 **SECURITY IDENTITY & COMPLIANCE**
 
-IAM - *Manage user access and encryption keys*
+IAM - *Manage user access and [encryption](https://en.wikipedia.org/wiki/Public-key_cryptography) keys*
 
 Cognito - *User identity and app data synchronization*
 
@@ -253,7 +253,7 @@ Amazon GameLift - *Deploy and scaled session-based multiplayer games*
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA4NzI3MzY0LC0xMjU2MzU3MTQxLC0xOT
-g4NjI4MDQ3LDIwNDg0MzQ2OTYsNzE1MjkyMDg4LC0xODg5OTM2
-NDIyLDE1NDM0ODQyMDJdfQ==
+eyJoaXN0b3J5IjpbLTE5ODAyNDIxMTQsLTEyNTYzNTcxNDEsLT
+E5ODg2MjgwNDcsMjA0ODQzNDY5Niw3MTUyOTIwODgsLTE4ODk5
+MzY0MjIsMTU0MzQ4NDIwMl19
 -->
