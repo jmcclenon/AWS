@@ -7,7 +7,7 @@ These are the notes that I am taking as I am viewing the course. When I run into
 
 The [Geekbooks](https://www.geekbooks.me/) website has a large collection of books related to AWS, and those resources will be listed here as well. Geekbooks is subscription based, so you will not be able to download any books until you purchase a subscription. It is well worth the expense.
 
-I will also list some of the more important whitepapers that have been published by AWS
+I will also list some of the more important whitepapers that have been published by AWS, and provide links to them.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3OTYyMjMwNywtMTg3MDU3NTI5MF19
+eyJoaXN0b3J5IjpbODgxNzQwNzIzLC0xODcwNTc1MjkwXX0=
 -->
