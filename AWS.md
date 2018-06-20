@@ -200,27 +200,27 @@ Amazon MQ - *Managed message broker service for Apache ActiveMQ*
 
 Simple Notification Service - *SNS Pub/Sub, movile Push and SMS*
 
-Simple Queue Service - S*QS Managed message queues*
+Simple Queue Service - *SQS Managed message queues*
 
-SWF - Workflow service for coordinating application components
+SWF - *Workflow service for coordinating application components*
 
 **CUSTOMER ENGAGEMENT**
 
-Amazon Connect - Amazon Connect is a contact center that enables engagement at any scale
+Amazon Connect - *Amazon Connect is a contact center that enables engagement at any scale*
 
-Pinpoint - Engage users via Email, SMS, Push & Analytics
+Pinpoint - *Engage users via Email, SMS, Push & Analytics*
 
-Simple Email Service - Email sending and receiving service
+Simple Email Service - *Email sending and receiving service*
 
 **BUSINESS PRODUCTIVITY**
 
-Alexa for Business - Alexa for business provides tools to manage Alexa in your organization
+Alexa for Business - *Alexa for business provides tools to manage Alexa in your organization*
 
-Amazon Chime - Amazon Chime is a communications service that transforms online meetings
+Amazon Chime - *Amazon Chime is a communications service that transforms online meetings*
 
-WorkDocs - Secure enterprise storage and sharing service
+WorkDocs - *Secure enterprise storage and sharing service*
 
-WorkMail - Secure email and calendaring service
+WorkMail - *Secure email and calendaring service*
 
 **DESKTOP & APP STREAMING**
 
@@ -251,6 +251,6 @@ Amazon GameLift - Deploy and scaled session-based multiplayer games
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNDcyNTkxNiw3MTUyOTIwODgsLTE4OD
-k5MzY0MjIsMTU0MzQ4NDIwMl19
+eyJoaXN0b3J5IjpbLTE4OTgxMjUxNjYsNzE1MjkyMDg4LC0xOD
+g5OTM2NDIyLDE1NDM0ODQyMDJdfQ==
 -->
