@@ -55,20 +55,20 @@ Created: 6/20/2018
  - CodePipeline - *Release software using [continuous
    delivery](https://en.wikipedia.org/wiki/Continuous_delivery)*
  - Cloud9 - *A cloud IDE   for writing, running, and debugging code*
-
-X-Ray - *Analyze and debug your applications*
+ - X-Ray - *Analyze and debug your applications*
 
 **MANAGEMENT TOOLS**
 
-CloudWatch - *Monitor resources and applications*
+ - CloudWatch - *Monitor resources and applications*
 
-AWS Auto Scaling - *AWS auto scaling enables you to quickly scale your entire application on AWS*
+ - AWS Auto Scaling - *AWS auto scaling enables you to quickly scale
+   your entire application on AWS*
 
-CloudFormation - *Create and manage resources with templates*
+ - CloudFormation - *Create and manage resources with templates*
 
-CloudTrail - *Track user activity and API Usage*
+ - CloudTrail - *Track user activity and API Usage*
 
-Config - *Track Resource Inventory and changes*
+ - Config - *Track Resource Inventory and changes*
 
 OpsWorks - *Configuration management with [Chef](https://en.wikipedia.org/wiki/Chef_%28software%29) and [Puppet](https://en.wikipedia.org/wiki/Puppet_%28software%29)*
 
@@ -234,10 +234,10 @@ Amazon GameLift - *Deploy and scaled session-based multiplayer games*
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQwODk1NjI1LC0xMDU0MjU1MTM2LDE5OT
-g0Mzc0MzksMTA4Mjg1ODA4MCwtMTc5Mzk3NzEzNiwtOTM4Njk0
-NzM2LC05NTMzNzg3OTIsMTkyODkxMDE1NywtMTk4NDI1OTQ1OS
-w1NzM1NTE4MDAsLTEyNTYzNTcxNDEsLTE5ODg2MjgwNDcsMjA0
-ODQzNDY5Niw3MTUyOTIwODgsLTE4ODk5MzY0MjIsMTU0MzQ4ND
-IwMl19
+eyJoaXN0b3J5IjpbLTQ5NDU2NDgxOSwtMTA1NDI1NTEzNiwxOT
+k4NDM3NDM5LDEwODI4NTgwODAsLTE3OTM5NzcxMzYsLTkzODY5
+NDczNiwtOTUzMzc4NzkyLDE5Mjg5MTAxNTcsLTE5ODQyNTk0NT
+ksNTczNTUxODAwLC0xMjU2MzU3MTQxLC0xOTg4NjI4MDQ3LDIw
+NDg0MzQ2OTYsNzE1MjkyMDg4LC0xODg5OTM2NDIyLDE1NDM0OD
+QyMDJdfQ==
 -->
