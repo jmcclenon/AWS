@@ -174,7 +174,7 @@ Certificate Manager - *Provision,, manage and deploy [SSL/TLS](https://en.wikipe
 
 CloudHSM - *Managed hardware security modules in the cloud*
 
-Directory Service - *Host and manage Active Directory*
+Directory Service - *Host and manage [Active Directory](https://en.wikipedia.org/wiki/Active_Directory)*
 
 WAF & Shield - *Protect against DDoS attacks and malicious web traffic*
 
@@ -253,7 +253,7 @@ Amazon GameLift - *Deploy and scaled session-based multiplayer games*
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NjA2OTQwMywtMTk4NDI1OTQ1OSw1Nz
+eyJoaXN0b3J5IjpbMTk2MDYwNTg4NSwtMTk4NDI1OTQ1OSw1Nz
 M1NTE4MDAsLTEyNTYzNTcxNDEsLTE5ODg2MjgwNDcsMjA0ODQz
 NDY5Niw3MTUyOTIwODgsLTE4ODk5MzY0MjIsMTU0MzQ4NDIwMl
 19
