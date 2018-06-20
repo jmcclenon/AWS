@@ -168,9 +168,9 @@ Inspector - *Analyze application security*
 
 Amazon Macie - *Amazon Macie classifies and secures your business-critical content*
 
-AWS Single Sign-On - *Manage Single Sign-On (SSO) access to AWS accounts and business applications*
+AWS Single Sign-On - *Manage Single Sign-On ([SSO](https://en.wikipedia.org/wiki/Single_sign-on)) access to AWS accounts and business applications*
 
-Certificate Manager - *Provison, manage and deploy SSL/TLS certificates*
+Certificate Manager - *Provisiona,, manage and deploy SSL/TLS certificates*
 
 CloudHSM - *Managed hardware security modules in the cloud*
 
@@ -253,7 +253,7 @@ Amazon GameLift - *Deploy and scaled session-based multiplayer games*
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODAyNDIxMTQsLTEyNTYzNTcxNDEsLT
-E5ODg2MjgwNDcsMjA0ODQzNDY5Niw3MTUyOTIwODgsLTE4ODk5
-MzY0MjIsMTU0MzQ4NDIwMl19
+eyJoaXN0b3J5IjpbNTczNTUxODAwLC0xMjU2MzU3MTQxLC0xOT
+g4NjI4MDQ3LDIwNDg0MzQ2OTYsNzE1MjkyMDg4LC0xODg5OTM2
+NDIyLDE1NDM0ODQyMDJdfQ==
 -->
