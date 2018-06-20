@@ -33,19 +33,15 @@ Created: 6/20/2018
 **MIGRATION**
 
  - AWS Migration Hub - *Simplify and accelerate the migration of your  data centers to AWS*
-
-Application Discovery Service - *Discover on-premises application inventory and dependencies*
-
-Database Migration Service - *Managed database migration service*
-
-Server Migration Service - *Migrate on-premises servers to AWS*
-Snowball - *Large scale data transport*
+ - Application Discovery Service - *Discover on-premises application inventory and dependencies*
+ - Database Migration Service - *Managed database migration service*
+ - Server Migration Service - *Migrate on-premises servers to AWS*
+ - Snowball - *Large scale data transport*
 
 **NETWORKING & CONTENT DELIVERY**
 
-VPC - *Isolated cloud resources*
-
-CloudFront - *Global content delivery network*
+ - VPC - *Isolated cloud resources*
+ - CloudFront - *Global content delivery network*
 
 Route 53 - *Scalable dns and domain name registration*
 
@@ -245,10 +241,10 @@ Amazon GameLift - *Deploy and scaled session-based multiplayer games*
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMxOTIwMzEsLTEwNTQyNTUxMzYsMTk5OD
-QzNzQzOSwxMDgyODU4MDgwLC0xNzkzOTc3MTM2LC05Mzg2OTQ3
-MzYsLTk1MzM3ODc5MiwxOTI4OTEwMTU3LC0xOTg0MjU5NDU5LD
-U3MzU1MTgwMCwtMTI1NjM1NzE0MSwtMTk4ODYyODA0NywyMDQ4
-NDM0Njk2LDcxNTI5MjA4OCwtMTg4OTkzNjQyMiwxNTQzNDg0Mj
-AyXX0=
+eyJoaXN0b3J5IjpbODg0NDM5MTM1LC0xMDU0MjU1MTM2LDE5OT
+g0Mzc0MzksMTA4Mjg1ODA4MCwtMTc5Mzk3NzEzNiwtOTM4Njk0
+NzM2LC05NTMzNzg3OTIsMTkyODkxMDE1NywtMTk4NDI1OTQ1OS
+w1NzM1NTE4MDAsLTEyNTYzNTcxNDEsLTE5ODg2MjgwNDcsMjA0
+ODQzNDY5Niw3MTUyOTIwODgsLTE4ODk5MzY0MjIsMTU0MzQ4ND
+IwMl19
 -->
