@@ -155,21 +155,15 @@ Created: 6/20/2018
 
 **BUSINESS PRODUCTIVITY**
 
- - Alexa for Business - *Alexa for business provides tools to manage
-   Alexa in your organization*
-
- - Amazon Chime - *Amazon Chime is a communications service that
-   transforms online meetings*
-
-WorkDocs - *Secure enterprise storage and sharing service*
-
-WorkMail - *Secure email and calendaring service*
+ - Alexa for Business - *Alexa for business provides tools to manage Alexa in your organization*
+ - Amazon Chime - *Amazon Chime is a communications service that transforms online meetings*
+ - WorkDocs - *Secure enterprise storage and sharing service*
+ - WorkMail - *Secure email and calendaring service*
 
 **DESKTOP & APP STREAMING**
 
-WorkSpaces - *Desktop in the cloud*
-
-AppStream 2.0 - *Stream desktop applications securely to any browser*
+ - WorkSpaces - *Desktop in the cloud*
+ - AppStream 2.0 - *Stream desktop applications securely to any browser*
 
 **INTERNET of THINGS**
 IoT Core - *Connect devices to the cloud*
@@ -194,10 +188,10 @@ Amazon GameLift - *Deploy and scaled session-based multiplayer games*
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzAwOTgzMjMsNzk1MjE2OTIyLDQ0Mj
-QxNTQ0MywtMTA1NDI1NTEzNiwxOTk4NDM3NDM5LDEwODI4NTgw
-ODAsLTE3OTM5NzcxMzYsLTkzODY5NDczNiwtOTUzMzc4NzkyLD
-E5Mjg5MTAxNTcsLTE5ODQyNTk0NTksNTczNTUxODAwLC0xMjU2
-MzU3MTQxLC0xOTg4NjI4MDQ3LDIwNDg0MzQ2OTYsNzE1MjkyMD
-g4LC0xODg5OTM2NDIyLDE1NDM0ODQyMDJdfQ==
+eyJoaXN0b3J5IjpbLTcxMTgyNTE3Myw3OTUyMTY5MjIsNDQyND
+E1NDQzLC0xMDU0MjU1MTM2LDE5OTg0Mzc0MzksMTA4Mjg1ODA4
+MCwtMTc5Mzk3NzEzNiwtOTM4Njk0NzM2LC05NTMzNzg3OTIsMT
+kyODkxMDE1NywtMTk4NDI1OTQ1OSw1NzM1NTE4MDAsLTEyNTYz
+NTcxNDEsLTE5ODg2MjgwNDcsMjA0ODQzNDY5Niw3MTUyOTIwOD
+gsLTE4ODk5MzY0MjIsMTU0MzQ4NDIwMl19
 -->
