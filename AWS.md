@@ -87,29 +87,19 @@ Created: 6/20/2018
  - Amazon SageMaker - *Build, train, and deploy [machine
    learning](https://en.wikipedia.org/wiki/Machine_learning) models*
  - Amazon Comprehend - *Analyze unstructured text*
- - AWS DeepLens - *[Deep
-   larning](https://en.wikipedia.org/wiki/Deep_learning) enabled video  camera*
-
+ - AWS DeepLens - *[Deep learning](https://en.wikipedia.org/wiki/Deep_learning) enabled video camera*
  - Amazon Lex - *Build voice and text chatbots*
-
  - Machine Learning - *Build smart applications quickly and easily*
-
  - Amazon Polly - *Turn text into lifelike speech*
-
  - Rekognition - *Search and analyze images*
-
  - Amazon Transcribe - *Powerful speech recognition*
-
  - Amazon Translate - *Translate text in real-time*
 
 **ANALYTICS**
 
-Athena - *Query data in S3 using SQL*
-
-EMR - *Managed [Hadoop](http://hadoop.apache.org/) 
-framework*
-
-CloudSearch - *Managed search service*
+ - Athena - *Query data in S3 using SQL*
+ - EMR - *Managed [Hadoop](http://hadoop.apache.org/)  framework*
+ - CloudSearch - *Managed search service*
 
 Elasticsearch Service - *Run and scale Elasticsearch clusters*
 
@@ -220,10 +210,10 @@ Amazon GameLift - *Deploy and scaled session-based multiplayer games*
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTMzNzA2NTYsLTEwNTQyNTUxMzYsMT
-k5ODQzNzQzOSwxMDgyODU4MDgwLC0xNzkzOTc3MTM2LC05Mzg2
-OTQ3MzYsLTk1MzM3ODc5MiwxOTI4OTEwMTU3LC0xOTg0MjU5ND
-U5LDU3MzU1MTgwMCwtMTI1NjM1NzE0MSwtMTk4ODYyODA0Nywy
-MDQ4NDM0Njk2LDcxNTI5MjA4OCwtMTg4OTkzNjQyMiwxNTQzND
-g0MjAyXX0=
+eyJoaXN0b3J5IjpbMTY0NzA4NDc0NiwtMTA1NDI1NTEzNiwxOT
+k4NDM3NDM5LDEwODI4NTgwODAsLTE3OTM5NzcxMzYsLTkzODY5
+NDczNiwtOTUzMzc4NzkyLDE5Mjg5MTAxNTcsLTE5ODQyNTk0NT
+ksNTczNTUxODAwLC0xMjU2MzU3MTQxLC0xOTg4NjI4MDQ3LDIw
+NDg0MzQ2OTYsNzE1MjkyMDg4LC0xODg5OTM2NDIyLDE1NDM0OD
+QyMDJdfQ==
 -->
