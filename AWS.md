@@ -49,16 +49,12 @@ Created: 6/20/2018
 **DEVELOPER TOOLS**
 
  - CodeStar - *Quickly develop, build, and deploy applications*
-
  - CodeCommit - *Store Code in private GIT repositories*
-
  - CodeBuild - *Build and test code*
-
  - CodeDeploy - *Automate code deployments*
-
-CodePipeline - *Release software using [continuous delivery](https://en.wikipedia.org/wiki/Continuous_delivery)*
-
-Cloud9 - *A cloud [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment) for writing, running, and debugging code*
+ - CodePipeline - *Release software using [continuous
+   delivery](https://en.wikipedia.org/wiki/Continuous_delivery)*
+ - Cloud9 - *A cloud IDE   for writing, running, and debugging code*
 
 X-Ray - *Analyze and debug your applications*
 
@@ -238,10 +234,10 @@ Amazon GameLift - *Deploy and scaled session-based multiplayer games*
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NzI5NjQ0MiwtMTA1NDI1NTEzNiwxOT
-k4NDM3NDM5LDEwODI4NTgwODAsLTE3OTM5NzcxMzYsLTkzODY5
-NDczNiwtOTUzMzc4NzkyLDE5Mjg5MTAxNTcsLTE5ODQyNTk0NT
-ksNTczNTUxODAwLC0xMjU2MzU3MTQxLC0xOTg4NjI4MDQ3LDIw
-NDg0MzQ2OTYsNzE1MjkyMDg4LC0xODg5OTM2NDIyLDE1NDM0OD
-QyMDJdfQ==
+eyJoaXN0b3J5IjpbOTQwODk1NjI1LC0xMDU0MjU1MTM2LDE5OT
+g0Mzc0MzksMTA4Mjg1ODA4MCwtMTc5Mzk3NzEzNiwtOTM4Njk0
+NzM2LC05NTMzNzg3OTIsMTkyODkxMDE1NywtMTk4NDI1OTQ1OS
+w1NzM1NTE4MDAsLTEyNTYzNTcxNDEsLTE5ODg2MjgwNDcsMjA0
+ODQzNDY5Niw3MTUyOTIwODgsLTE4ODk5MzY0MjIsMTU0MzQ4ND
+IwMl19
 -->
