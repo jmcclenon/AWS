@@ -26,7 +26,11 @@ Grants users limited and temporary access to AWS resources. Users can come from 
 
 - Identities: a user of service like Facebook, etc.
 
+---
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTg2MDY2MzUsMTAzNzYyNzQ1LDY4MD
-czOTExOCwxMTU3MzUyMzY0XX0=
+eyJoaXN0b3J5IjpbMTc5NDQ0MjQ0NiwxMDM3NjI3NDUsNjgwNz
+M5MTE4LDExNTczNTIzNjRdfQ==
 -->
