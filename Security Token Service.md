@@ -42,7 +42,7 @@ You are hosting a company website on some EC2 web servers in your VPC. Users of 
 8. Amazon S3 uses IAM to verify that the credentials allow the requested operation on the given S3 bucket and key.
 9. IAM provides S3 with the go-ahead to perform the requested operation.
 
-STEPS (Distilled)
+**STEPS (Distilled)**
 
 1. Develop an Identity Broker to communicate with LDAP and AWS STS
 2. Identity Broker always authenticated with LDAP first, THEN with AWS STS
@@ -51,7 +51,7 @@ STEPS (Distilled)
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0OTU2NjIyMSwtNTc0MzgzNDcsMTc5ND
-Q0MjQ0NiwxMDM3NjI3NDUsNjgwNzM5MTE4LDExNTczNTIzNjRd
-fQ==
+eyJoaXN0b3J5IjpbMzQ1NzE1OTU1LC01NzQzODM0NywxNzk0ND
+QyNDQ2LDEwMzc2Mjc0NSw2ODA3MzkxMTgsMTE1NzM1MjM2NF19
+
 -->
