@@ -32,7 +32,7 @@ SCENARIO
 
 You are hosting a company website on some EC2 web servers in your VPC. Users of the website must log in to the site which then authenticates against the companies active directory servers which are based on site at the companies headquarters. You VPC is connected to your company HQ via a secure [IPSEC VPN](https://en.wikipedia.org/wiki/IPsec). Once logged in the user can only have access to their own S3 bucket. How do you set this up?
 
-Scenario 1
+Scenario 1 Answer
 1. Employee enters their username and password.
 2. The application calls an Identity Broker. The broker captures the username and password.
 3. The Identity Broker uses the organization's [LDAP](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol) directory to validate the employee's identity.
@@ -43,6 +43,10 @@ Scenario 1
 8. Amazon S3 uses IAM to verify that the credentials allow the requested operation on the given S3 bucket and key.
 9. IAM provides S3 with the go-ahead to perform the requested operation.
 
+Scenario 2 Answer
+
+1.  Develop an Identity Broker to communicate with LDAP and 
+
 **STEPS (Distilled)**
 
 1. Develop an Identity Broker to communicate with LDAP and AWS STS
@@ -52,7 +56,7 @@ Scenario 1
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDgzNDg0OTQsLTE5Njg0MzkzMSwtMT
-A0ODc4MzcxOSwzNDU3MTU5NTUsLTU3NDM4MzQ3LDE3OTQ0NDI0
-NDYsMTAzNzYyNzQ1LDY4MDczOTExOCwxMTU3MzUyMzY0XX0=
+eyJoaXN0b3J5IjpbLTgyMDcyOTAwMCwtMTk2ODQzOTMxLC0xMD
+Q4NzgzNzE5LDM0NTcxNTk1NSwtNTc0MzgzNDcsMTc5NDQ0MjQ0
+NiwxMDM3NjI3NDUsNjgwNzM5MTE4LDExNTczNTIzNjRdfQ==
 -->
