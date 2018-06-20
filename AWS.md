@@ -155,27 +155,27 @@ Data Pipeline - *Orchestration for data-driven workflows*
 AWS Glue - *Fully managed ETL (extract, transform and load) service*
 
 **SECURITY IDENTITY & COMPLIANCE**
-IAM - 
-Cognito - 
-Secrets Manager - 
-Guard Duty - 
-Inspector - 
-Amazon Macie - 
-AWS Single Sign-On - 
-Certificate Manager - 
-CloudHSM - 
-Directory Service - 
-WAF & Shield - 
-Artifact - 
+IAM - Manage user access and encryption keys
+Cognito - User identity and app data synchronization
+Secrets Manager - Easily rotate, manage, and retrieve secrets throughout their lifecycle
+Guard Duty - Intelligent threat detection to protect your AWS accounts and workloads
+Inspector - Analyze application security
+Amazon Macie - Amazon Macie classifies and secures your business-critical content
+AWS Single Sign-On - Manage Single Sign-On (SSO) access to AWS accounts and business applications
+Certificate Manager - Provison, manage and deploy SSL/TLS certificates
+CloudHSM - Managed hardware security modules in the cloud
+Directory Service - Host and manage Active Directory
+WAF & Shield - Protect against DDoS attacks and malicious web traffic
+Artifact - AWS compliance reports and agreements
 
 **MOBILE SERVICES**
-Mobile Hub - 
-AWS AppSync - 
-Device Farm - 
-Mobile Analytics - 
+Mobile Hub - Build, test and monitor mobile apps
+AWS AppSync - Real-time data synch using GraphQL for mobile & web apps, online and offline
+Device Farm - Test Android, iOS, and web apps on real devices in the cloud
+Mobile Analytics - Collect, view and export app analytics
 
 **AR & VR**
-Amazon Sumerian - 
+Amazon Sumerian - Build VR, AR, and 3D applications
 
 **APPLICATION INTEGRATION**
 Step Functions - 
@@ -216,5 +216,6 @@ Amazon GameLift -
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODk5MzY0MjIsMTU0MzQ4NDIwMl19
+eyJoaXN0b3J5IjpbMTY4MDM3NTgwMywtMTg4OTkzNjQyMiwxNT
+QzNDg0MjAyXX0=
 -->
