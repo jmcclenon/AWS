@@ -6,7 +6,7 @@ Grants users limited and temporary access to AWS resources. Users can come from 
 
  - Uses Security Assertion Markup Language ([SAML](https://en.wikipedia.org/wiki/Security_Assertion_Markup_Language)) 
  - Grants temporary access based off the users Active Directory credentials. 
- - Does not need to be a user in IAM. Single sign on allows users to log into AWS console without assigning IAM credentials
+ - Does not need to be a user in IAM. Single sign on allows users to log into AWS console ***without*** assigning IAM credentials
 
 **Federation with Mobile Apps**
 
@@ -39,6 +39,6 @@ You are hosting a company website on some EC2 web servers in your VPC. Users of 
 5. The Security Token Service confirms that the policy of the IAM user making the call to GetFederationToken gives permission to create new tokens and then return four values to the application: An access key, a secret access key, a token, and a duration (the token's lifetime).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjkwNzA1ODYsMTc5NDQ0MjQ0NiwxMD
-M3NjI3NDUsNjgwNzM5MTE4LDExNTczNTIzNjRdfQ==
+eyJoaXN0b3J5IjpbLTMyMTQzNTI1NCwxNzk0NDQyNDQ2LDEwMz
+c2Mjc0NSw2ODA3MzkxMTgsMTE1NzM1MjM2NF19
 -->
