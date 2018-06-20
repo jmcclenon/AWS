@@ -13,7 +13,7 @@ Grants users limited and temporary access to AWS resources. Users can come from 
  - Use Facebook/Amazon/Google or other [OpenID](https://en.wikipedia.org/wiki/OpenID) providers to log in.
 
 **Cross Account Access**
-- Lets users from one AWS account access resources in another AWS account.
+ - Lets users from one AWS account access resources in another AWS account.
 
 ---
 **Key Terms**
