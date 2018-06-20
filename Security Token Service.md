@@ -2,7 +2,7 @@
 
 Grants users limited and temporary access to AWS resources. Users can come from three sources:
 
-**FEDERATION (typically Active Directory)**
+**FEDERATION (typically [Active Directory](https://en.wikipedia.org/wiki/Active_Directory))**
 
  - Uses Security Assertion Markup Language (SAML) 
  - Grants temporary access based off the users Active Directory credentials. 
@@ -39,6 +39,6 @@ You are hosting a company website on some EC2 web servers in your VPC. Users of 
 5. The Security Token Service confirms that the policy of the IAM user making the call to GetFederationToken gives permission to create new tokens and then return four values to the application: An access key, a secret access key, a token, and a duration (the token's lifetime).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNDE2MDIxMywxNzk0NDQyNDQ2LDEwMz
-c2Mjc0NSw2ODA3MzkxMTgsMTE1NzM1MjM2NF19
+eyJoaXN0b3J5IjpbLTEyNDA2MTY1ODUsMTc5NDQ0MjQ0NiwxMD
+M3NjI3NDUsNjgwNzM5MTE4LDExNTczNTIzNjRdfQ==
 -->
