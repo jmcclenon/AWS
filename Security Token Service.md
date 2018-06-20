@@ -16,6 +16,10 @@ Grants users limited and temporary access to AWS resources. Users can come from 
 
  - Lets users from one AWS account account access resources in another  AWS account
 
+Key Terms
+
+Federation: Combining or joining a list of user in one domain (such as IAM) with a list of users in another domain (such as Ac
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NzM1MjM2NF19
+eyJoaXN0b3J5IjpbLTE2OTA4MjY4NjYsMTE1NzM1MjM2NF19
 -->
