@@ -78,12 +78,9 @@ Created: 6/20/2018
  - MediaConvert - *Convert file-based content for broadcast and
    multiscreen delivery*
  - MediaLive - *Convert video inputs into live outputs for broadcast and streaming delivery*
- - MediaPackage - *Deliver video to many devices using just-in-time
-   format conversion*
- - MediaStore - *Store and deliver video assets for live or on-demand
-   media workflows*
- - MediaTailor - *Personalize and monetize multiscreen content with
-   server-side ad insertion*
+ - MediaPackage - *Deliver video to many devices using just-in-time format conversion*
+ - MediaStore - *Store and deliver video assets for live or on-demand media workflows*
+ - MediaTailor - *Personalize and monetize multiscreen content with server-side ad insertion*
 
 **MACHINE LEARNING**
 
@@ -223,10 +220,10 @@ Amazon GameLift - *Deploy and scaled session-based multiplayer games*
 eyJoaXN0b3J5IjpbMjU4NTA2MzQxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTYyNTcwMzcsLTEwNTQyNTUxMzYsMT
-k5ODQzNzQzOSwxMDgyODU4MDgwLC0xNzkzOTc3MTM2LC05Mzg2
-OTQ3MzYsLTk1MzM3ODc5MiwxOTI4OTEwMTU3LC0xOTg0MjU5ND
-U5LDU3MzU1MTgwMCwtMTI1NjM1NzE0MSwtMTk4ODYyODA0Nywy
-MDQ4NDM0Njk2LDcxNTI5MjA4OCwtMTg4OTkzNjQyMiwxNTQzND
-g0MjAyXX0=
+eyJoaXN0b3J5IjpbNzc4NjkyNDU3LC0xMDU0MjU1MTM2LDE5OT
+g0Mzc0MzksMTA4Mjg1ODA4MCwtMTc5Mzk3NzEzNiwtOTM4Njk0
+NzM2LC05NTMzNzg3OTIsMTkyODkxMDE1NywtMTk4NDI1OTQ1OS
+w1NzM1NTE4MDAsLTEyNTYzNTcxNDEsLTE5ODg2MjgwNDcsMjA0
+ODQzNDY5Niw3MTUyOTIwODgsLTE4ODk5MzY0MjIsMTU0MzQ4ND
+IwMl19
 -->
