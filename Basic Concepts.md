@@ -28,6 +28,7 @@ Each Amazon EC2 region is designed to be completely isolated from the other Amaz
  - EU (**London**) *eu-west-2*
  - EU (**Paris**) *eu-west-3*
  - South America (**São Paulo**) *sa-east-1*
+
 ---
 **Availability Zone**:
 
@@ -40,7 +41,7 @@ An **edge location** is where end users access services located at AWS. They are
 
 There are more **Edge Locations** than **Availability Zones**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzAyODQxNjgsLTE2MDQ3MDA4NjcsMT
-U5ODAxNjkzOSw5MjYzMDI5MDYsOTY5MDg1Nzk2LC0xNTA0NjI5
-MDUsLTE3NzEyMjk2NDNdfQ==
+eyJoaXN0b3J5IjpbNDkwMTE2MDcwLC0xNTcwMjg0MTY4LC0xNj
+A0NzAwODY3LDE1OTgwMTY5MzksOTI2MzAyOTA2LDk2OTA4NTc5
+NiwtMTUwNDYyOTA1LC0xNzcxMjI5NjQzXX0=
 -->
