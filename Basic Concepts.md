@@ -1,7 +1,6 @@
+AWS Basic Concepts
 
-
-
-> Written with [StackEdit](https://stackedit.io/).
+Region: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NDM2ODUyM119
+eyJoaXN0b3J5IjpbLTE3NzEyMjk2NDNdfQ==
 -->
