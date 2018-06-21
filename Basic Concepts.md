@@ -51,9 +51,11 @@ Infrastructure as a Service (IaaS)
 Platform as a Service (PaaS)
 Software as a Service (SaaS)
 
-Iaas: When a service provider offers virtualized hard
+Iaas: When a service provider offers virtualized hardware or computing infrastructure as a service, such an offering is called IaaS.
+
+PaaS: PaaS is a type of cloud computing service in which a service prov
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODY5NzE0MzgsMTE1MzA3NDA1Niw0OT
+eyJoaXN0b3J5IjpbLTIxMDk1NTIyNjcsMTE1MzA3NDA1Niw0OT
 AxMTYwNzAsLTE1NzAyODQxNjgsLTE2MDQ3MDA4NjcsMTU5ODAx
 NjkzOSw5MjYzMDI5MDYsOTY5MDg1Nzk2LC0xNTA0NjI5MDUsLT
 E3NzEyMjk2NDNdfQ==
