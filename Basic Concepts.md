@@ -47,10 +47,14 @@ SaaS, Paas, and Iaas
 
 Cloud computing is a broad term and covers many services. Common cloud computing models are:
 
-Infrastructure as 
+Infrastructure as a Service (IaaS)
+Platform as a Service (PaaS)
+Software as a Service (SaaS)
+
+Iaas: When a service provider offers virtualized hard
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNzg1MTU2MiwxMTUzMDc0MDU2LDQ5MD
-ExNjA3MCwtMTU3MDI4NDE2OCwtMTYwNDcwMDg2NywxNTk4MDE2
-OTM5LDkyNjMwMjkwNiw5NjkwODU3OTYsLTE1MDQ2MjkwNSwtMT
-c3MTIyOTY0M119
+eyJoaXN0b3J5IjpbLTEwODY5NzE0MzgsMTE1MzA3NDA1Niw0OT
+AxMTYwNzAsLTE1NzAyODQxNjgsLTE2MDQ3MDA4NjcsMTU5ODAx
+NjkzOSw5MjYzMDI5MDYsOTY5MDg1Nzk2LC0xNTA0NjI5MDUsLT
+E3NzEyMjk2NDNdfQ==
 -->
