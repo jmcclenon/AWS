@@ -1,6 +1,6 @@
 AWS Basic Concepts
 -
-Infastructure
+**Infrastructure**
 
 The AWS Global Infrastructure is currently comprised of **16 AWS Regions** worldwide and 42 availability zones, with **two** additional regions scheduled to come online in 2017. 
 
@@ -14,6 +14,6 @@ An **Availability Zone** is an isolated location inside a region. Each region is
 **Edge Location**:
 An **edge location** is where end users access services located at AWS. They are located in most of the major cities around the world and are specifically used by CloudFront (CDN) to distribute content to end user to reduce latency. It is like frontend for the service we access which are located in AWS cloud.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM0ODI3OTksOTI2MzAyOTA2LDk2OTA4NT
-c5NiwtMTUwNDYyOTA1LC0xNzcxMjI5NjQzXX0=
+eyJoaXN0b3J5IjpbMTU5ODAxNjkzOSw5MjYzMDI5MDYsOTY5MD
+g1Nzk2LC0xNTA0NjI5MDUsLTE3NzEyMjk2NDNdfQ==
 -->
