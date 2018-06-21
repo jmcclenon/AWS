@@ -34,10 +34,11 @@ Answer:
 1. The user navigates to ADFS webserver.
 2. The user enters their single sign on credentials.
 3. The user's web browser receives a SAML assertion from the AD server.
-4. The user's browser then posts the SAML assertion to the AWS SAML end point for SAML and the AssumeRoleWithSAML API
+4. The user's browser then posts the SAML assertion to the AWS SAML end point for SAML and the AssumeRoleWithSAML API request is used to request temporary security credentials.
+5. The user is then able to access the AWS console.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIyNTY1MzI4LC0xMjU5MDI5ODg1LC0xNT
-YzNzY1ODgzLDEyNTc0MDQ1MDldfQ==
+eyJoaXN0b3J5IjpbMTA0NjQ1NTUwNywtMTI1OTAyOTg4NSwtMT
+U2Mzc2NTg4MywxMjU3NDA0NTA5XX0=
 -->
