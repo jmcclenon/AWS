@@ -42,10 +42,9 @@ An **edge location** is where end users access services located at AWS. They are
 There are more **Edge Locations** than **Availability Zones**.
 
 ---
-
-![Stack and responsib](https://thebpmfreak.files.wordpress.com/2012/09/cloud_service_types.jpg)
-
 SaaS, Paas, and Iaas
+
+![Stack and responsibility seperation](https://thebpmfreak.files.wordpress.com/2012/09/cloud_service_types.jpg)
 
 Cloud computing is a broad term and covers many services. Common cloud computing models are:
 
@@ -127,9 +126,9 @@ The cloud infrastructure is a composition of two or more distinct cloud infrastr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyODI2Mzg5OCwtMTUxNTkyNTU0NiwxMz
-UxNzQ0NDg3LC0xNDA0ODA0OTkyLDExNTMwNzQwNTYsNDkwMTE2
-MDcwLC0xNTcwMjg0MTY4LC0xNjA0NzAwODY3LDE1OTgwMTY5Mz
-ksOTI2MzAyOTA2LDk2OTA4NTc5NiwtMTUwNDYyOTA1LC0xNzcx
-MjI5NjQzXX0=
+eyJoaXN0b3J5IjpbLTEzMjAwOTg1NTMsLTE1MTU5MjU1NDYsMT
+M1MTc0NDQ4NywtMTQwNDgwNDk5MiwxMTUzMDc0MDU2LDQ5MDEx
+NjA3MCwtMTU3MDI4NDE2OCwtMTYwNDcwMDg2NywxNTk4MDE2OT
+M5LDkyNjMwMjkwNiw5NjkwODU3OTYsLTE1MDQ2MjkwNSwtMTc3
+MTIyOTY0M119
 -->
