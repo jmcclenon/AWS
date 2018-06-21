@@ -70,41 +70,41 @@ An API function. Also called  _operation_  or  _call_. The activity the  [princi
 
 A list showing each of the trusted signers you've specified and the IDs of the corresponding active key pairs that  [Amazon CloudFront](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#AmazonCF)  is aware of. To be able to create working signed URLs, a trusted signer must appear in this list with at least one key pair ID.
 
-additional authenticated data
+**additional authenticated data**
 
 Information that is checked for integrity but not encrypted, such as headers or other contextual metadata.
 
-administrative suspension
+**administrative suspension**
 
 [Auto Scaling](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#AutoScaling)  might suspend processes for  [Auto Scaling group](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#AutoScalingGroup)  that repeatedly fail to launch instances. Auto Scaling groups that most commonly experience administrative suspension have zero running instances, have been trying to launch instances for more than 24 hours, and have not succeeded in that time.
 
-alarm
+**alarm**
 
 An item that watches a single metric over a specified time period, and triggers an  [Amazon SNS](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#SNS)  [topic](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#topic)  or an  [Auto Scaling](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#AutoScaling)  [policy](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#policy)  if the value of the metric crosses a threshold value over a predetermined number of time periods.
 
-allow
+**allow**
 
 One of two possible outcomes (the other is  [deny](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#deny)) when an  [IAM](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#IAM)  access  [policy](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#policy)  is evaluated. When a user makes a request to AWS, AWS evaluates the request based on all permissions that apply to the user and then returns either allow or deny.
 
-Amazon API Gateway
+**Amazon API Gateway**
 
 A fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale.
 
 See Also  [https://aws.amazon.com/api-gateway](https://aws.amazon.com/apigateway/).
 
-Amazon AppStream
+**Amazon AppStream**
 
 A web service for streaming existing Windows applications from the cloud to any device.
 
 See Also  [https://aws.amazon.com/appstream/](https://aws.amazon.com/appstream/).
 
-Amazon Aurora
+**Amazon Aurora**
 
 A fully managed MySQL-compatible relational database engine that combines the speed and availability of commercial databases with the simplicity and cost-effectiveness of open source databases.
 
 See Also  [https://aws.amazon.com/rds/aurora/](https://aws.amazon.com/rds/aurora/).
 
-Amazon Cloud Directory  (Cloud Directory)
+**Amazon Cloud Directory  (Cloud Directory)**
 
 A service that provides a highly scalable directory store for your application’s multihierarchical data.
 
@@ -3288,7 +3288,7 @@ Standard measurement for the values submitted to  [Amazon CloudWatch](https://do
 
 unlink from VPC
 
-The process of unlinking (or detaching) an EC2-Classic  [instance](https://docs.aws.amazon.com/gene
+The process of unlinking (or detaching) an EC2-Classic  [instance](
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTQ0NDk3ODYsMTA5NDU0NTE3M119
+eyJoaXN0b3J5IjpbLTQ4OTMwOTU3MCwxMDk0NTQ1MTczXX0=
 -->
