@@ -1,6 +1,6 @@
 ### Numbers and Symbols
 
-100-continue
+**100-continue**
 
 A method that enables a client to see if a server can accept a request before actually sending it. For large PUT requests, this method can save both time and bandwidth charges.
 
@@ -8,19 +8,19 @@ A method that enables a client to see if a server can accept a request before ac
 
 [Numbers and Symbols](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#numbers)  |  [A](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#A)  |  [B](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#B)  |  [C](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#C)  |  [D](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#D)  |  [E](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#E)  |  [F](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#F)  |  [G](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#G)  |  [H](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#H)  |  [I](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#I)  |  [J](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#J)  |  [K](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#K)  |  [L](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#L)  |  [M](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#M)  |  [N](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#N)  |  [O](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#O)  |  [P](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#P)  |  [Q](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#Q)  |  [R](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#R)  |  [S](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#S)  |  [T](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#T)|  [U](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#U)  |  [V](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#V)  |  [W](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#W)  |  [X, Y, Z](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#XYZ)
 
-AAD
+**AAD**
 
 See  [additional authenticated data](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#additional_authenticated_data).
 
-access control list  (ACL)
+**access control list  (ACL)**
 
 A document that defines who can access a particular  [bucket](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#bucket)  or object. Each  [bucket](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#bucket)  and object in  [Amazon S3](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#AmazonSimpleStorageService)  has an ACL. The document defines what each type of user can do, such as write and read permissions.
 
-access identifiers
+**access identifiers**
 
 See  [credentials](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#accesscredentials).
 
-access key
+**access key**
 
 The combination of an  [access key ID](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#accesskeyID)  (like  `AKIAIOSFODNN7EXAMPLE`) and a  [secret access key](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#SecretAccessKey)(like  `wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY`). You use access keys to sign API requests that you make to AWS.
 
@@ -3288,7 +3288,7 @@ Standard measurement for the values submitted to  [Amazon CloudWatch](https://do
 
 unlink from VPC
 
-The process of unlinking (or detaching) an EC2-Classic  [instance](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#instance)  from a ClassicLink-enabled 
+The process of unlinking (or detaching) an EC2-Classic  [instance](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#instance)  from a 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NDU0NTE3M119
+eyJoaXN0b3J5IjpbLTE4ODk0NDMxNDcsMTA5NDU0NTE3M119
 -->
