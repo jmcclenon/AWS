@@ -164,17 +164,17 @@ An AWS service that captures a time-ordered sequence of item-level modifications
 
 See Also  [https://aws.amazon.com/dynamodb/](https://aws.amazon.com/dynamodb/).
 
-Amazon Elastic Block Store  (Amazon EBS)
+**Amazon Elastic Block Store  (Amazon EBS)**
 
 A service that provides block level storage  [volume](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#volume)s for use with  [EC2 instance](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#ec2instance)s.
 
 See Also  [https://aws.amazon.com/ebs](https://aws.amazon.com/ebs/).
 
-Amazon EBS-backed AMI
+**Amazon EBS-backed AMI**
 
 A type of  [Amazon Machine Image  (AMI)](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#AmazonMachineImage)  whose  [instance](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#instance)s use an  [Amazon EBS](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#EBS)  [volume](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#volume)  as their root device. Compare this with instances launched from  [instance store-backed AMI](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#instancebacked)s, which use the  [instance store](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#instancestore)  as the root device.
 
-Amazon Elastic Container Registry  (Amazon ECR)
+**Amazon Elastic Container Registry  (Amazon ECR)**
 
 A fully managed Docker container registry that makes it easy for developers to store, manage, and deploy Docker container images. Amazon ECR is integrated with  [Amazon Elastic Container Service  (Amazon ECS)](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#ecs)  and  [AWS Identity and Access Management  (IAM)](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#IAM).
 
@@ -3288,7 +3288,7 @@ Standard measurement for the values submitted to  [Amazon CloudWatch](https://do
 
 unlink from VPC
 
-The process of unlinking (or de
+The process of unli
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjQ3MjE4MCwxMDk0NTQ1MTczXX0=
+eyJoaXN0b3J5IjpbNjUyNTc1MTMzLDEwOTQ1NDUxNzNdfQ==
 -->
