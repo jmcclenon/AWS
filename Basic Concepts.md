@@ -55,10 +55,12 @@ Iaas: When a service provider offers virtualized hardware or computing infrastru
 
 PaaS: PaaS is a type of cloud computing service in which a service provider offers application platforms and tools over the cloud, usually to enable application development. In this service model, underlying hardware and software are hosted on the service provider's infrastructure.
 
-SaaS: In the SaaS model, the service provider offers software or applications as services. Such services are hosted by the providers and the end customer simply consumes this 
+SaaS: In the SaaS model, the service provider offers software or applications as services. Such services are hosted by the providers and the end customer simply consumes this SaaS without worrying about the underlying platform, infrastructure, and maintenance.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTgxMTk0OTIsMTE1MzA3NDA1Niw0OT
-AxMTYwNzAsLTE1NzAyODQxNjgsLTE2MDQ3MDA4NjcsMTU5ODAx
-NjkzOSw5MjYzMDI5MDYsOTY5MDg1Nzk2LC0xNTA0NjI5MDUsLT
-E3NzEyMjk2NDNdfQ==
+eyJoaXN0b3J5IjpbLTI5MDE0NzI4LDExNTMwNzQwNTYsNDkwMT
+E2MDcwLC0xNTcwMjg0MTY4LC0xNjA0NzAwODY3LDE1OTgwMTY5
+MzksOTI2MzAyOTA2LDk2OTA4NTc5NiwtMTUwNDYyOTA1LC0xNz
+cxMjI5NjQzXX0=
 -->
