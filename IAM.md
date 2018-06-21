@@ -42,8 +42,12 @@ When using Active Directory to authenticate to AWS, what are the correct steps p
 4. The user's browser then posts the SAML assertion to the AWS SAML end point for SAML and the [AssumeRoleWithSAML API](https://docs.aws.amazon.com/STS/latest/APIReference/API_AssumeRoleWithSAML.html) request is used to request temporary security credentials.
 5. The user is then able to access the AWS console.
 
+---
+
+AWS tasks that require root access:
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNTg0MTQ5MywxODcxMTgwMTMwLC0xMj
-U5MDI5ODg1LC0xNTYzNzY1ODgzLDEyNTc0MDQ1MDldfQ==
+eyJoaXN0b3J5IjpbMjUwNjAzNjU5LDE4NzExODAxMzAsLTEyNT
+kwMjk4ODUsLTE1NjM3NjU4ODMsMTI1NzQwNDUwOV19
 -->
