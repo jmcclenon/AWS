@@ -22,7 +22,7 @@ See  [credentials](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#
 
 **access key**
 
-The combination of an  [access key ID](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#accesskeyID)  (like  AKIAIOSFODNN7EXAMPLE`) and a  [secret access key](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#SecretAccessKey)(like  `wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY`). You use access keys to sign API requests that you make to AWS.
+The combination of an  [access key ID](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#accesskeyID)  (like  AKIAIOSFODNN7EXAMPLE`) and a  [secret access key](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#SecretAccessKey)(like wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY`). You use access keys to sign API requests that you make to AWS.
 
 **access key ID**
 
@@ -3290,5 +3290,6 @@ unlink from VPC
 
 The process of unli
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUyNTc1MTMzLDEwOTQ1NDUxNzNdfQ==
+eyJoaXN0b3J5IjpbLTk3MzkxNjA2Nyw2NTI1NzUxMzMsMTA5ND
+U0NTE3M119
 -->
