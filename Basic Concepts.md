@@ -67,7 +67,7 @@ This cloud model is composed of five essential characteristics, three service mo
 
 **Essential Characteristics:** 
 
-*On-demand self-service* 
+*On-demand self-service:* 
 
 A consumer can unilaterally provision computing capabilities, such as server time and network storage, as needed automatically without requiring human interaction with each service provider. 
 
@@ -125,8 +125,8 @@ The cloud infrastructure is a composition of two or more distinct cloud infrastr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MTY4NTkyLDEzNTE3NDQ0ODcsLTE0MD
-Q4MDQ5OTIsMTE1MzA3NDA1Niw0OTAxMTYwNzAsLTE1NzAyODQx
-NjgsLTE2MDQ3MDA4NjcsMTU5ODAxNjkzOSw5MjYzMDI5MDYsOT
-Y5MDg1Nzk2LC0xNTA0NjI5MDUsLTE3NzEyMjk2NDNdfQ==
+eyJoaXN0b3J5IjpbLTE1MTU5MjU1NDYsMTM1MTc0NDQ4NywtMT
+QwNDgwNDk5MiwxMTUzMDc0MDU2LDQ5MDExNjA3MCwtMTU3MDI4
+NDE2OCwtMTYwNDcwMDg2NywxNTk4MDE2OTM5LDkyNjMwMjkwNi
+w5NjkwODU3OTYsLTE1MDQ2MjkwNSwtMTc3MTIyOTY0M119
 -->
