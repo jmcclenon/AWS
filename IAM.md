@@ -44,10 +44,42 @@ When using Active Directory to authenticate to AWS, what are the correct steps p
 
 ---
 
-AWS tasks that require root access:
+## AWS tasks that require root access:
 
+The tasks listed below require you to sign in as the AWS account root user.  [We normally recommend that you use a standard IAM user with appropriate permissions to perform all normal user or administrative tasks](http://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html#lock-away-credentials). However, you can perform the tasks listed below only when you sign in as the root user of an account.
 
+-   [Modify root user details](https://docs.aws.amazon.com/general/latest/gr/aws-sec-cred-types.html#email-and-password-for-your-AWS-account). This includes changing the root user's password.
+    
+-   [Change your AWS support plan](http://docs.aws.amazon.com/awssupport/latest/user/getting-started.html).
+    
+-   [Change or delete your payment options](http://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/manage-payments.html)  - an IAM user can perform this after you enable billing access for IAM users. For more information, see  [Activating Access to the Billing and Cost Management Console](http://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/grantaccess.html#ControllingAccessWebsite-Activate).
+    
+-   [View your account's billing information](http://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/getting-viewing-bill.html)  - an IAM user can perform this after you enable billing access for IAM users. For more information, see  [Activating Access to the Billing and Cost Management Console](http://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/grantaccess.html#ControllingAccessWebsite-Activate).
+    
+-   [Contact Customer Support about your bill](http://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/billing-get-answers.html).
+    
+-   [Close an AWS account](http://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/close-account.html).
+    
+-   [Sign up for GovCloud](http://docs.aws.amazon.com/govcloud-us/latest/UserGuide/getting-started-sign-up.html).
+    
+-   [Submit a Reverse DNS for Amazon EC2 request](https://aws.amazon.com/blogs/aws/reverse-dns-for-ec2s-elastic-ip-addresses/). The "[this form](https://aws-portal.amazon.com/gp/aws/html-forms-controller/contactus/ec2-email-limit-rdns-request)" link on that page to submit a request works only if you sign in with root user credentials.
+    
+-   [Create a CloudFront key pair](http://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-trusted-signers.html#private-content-creating-cloudfront-key-pairs).
+    
+-   [Create an AWS-created X.509 signing certificate](http://docs.aws.amazon.com/AmazonDevPay/latest/DevPayDeveloperGuide/X509Certificates.html#UsingAWSCertificate). (You can still make self-created certificates for IAM users.)
+    
+-   [Transfer an Route 53 domain to another AWS account](http://docs.aws.amazon.com/Route53/latest/DeveloperGuide/domain-transfer-between-aws-accounts.html).
+    
+-   [Change the Amazon EC2 setting for longer resource IDs](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/resource-ids.html#resource-ids-working-with-self). Changing this setting as the root user affects all users and roles in the account. Changing it as an IAM user or IAM role affects only that user or role.
+    
+-   [Submit a request to perform penetration testing on your AWS infrastructure using the web form](https://aws.amazon.com/premiumsupport/knowledge-center/penetration-testing/). Alternatively, you can submit your request via email without needing root user access.
+    
+-   [Request removal of the port 25 email throttle on your EC2 instance](https://aws.amazon.com/premiumsupport/knowledge-center/ec2-port-25-throttle/).
+    
+-   [Find your AWS account canonical user ID](https://docs.aws.amazon.com/general/latest/gr/acct-identifiers.html#FindingCanonicalId). You can view your canonical user ID from the AWS Management Console only while signed in as the AWS account root user. You can view your canonical user ID as an IAM user with the AWS API or AWS CLI.
+    
+-   [Reassigning permissions in a resource-based policy (such as an S3 bucket policy) that were revoked by explicitly denying IAM users access.](http://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_manage-edit.html)  Root users are not blocked by an explicit deny like IAM users can be.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUwNjAzNjU5LDE4NzExODAxMzAsLTEyNT
-kwMjk4ODUsLTE1NjM3NjU4ODMsMTI1NzQwNDUwOV19
+eyJoaXN0b3J5IjpbLTkwNzE2NDk1NiwxODcxMTgwMTMwLC0xMj
+U5MDI5ODg1LC0xNTYzNzY1ODgzLDEyNTc0MDQ1MDldfQ==
 -->
