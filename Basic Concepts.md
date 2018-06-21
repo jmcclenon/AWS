@@ -21,11 +21,11 @@ Asia Pacific (Sydney) ap-southeast-2
 Canada (Central) ca-central-1
 China (Beijing) cn-north-1
 China (Ningxia) cn-northwest-1
-EU (Frankfurt) 
-EU (Ireland)
-EU (London)
-EU (Paris)
-South America (São Paulo)
+EU (Frankfurt) eu-central-1
+EU (Ireland) eu-west-1
+EU (London) eu-west-2
+EU (Paris) eu-west-3
+South America (São Paulo) sa-east-1
 
 
 **Availability Zone**:
@@ -34,7 +34,7 @@ An **Availability Zone** is an isolated location inside a region. Each region is
 **Edge Location**:
 An **edge location** is where end users access services located at AWS. They are located in most of the major cities around the world and are specifically used by CloudFront (CDN) to distribute content to end user to reduce latency. It is like frontend for the service we access which are located in AWS cloud.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NTA1OTkyNCwtMTYwNDcwMDg2NywxNT
+eyJoaXN0b3J5IjpbMTg4OTcyMzgwNSwtMTYwNDcwMDg2NywxNT
 k4MDE2OTM5LDkyNjMwMjkwNiw5NjkwODU3OTYsLTE1MDQ2Mjkw
 NSwtMTc3MTIyOTY0M119
 -->
