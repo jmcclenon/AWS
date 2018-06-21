@@ -7,8 +7,7 @@ IAM consists of the following:
    collectively)
  - Roles
  - Policy Documents (written in [JSON](https://www.json.org/) using attributes and values)
-
-IAM is universal. It does not apply to regions at this time.
+ - IAM is universal. It does not apply to regions at this time.
 
 The root account is simply the account created when your account is first setup. It has complete admin access.
 
@@ -20,7 +19,7 @@ The Access Key ID/Secret Access Keys are not the same as a password, and you can
 
 You can use the Access Key ID/Secret Access Key to access AWS via the APIs and command line. The username/password cannot be used to access the APIs.
 
-The Access Key/Secret Key are only accessed once, when the user is created, and must be downloaded when presented, usually in CSV format. If these keys are lost, they must be regenerated, resulting in different keys.
+The Access Key/Secret Key can only be accessed once, when the user is created, and must be downloaded when presented, usually in CSV format. If these keys are lost, they must be regenerated, resulting in different keys.
 
 It is a best practice to setup [Multi-factor Authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication) on your root account.
 
@@ -40,6 +39,6 @@ When using Active Directory to authenticate to AWS, what are the correct steps p
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1Njc2MDMxNiwtMTI1OTAyOTg4NSwtMT
-U2Mzc2NTg4MywxMjU3NDA0NTA5XX0=
+eyJoaXN0b3J5IjpbLTE1OTkxOTQxMDQsLTEyNTkwMjk4ODUsLT
+E1NjM3NjU4ODMsMTI1NzQwNDUwOV19
 -->
