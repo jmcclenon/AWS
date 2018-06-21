@@ -59,31 +59,31 @@ SaaS: In the SaaS model, the service provider offers software or applications as
 
 ---
 
-NIST Definition of Cloud Computing
+**NIST Definition of Cloud Computing**
 
 Cloud computing is a model for enabling ubiquitous, convenient, on-demand network access to a shared pool of configurable computing resources (e.g., networks, servers, storage, applications, and services) that can be rapidly provisioned and released with minimal management effort or service provider interaction. 
 
 This cloud model is composed of five essential characteristics, three service models, and four deployment models. 
 
-Essential Characteristics: 
+**Essential Characteristics:** 
 
-On-demand self-service. 
+*On-demand self-service.* 
 
 A consumer can unilaterally provision computing capabilities, such as server time and network storage, as needed automatically without requiring human interaction with each service provider. 
 
-Broad network access.
+*Broad network access.*
 
  Capabilities are available over the network and accessed through standard mechanisms that promote use by heterogeneous thin or thick client platforms (e.g., mobile phones, tablets, laptops, and workstations). 
 
-Resource pooling. 
+*Resource pooling.* 
 
 The provider’s computing resources are pooled to serve multiple consumers using a multi-tenant model, with different physical and virtual resources dynamically assigned and reassigned according to consumer demand. There is a sense of location independence in that the customer generally has no control or knowledge over the exact location of the provided resources but may be able to specify location at a higher level of abstraction (e.g., country, state, or datacenter). Examples of resources include storage, processing, memory, and network bandwidth. 
 
-Rapid elasticity. 
+*Rapid elasticity.* 
 
 Capabilities can be elastically provisioned and released, in some cases automatically, to scale rapidly outward and inward commensurate with demand. To the consumer, the capabilities available for provisioning often appear to be unlimited and can be appropriated in any quantity at any time. 
 
-Measured service. 
+*Measured service.* 
 
 Cloud systems automatically control and optimize resource use by leveraging a metering capability1 at some level of abstraction appropriate to the type of service (e.g., storage, processing, bandwidth, and active user accounts). Resource usage can be monitored, controlled, and reported, providing transparency for both the provider and consumer of the utilized service. 
 
@@ -125,8 +125,8 @@ The cloud infrastructure is a composition of two or more distinct cloud infrastr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMTY5MTA1MCwxMzUxNzQ0NDg3LC0xND
-A0ODA0OTkyLDExNTMwNzQwNTYsNDkwMTE2MDcwLC0xNTcwMjg0
-MTY4LC0xNjA0NzAwODY3LDE1OTgwMTY5MzksOTI2MzAyOTA2LD
-k2OTA4NTc5NiwtMTUwNDYyOTA1LC0xNzcxMjI5NjQzXX0=
+eyJoaXN0b3J5IjpbMzIzOTYzMTMyLDEzNTE3NDQ0ODcsLTE0MD
+Q4MDQ5OTIsMTE1MzA3NDA1Niw0OTAxMTYwNzAsLTE1NzAyODQx
+NjgsLTE2MDQ3MDA4NjcsMTU5ODAxNjkzOSw5MjYzMDI5MDYsOT
+Y5MDg1Nzk2LC0xNTA0NjI5MDUsLTE3NzEyMjk2NDNdfQ==
 -->
