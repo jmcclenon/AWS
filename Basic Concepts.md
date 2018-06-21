@@ -43,10 +43,14 @@ There are more **Edge Locations** than **Availability Zones**.
 
 ---
 
+SaaS, Paas, and Iaas
 
+Cloud computing is a broad term and covers many services. Common cloud computing models are:
+
+Infrastructure as 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzU3NjgwOTcsMTE1MzA3NDA1Niw0OT
-AxMTYwNzAsLTE1NzAyODQxNjgsLTE2MDQ3MDA4NjcsMTU5ODAx
-NjkzOSw5MjYzMDI5MDYsOTY5MDg1Nzk2LC0xNTA0NjI5MDUsLT
-E3NzEyMjk2NDNdfQ==
+eyJoaXN0b3J5IjpbMTExNzg1MTU2MiwxMTUzMDc0MDU2LDQ5MD
+ExNjA3MCwtMTU3MDI4NDE2OCwtMTYwNDcwMDg2NywxNTk4MDE2
+OTM5LDkyNjMwMjkwNiw5NjkwODU3OTYsLTE1MDQ2MjkwNSwtMT
+c3MTIyOTY0M119
 -->
