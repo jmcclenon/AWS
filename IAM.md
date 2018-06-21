@@ -43,7 +43,11 @@ When using Active Directory to authenticate to AWS, what are the correct steps p
 5. The user is then able to access the AWS console.
 
 ---
-Quest
+Question:
+When using Web Identity Federation to allow a user to access an AWS service (such as an S3 bucket) what is the correct order of steps?
+
+Answer:
+The user authenticates with Facebook/Twitter/Google fir
 
 
 ---
@@ -85,7 +89,7 @@ The tasks listed below require you to sign in as the AWS account root user.  [We
     
 -   [Reassigning permissions in a resource-based policy (such as an S3 bucket policy) that were revoked by explicitly denying IAM users access.](http://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_manage-edit.html)  Root users are not blocked by an explicit deny like IAM users can be.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjAwODY1MTcsLTkwNzE2NDk1NiwxOD
-cxMTgwMTMwLC0xMjU5MDI5ODg1LC0xNTYzNzY1ODgzLDEyNTc0
-MDQ1MDldfQ==
+eyJoaXN0b3J5IjpbLTg5Mzg2MjI4LC05MDcxNjQ5NTYsMTg3MT
+E4MDEzMCwtMTI1OTAyOTg4NSwtMTU2Mzc2NTg4MywxMjU3NDA0
+NTA5XX0=
 -->
