@@ -33,10 +33,11 @@ Question: When using Active Directory to authenticate to AWS, what are the corre
 Answer:
 1. The user navigates to ADFS webserver.
 2. The user enters their single sign on credentials.
-3. The user's web browser receives a SAML a
+3. The user's web browser receives a SAML assertion from the AD server.
+4. The user's browser then posts the SAML assertion to the AWS SAML end point for SAML and the AssumeRoleWithSAML API
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk0MjA3NDA2LC0xMjU5MDI5ODg1LC0xNT
+eyJoaXN0b3J5IjpbNzIyNTY1MzI4LC0xMjU5MDI5ODg1LC0xNT
 YzNzY1ODgzLDEyNTc0MDQ1MDldfQ==
 -->
