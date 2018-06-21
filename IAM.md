@@ -15,10 +15,14 @@ New users have NO permissions when first created.
 
 New users are assigned Access Key ID and Secret Access Keys when first created.
 
-The Access Key ID/Secret Access Keys are not the same as a password, and you cannot use the Access key ID and Secret key to login to the console. 
+The Access Key ID/Secret Access Keys are not the same as a password, and you cannot use the Access Key ID/Secret Key to login to the console. 
 
-You can use the Access Key ID/Secret Access Key to access AWS via the APIs and 
+You can use the Access Key ID/Secret Access Key to access AWS via the APIs and command line.
+
+The Access Key/Secret
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQzMjAzMDMxLC0xNTYzNzY1ODgzLDEyNT
-c0MDQ1MDldfQ==
+eyJoaXN0b3J5IjpbLTE1MjIwNzg4MjcsLTE1NjM3NjU4ODMsMT
+I1NzQwNDUwOV19
 -->
