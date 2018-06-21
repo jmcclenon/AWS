@@ -10,11 +10,11 @@ IAM consists of the following:
 
 IAM is universal. It does not apply to regions at this time.
 
-The root account is simply the account created when first your account is first setup. It has complete admin access.
+The root account is simply the account created when your account is first setup. It has complete admin access.
 
-New users have NO permissions when first created.
+New users have NO permissions when they are first created. Permission must be assigned to all new users of the admin console.
 
-New users are assigned Access Key ID and Secret Access Keys when first created.
+New users are assigned Access Key ID/Secret Access Keys when first created.
 
 The Access Key ID/Secret Access Keys are not the same as a password, and you cannot use the Access Key ID/Secret Key to login to the console. 
 
@@ -27,6 +27,6 @@ It is good practice to setup Multifactor Authentication on your root account.
 You can create and customize your own password rotation policies from the console.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1ODUxNTk5OSwtMTU2Mzc2NTg4MywxMj
-U3NDA0NTA5XX0=
+eyJoaXN0b3J5IjpbLTEzOTkxMTgxMDYsLTE1NjM3NjU4ODMsMT
+I1NzQwNDUwOV19
 -->
