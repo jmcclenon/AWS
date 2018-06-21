@@ -10,7 +10,9 @@ IAM consists of the following:
 
 IAM is universal. It does not apply to regions at this time.
 
-The root account is the account created when your account is first setup. It has complete admin access. The user's email address is used to set this up. The user provides a password during the sign-up process.
+The [root account](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_root-user.html) is the account created when your account is first setup. It has complete admin access. The user's email address is used to set this up. The user provides a password during the sign-up process.
+
+
 
 New users have NO permissions when they are first created. Permission must be assigned to all new users of the admin console.
 
@@ -40,6 +42,6 @@ When using Active Directory to authenticate to AWS, what are the correct steps p
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MTE4MDEzMCwtMTI1OTAyOTg4NSwtMT
-U2Mzc2NTg4MywxMjU3NDA0NTA5XX0=
+eyJoaXN0b3J5IjpbMjU1ODY3MTAzLDE4NzExODAxMzAsLTEyNT
+kwMjk4ODUsLTE1NjM3NjU4ODMsMTI1NzQwNDUwOV19
 -->
