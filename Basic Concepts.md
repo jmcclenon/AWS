@@ -57,10 +57,14 @@ PaaS: PaaS is a type of cloud computing service in which a service provider offe
 
 SaaS: In the SaaS model, the service provider offers software or applications as services. Such services are hosted by the providers and the end customer simply consumes this SaaS without worrying about the underlying platform, infrastructure, and maintenance.
 
+---
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MDE0NzI4LC0xNDA0ODA0OTkyLDExNT
-MwNzQwNTYsNDkwMTE2MDcwLC0xNTcwMjg0MTY4LC0xNjA0NzAw
-ODY3LDE1OTgwMTY5MzksOTI2MzAyOTA2LDk2OTA4NTc5NiwtMT
-UwNDYyOTA1LC0xNzcxMjI5NjQzXX0=
+eyJoaXN0b3J5IjpbMTM1MTc0NDQ4NywtMTQwNDgwNDk5MiwxMT
+UzMDc0MDU2LDQ5MDExNjA3MCwtMTU3MDI4NDE2OCwtMTYwNDcw
+MDg2NywxNTk4MDE2OTM5LDkyNjMwMjkwNiw5NjkwODU3OTYsLT
+E1MDQ2MjkwNSwtMTc3MTIyOTY0M119
 -->
