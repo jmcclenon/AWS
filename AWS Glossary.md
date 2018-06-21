@@ -110,7 +110,7 @@ A service that provides a highly scalable directory store for your applicationâ€
 
 See Also  [https://aws.amazon.com/cloud-directory/](https://aws.amazon.com/cloud-directory/).
 
-Amazon CloudFront
+**Amazon CloudFront**
 
 (CloudFront)
 
@@ -118,47 +118,47 @@ An AWS content delivery service that helps you improve the performance, reliabil
 
 See Also  [https://aws.amazon.com/cloudfront](https://aws.amazon.com/cloudfront/).
 
-Amazon CloudSearch
+**Amazon CloudSearch**
 
 A fully managed service in the AWS cloud that makes it easy to set up, manage, and scale a search solution for your website or application.
 
-Amazon CloudWatch
+**Amazon CloudWatch**
 
 A web service that enables you to monitor and manage various metrics, and configure alarm actions based on data from those metrics.
 
 See Also  [https://aws.amazon.com/cloudwatch](https://aws.amazon.com/cloudwatch/).
 
-Amazon CloudWatch Events
+**Amazon CloudWatch Events**
 
 A web service that enables you to deliver a timely stream of system events that describe changes in AWS  [resource](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#resource)s to  [AWS Lambda](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#lambda)  functions, streams in  [Amazon Kinesis Data Streams](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#AmazonKinesisStreams),  [Amazon Simple Notification Service](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#SNS)  topics, or built-in targets.
 
 See Also  [https://aws.amazon.com/cloudwatch](https://aws.amazon.com/cloudwatch/).
 
-Amazon CloudWatch Logs
+**Amazon CloudWatch Logs**
 
 A web service for monitoring and troubleshooting your systems and applications from your existing system, application, and custom log files. You can send your existing log files to CloudWatch Logs and monitor these logs in near real-time.
 
 See Also  [https://aws.amazon.com/cloudwatch](https://aws.amazon.com/cloudwatch/).
 
-Amazon Cognito
+**Amazon Cognito**
 
 A web service that makes it easy to save mobile user data, such as app preferences or game state, in the AWS cloud without writing any back-end code or managing any infrastructure. Amazon Cognito offers mobile identity management and data synchronization across devices.
 
 See Also  [https://aws.amazon.com/cognito/](https://aws.amazon.com/cognito/).
 
-Amazon DynamoDB
+**Amazon DynamoDB**
 
 A fully managed NoSQL database service that provides fast and predictable performance with seamless scalability.
 
 See Also  [https://aws.amazon.com/dynamodb/](https://aws.amazon.com/dynamodb/).
 
-Amazon DynamoDB Storage Backend for Titan
+**Amazon DynamoDB Storage Backend for Titan**
 
 A storage backend for the Titan graph database implemented on top of Amazon DynamoDB. Titan is a scalable graph database optimized for storing and querying graphs.
 
 See Also  [https://aws.amazon.com/dynamodb/](https://aws.amazon.com/dynamodb/).
 
-Amazon DynamoDB Streams
+**Amazon DynamoDB Streams**
 
 An AWS service that captures a time-ordered sequence of item-level modifications in any Amazon DynamoDB table, and stores this information in a log for up to 24 hours. Applications can access this log and view the data items as they appeared before and after they were modified, in near real time.
 
@@ -3288,7 +3288,7 @@ Standard measurement for the values submitted to  [Amazon CloudWatch](https://do
 
 unlink from VPC
 
-The process of unlinking (or detaching) an EC2-Classic  [instance](
+The process of unlinking (or de
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4OTMwOTU3MCwxMDk0NTQ1MTczXX0=
+eyJoaXN0b3J5IjpbLTE1MjQ3MjE4MCwxMDk0NTQ1MTczXX0=
 -->
