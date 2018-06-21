@@ -12,6 +12,8 @@ US East (Ohio)
 US East (N. Virginia)
 US West (N. California)
 US West (Oregon)
+Asia Pacific (Tokyo)
+Asia Pacific (Seoul)
 
 
 **Availability Zone**:
@@ -20,7 +22,7 @@ An **Availability Zone** is an isolated location inside a region. Each region is
 **Edge Location**:
 An **edge location** is where end users access services located at AWS. They are located in most of the major cities around the world and are specifically used by CloudFront (CDN) to distribute content to end user to reduce latency. It is like frontend for the service we access which are located in AWS cloud.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMzkzNjI4NywtMTYwNDcwMDg2NywxNT
-k4MDE2OTM5LDkyNjMwMjkwNiw5NjkwODU3OTYsLTE1MDQ2Mjkw
-NSwtMTc3MTIyOTY0M119
+eyJoaXN0b3J5IjpbMTkzMjU2MTksLTE2MDQ3MDA4NjcsMTU5OD
+AxNjkzOSw5MjYzMDI5MDYsOTY5MDg1Nzk2LC0xNTA0NjI5MDUs
+LTE3NzEyMjk2NDNdfQ==
 -->
