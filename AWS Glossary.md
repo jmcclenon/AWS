@@ -40,33 +40,33 @@ A language for writing documents (that is,  [_policies_](https://docs.aws.amazon
 
 A formal relationship with AWS that is associated with (1) the owner email address and password, (2) the control of  [resource](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#resource)s created under its umbrella, and (3) payment for the AWS activity related to those resources. The AWS account has permission to do anything and everything with all the AWS account resources. This is in contrast to a  [user](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#AWSUser), which is an entity contained within the account.
 
-account activity
+**account activity**
 
 A web page showing your month-to-date AWS usage and costs. The account activity page is located at  [https://aws.amazon.com/account-activity/](https://aws.amazon.com/account-activity/).
 
-ACL
+**ACL**
 
 See  [access control list (ACL)](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#ACL).
 
-ACM
+**ACM**
 
 See  [AWS Certificate Manager (ACM)](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#acm).
 
-ACM PCA
+**ACM PCA**
 
 See  [AWS Certificate Manager Private Certificate Authority (ACM PCA)](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#acm-pca).
 
-ACM Private CA
+**ACM Private CA**
 
 See  [AWS Certificate Manager Private Certificate Authority (ACM PCA)](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#acm-pca).
 
-action
+**action**
 
 An API function. Also called  _operation_  or  _call_. The activity the  [principal](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#principal)  has permission to perform. The action is B in the statement "A has permission to do B to C where D applies." For example, Jane sends a request to  [Amazon SQS](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#AmazonSimpleQueueService)  with Action=ReceiveMessage.
 
-[Amazon CloudWatch](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#AmazonCW): The response initiated by the change in an alarm's state: for example, from OK to ALARM. The state change may be triggered by a metric reaching the alarm threshold, or by a SetAlarmState request. Each alarm can have one or more actions assigned to each state. Actions are performed once each time the alarm changes to a state that has an action assigned, such as an  [Amazon Simple Notification Service](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#SNS)notification, an  [Auto Scaling](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#AutoScaling)  [policy](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#policy)  execution or an  [Amazon EC2](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#ec2)  [instance](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#instance)  stop/terminate action.
+[**Amazon CloudWatch**](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#AmazonCW): The response initiated by the change in an alarm's state: for example, from OK to ALARM. The state change may be triggered by a metric reaching the alarm threshold, or by a SetAlarmState request. Each alarm can have one or more actions assigned to each state. Actions are performed once each time the alarm changes to a state that has an action assigned, such as an  [Amazon Simple Notification Service](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#SNS)notification, an  [Auto Scaling](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#AutoScaling)  [policy](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#policy)  execution or an  [Amazon EC2](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#ec2)  [instance](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#instance)  stop/terminate action.
 
-active trusted signers
+**active trusted signers**
 
 A list showing each of the trusted signers you've specified and the IDs of the corresponding active key pairs that  [Amazon CloudFront](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#AmazonCF)  is aware of. To be able to create working signed URLs, a trusted signer must appear in this list with at least one key pair ID.
 
@@ -3288,7 +3288,7 @@ Standard measurement for the values submitted to  [Amazon CloudWatch](https://do
 
 unlink from VPC
 
-The process of unlinking (or detaching) an EC2-Classic  [instance](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#ins
+The process of unlinking (or detaching) an EC2-Classic  [instance](https://docs.aws.amazon.com/gene
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMwNDYzNDgsMTA5NDU0NTE3M119
+eyJoaXN0b3J5IjpbLTE0MTQ0NDk3ODYsMTA5NDU0NTE3M119
 -->
