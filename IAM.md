@@ -1,11 +1,12 @@
-Identity Access Management
+## Identity Access Management
 
 IAM consists of the following:
 
-Users
-Groups (a way to group our users and apply policies to them collectively)
-Roles
-Policy Documents (written in JSON using attributes and values)
+ - Users
+ - Groups (a way to group our users and apply policies to them
+   collectively)
+ - Roles
+ - Policy Documents (written in JSON using attributes and values)
 
 IAM is universal. It does not apply to regions at this time.
 
@@ -23,9 +24,9 @@ The Access Key/Secret Key are only accessed once, and must be downloaded when pr
 
 It is good practice to setup Multifactor Authentication on your root account.
 
-You can create and customize your own password rotation policies from the 
+You can create and customize your own password rotation policies from the console.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MDMyMjg0MiwtMTU2Mzc2NTg4MywxMj
-U3NDA0NTA5XX0=
+eyJoaXN0b3J5IjpbLTE1NjE1OTg2MDMsLTE1NjM3NjU4ODMsMT
+I1NzQwNDUwOV19
 -->
