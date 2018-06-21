@@ -30,8 +30,13 @@ You can create and customize your own password rotation policies from the consol
 
 Question: When using Active Directory to authenticate to AWS, what are the correct steps performed?
 
+Answer:
+1. The user navigates to ADFS webserver.
+2. The user enters their single sign on credentials.
+3. The user's web browser receives a SAML a
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNzk2ODcwMiwtMTI1OTAyOTg4NSwtMT
-U2Mzc2NTg4MywxMjU3NDA0NTA5XX0=
+eyJoaXN0b3J5IjpbNDk0MjA3NDA2LC0xMjU5MDI5ODg1LC0xNT
+YzNzY1ODgzLDEyNTc0MDQ1MDldfQ==
 -->
