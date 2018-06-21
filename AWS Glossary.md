@@ -22,21 +22,21 @@ See  [credentials](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#
 
 **access key**
 
-The combination of an  [access key ID](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#accesskeyID)  (like  `AKIAIOSFODNN7EXAMPLE`) and a  [secret access key](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#SecretAccessKey)(like  `wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY`). You use access keys to sign API requests that you make to AWS.
+The combination of an  [access key ID](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#accesskeyID)  (like  AKIAIOSFODNN7EXAMPLE`) and a  [secret access key](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#SecretAccessKey)(like  `wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY`). You use access keys to sign API requests that you make to AWS.
 
-access key ID
+**access key ID**
 
 A unique identifier that's associated with a  [secret access key](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#SecretAccessKey); the access key ID and secret access key are used together to sign programmatic AWS requests cryptographically.
 
-access key rotation
+**access key rotation**
 
 A method to increase security by changing the AWS access key ID. This method enables you to retire an old key at your discretion.
 
-access policy language
+**access policy language**
 
 A language for writing documents (that is,  [_policies_](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#policy)) that specify who can access a particular AWS  [resource](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#resource)  and under what conditions.
 
-account
+**account**
 
 A formal relationship with AWS that is associated with (1) the owner email address and password, (2) the control of  [resource](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#resource)s created under its umbrella, and (3) payment for the AWS activity related to those resources. The AWS account has permission to do anything and everything with all the AWS account resources. This is in contrast to a  [user](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#AWSUser), which is an entity contained within the account.
 
@@ -3288,7 +3288,7 @@ Standard measurement for the values submitted to  [Amazon CloudWatch](https://do
 
 unlink from VPC
 
-The process of unlinking (or detaching) an EC2-Classic  [instance](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#instance)  from a 
+The process of unlinking (or detaching) an EC2-Classic  [instance](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#ins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODk0NDMxNDcsMTA5NDU0NTE3M119
+eyJoaXN0b3J5IjpbMjMwNDYzNDgsMTA5NDU0NTE3M119
 -->
