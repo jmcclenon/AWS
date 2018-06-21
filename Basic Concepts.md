@@ -31,14 +31,14 @@ Each Amazon EC2 region is designed to be completely isolated from the other Amaz
 ---
 **Availability Zone**:
 
-An **Availability Zone** is an isolated location inside a region. Each region is made up by several **Availability Zones**. Each **Availability Zone** belongs to a single region. Also, each AZ (as **AWS** expert commonly call **Availability Zones**) is isolated, but the AZs in a region are connected through low-latency links.
+An **Availability Zone** is an isolated location inside a region. Each region is made up of several **Availability Zones**. Each **Availability Zone** belongs to a single region. Also, each AZ (as **AWS** experts commonly call **Availability Zones**) is isolated, but the AZs in a region are connected through low-latency links.
 
 ---
 
 **Edge Location**:
 An **edge location** is where end users access services located at AWS. They are located in most of the major cities around the world and are specifically used by CloudFront (CDN) to distribute content to end user to reduce latency. It is like frontend for the service we access which are located in AWS cloud.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNDEzNzAzNCwtMTYwNDcwMDg2NywxNT
+eyJoaXN0b3J5IjpbLTY1NjM4NjQ4NSwtMTYwNDcwMDg2NywxNT
 k4MDE2OTM5LDkyNjMwMjkwNiw5NjkwODU3OTYsLTE1MDQ2Mjkw
 NSwtMTc3MTIyOTY0M119
 -->
