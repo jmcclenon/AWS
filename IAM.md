@@ -22,11 +22,11 @@ You can use the Access Key ID/Secret Access Key to access AWS via the APIs and c
 
 The Access Key/Secret Key are only accessed once, when the user is created, and must be downloaded when presented, usually in CSV format. If these keys are lost, they must be regenerated, resulting in different keys.
 
-It is good practice to setup Multifactor Authentication on your root account.
+It is a best practice to setup Multifactor Authentication on your root account.
 
 You can create and customize your own password rotation policies from the console.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDM5MTA3LC0xNTYzNzY1ODgzLDEyNT
-c0MDQ1MDldfQ==
+eyJoaXN0b3J5IjpbLTEyNTkwMjk4ODUsLTE1NjM3NjU4ODMsMT
+I1NzQwNDUwOV19
 -->
