@@ -36,9 +36,11 @@ An **Availability Zone** is an isolated location inside a region. Each region is
 ---
 
 **Edge Location**:
-An **edge location** is where end users access services located at AWS. They are located in most of the major cities around the world and are specifically used by CloudFront (CDN) to distribute content to end user to reduce latency. It is like frontend for the service we access which are located in AWS cloud.
+An **edge location** is where end users access services located at AWS. They are located in most of the major cities around the world and are specifically used by **CloudFront** (CDN) to distribute content to end user to reduce latency. It is like frontend for the service we access which are located in **AWS** cloud.
+
+There are more **Edge Locations** than Availability Zones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NjM4NjQ4NSwtMTYwNDcwMDg2NywxNT
-k4MDE2OTM5LDkyNjMwMjkwNiw5NjkwODU3OTYsLTE1MDQ2Mjkw
-NSwtMTc3MTIyOTY0M119
+eyJoaXN0b3J5IjpbNTg2OTA1NzIwLC0xNjA0NzAwODY3LDE1OT
+gwMTY5MzksOTI2MzAyOTA2LDk2OTA4NTc5NiwtMTUwNDYyOTA1
+LC0xNzcxMjI5NjQzXX0=
 -->
