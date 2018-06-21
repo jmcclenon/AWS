@@ -18,15 +18,15 @@ New users are assigned Access Key ID/Secret Access Keys when first created.
 
 The Access Key ID/Secret Access Keys are not the same as a password, and you cannot use the Access Key ID/Secret Key to login to the console. 
 
-You can use the Access Key ID/Secret Access Key to access AWS via the APIs and command line.
+You can use the Access Key ID/Secret Access Key to access AWS via the APIs and command line. The username/password cannot be used to access the APIs.
 
-The Access Key/Secret Key are only accessed once, and must be downloaded when presented, usually in CSV format. If these keys are lost, they must be regenerated, resulting in different keys.
+The Access Key/Secret Key are only accessed once, when the user is created, and must be downloaded when presented, usually in CSV format. If these keys are lost, they must be regenerated, resulting in different keys.
 
 It is good practice to setup Multifactor Authentication on your root account.
 
 You can create and customize your own password rotation policies from the console.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTkxMTgxMDYsLTE1NjM3NjU4ODMsMT
-I1NzQwNDUwOV19
+eyJoaXN0b3J5IjpbLTE2MDM5MTA3LC0xNTYzNzY1ODgzLDEyNT
+c0MDQ1MDldfQ==
 -->
