@@ -6,7 +6,11 @@ Users
 Groups (a way to group our users and apply policies to them collectively)
 Roles
 Policy Documents (written in JSON using attributes and values)
+
+IAM is universal. It does not apply to regions at this time.
+
+The root account is simply
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk0Nzc1NjEwLC0xNTYzNzY1ODgzLDEyNT
-c0MDQ1MDldfQ==
+eyJoaXN0b3J5IjpbLTQxNzA4Mjg5NywtMTU2Mzc2NTg4MywxMj
+U3NDA0NTA5XX0=
 -->
