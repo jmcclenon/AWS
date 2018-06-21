@@ -12,7 +12,9 @@ IAM is universal. It does not apply to regions at this time.
 
 The [root account](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_root-user.html) is the account created when your account is first setup. It has complete admin access. The user's email address is used to set this up. The user provides a password during the sign-up process.
 
+AWS strongly recommends that you do not use the root user for your everyday tasks, even the administrative ones. Instead, adhere to the [best practice of using the root user only to create your first IAM user](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html#create-iam-users). Then securely lock away the root user credentials and use them to perform only a few account and service management tasks. 
 
+To view the tasks that require you to sign in as the root user, see [AWS Tasks That Require Root User](http://docs.aws.amazon.com/general/latest/gr/aws_tasks-that-require-root.html). For a tutorial on how to set up an administrator for daily use, see [Creating Your First IAM Admin User and Group](https://docs.aws.amazon.com/IAM/latest/UserGuide/getting-started_create-admin-group.html).
 
 New users have NO permissions when they are first created. Permission must be assigned to all new users of the admin console.
 
@@ -42,6 +44,6 @@ When using Active Directory to authenticate to AWS, what are the correct steps p
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU1ODY3MTAzLDE4NzExODAxMzAsLTEyNT
-kwMjk4ODUsLTE1NjM3NjU4ODMsMTI1NzQwNDUwOV19
+eyJoaXN0b3J5IjpbMjEwNTg0MTQ5MywxODcxMTgwMTMwLC0xMj
+U5MDI5ODg1LC0xNTYzNzY1ODgzLDEyNTc0MDQ1MDldfQ==
 -->
