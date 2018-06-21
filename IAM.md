@@ -1,7 +1,4 @@
 
-
-
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NzQwNDUwOV19
+eyJoaXN0b3J5IjpbLTE1NjM3NjU4ODMsMTI1NzQwNDUwOV19
 -->
