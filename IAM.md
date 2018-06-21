@@ -26,7 +26,12 @@ It is a best practice to setup Multifactor Authentication on your root account.
 
 You can create and customize your own password rotation policies from the console.
 
+---
+
+Question: When using Active Directory to authenticate to AWS, what are the correct steps performed?
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTkwMjk4ODUsLTE1NjM3NjU4ODMsMT
-I1NzQwNDUwOV19
+eyJoaXN0b3J5IjpbLTUzNzk2ODcwMiwtMTI1OTAyOTg4NSwtMT
+U2Mzc2NTg4MywxMjU3NDA0NTA5XX0=
 -->
