@@ -89,13 +89,21 @@ Cloud systems automatically control and optimize resource use by leveraging a me
 
 Service Models: 
 
-Software as a Service (SaaS). The capability provided to the consumer is to use the provider’s applications running on a cloud infrastructure2 . The applications are accessible from various client devices through either a thin client interface, such as a web browser (e.g., web-based email), or a program interface. The consumer does not manage or control the underlying cloud infrastructure including network, servers, operating systems, storage, or even individual application capabilities, with the possible exception of limited userspecific application configuration settings. 
+Software as a Service (SaaS). 
 
-Platform as a Service (PaaS). The capability provided to the consumer is to deploy onto the cloud infrastructure consumer-created or acquired applications created using programming
+The capability provided to the consumer is to use the provider’s applications running on a cloud infrastructure2 . The applications are accessible from various client devices through either a thin client interface, such as a web browser (e.g., web-based email), or a program interface. The consumer does not manage or control the underlying cloud infrastructure including network, servers, operating systems, storage, or even individual application capabilities, with the possible exception of limited userspecific application configuration settings. 
+
+Platform as a Service (PaaS). 
+
+The capability provided to the consumer is to deploy onto the cloud infrastructure consumer-created or acquired applications created using programming languages, libraries, services, and tools supported by the provider.3 
+
+The consumer does not manage or control the underlying cloud infrastructure including network, servers, operating systems, or storage, but has control over the deployed applications and possibly configuration settings for the application-hosting environment. 
+
+Infrastructure as a Service (IaaS). The capability provided to the consumer is to provision processing, storage, networks, and other fundamental computing resources where the consumer is able to deploy and run arbitrary software, which can include operating systems and applications. The consumer does not manage or control the underlying cloud infrastructure but has control over operating systems, storage, and deployed applications; and possibly limited control of select networking components (e.g., host firewalls). Deployment Models: Private cloud. The cloud infrastructure is provisioned for exclusive use by a single organization comprising multiple consumers (e.g., business units). It may be owned, managed, and operated by the organization, a third party, or some combination of them, and it may exist on or off premises. Community cloud. The cloud infrastructure is provisioned for exclusive use by a specific community of consumers from organizations that have shared concerns (e.g., mission, security requirements, policy, and compliance considerations). It may be owned, managed, and operated by one or more of the organizations in the community, a third party, or some combination of them, and it may exist on or off premises. Public cloud. The cloud infrastructure is provisioned for open use by the general public. It may be owned, managed, and operated by a business, academic, or government organization, or some combination of them. It exists on the premises of the cloud provider. Hybrid cloud. The cloud infrastructure is a composition of two or more distinct cloud infrastructures (private, community, or public) that remain unique entities, but are bound together by standardized or proprietary technology that enables data and application portability (e.g., cloud bursting for load balancing between clouds).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMjkwODk2OSwxMzUxNzQ0NDg3LC0xND
+eyJoaXN0b3J5IjpbMTg1MDQ3MzE1MCwxMzUxNzQ0NDg3LC0xND
 A0ODA0OTkyLDExNTMwNzQwNTYsNDkwMTE2MDcwLC0xNTcwMjg0
 MTY4LC0xNjA0NzAwODY3LDE1OTgwMTY5MzksOTI2MzAyOTA2LD
 k2OTA4NTc5NiwtMTUwNDYyOTA1LC0xNzcxMjI5NjQzXX0=
