@@ -8,7 +8,7 @@ Use case: Perfect for users that want the low cost and flexibility of Amazon EC2
 
 Reserved: Provides you with a capacity reservation, and offers a significant discount on the hourly charge for an instance. 1 year or 3 year terms.
 
-Use case: Applications with steady state or predi
+Use case: Applications with steady state or predictable usage. Applications that require reserved capacity. Users can make up-front payments to reduce their total computing costs even further. Standard RIs (up to 75% off on-demand)
 
 Spot: Enables you to bid whatever price you want for instance capacity, providing for even greater savings if your applications have flexible start and end times.
 
@@ -19,5 +19,5 @@ Dedicated Hosts: Physical EC2 server dedicated for your use. Dedicated hosts can
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MTMwMzI3MV19
+eyJoaXN0b3J5IjpbLTE3MDIyNjI2MF19
 -->
