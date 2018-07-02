@@ -6,8 +6,10 @@ Reserved: Provides you with a capacity reservation, and offers a significant dis
 
 Spot: Enables you to bid whatever price you want for instance capacity, providing for even greater savings if your applications have flexible start and end times.
 
-Dedicated Hosts: Physical Ec2
+Dedicated Hosts: Physical EC2 server dedicated for your use. Dedicated hosts can help you reduce costs by allowing you to use your existing server-bound software licenses.
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI4NDg1OTg2XX0=
+eyJoaXN0b3J5IjpbNDY3MTk1NDddfQ==
 -->
