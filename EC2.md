@@ -1,6 +1,6 @@
 **EC2 Options**
 
-On Demand: Allows you to pay a fixed rate by the hour (or by the second) with no commitment. Linux instances are by the second. Windows instances are by the hour (for now).
+**On Demand**: Allows you to pay a fixed rate by the hour (or by the second) with no commitment. Linux instances are by the second. Windows instances are by the hour (for now).
 
 **Use case:** 
 
@@ -15,9 +15,20 @@ On Demand: Allows you to pay a fixed rate by the hour (or by the second) with no
 
 **Reserved**: Provides you with a capacity reservation, and offers a significant discount on the hourly charge for an instance. 1 year or 3 year terms.
 
-Use case: Applications with steady state or predictable usage. Applications that require reserved capacity. Users can make up-front payments to reduce their total computing costs even further. Standard RIs (up to 75% off on-demand) Convertible RIs (up to 54% off on-demand feature the capacity to change the attributes 
+**Use case**: 
 
-Spot: Enables you to bid whatever price you want for instance capacity, providing for even greater savings if your applications have flexible start and end times.
+ - Applications with steady state or predictable usage. Applications
+   that require reserved capacity.
+
+ - Users can make up-front payments to reduce their total computing
+   costs even further.
+
+ - Standard RIs (up to 75% off on-demand) Convertible RIs (up to 54% off
+   on-demand feature the capacity to change the attributes
+
+ 
+
+**Spot**: Enables you to bid whatever price you want for instance capacity, providing for even greater savings if your applications have flexible start and end times.
 
 Use case:
 
@@ -26,5 +37,5 @@ Dedicated Hosts: Physical EC2 server dedicated for your use. Dedicated hosts can
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjY0OTI4MzldfQ==
+eyJoaXN0b3J5IjpbMTQyMzQ1NjAwMl19
 -->
