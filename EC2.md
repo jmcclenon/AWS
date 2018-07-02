@@ -28,10 +28,10 @@
 
 **Use case**:
 
-Dedicated Hosts: Physical EC2 server dedicated for your use. Dedicated hosts can help you reduce costs by allowing you to use your existing server-bound software licenses.
+**Dedicated Hosts**: Physical EC2 server dedicated for your use. Dedicated hosts can help you reduce costs by allowing you to use your existing server-bound software licenses.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4ODYzNTg5OF19
+eyJoaXN0b3J5IjpbODc4ODU5MTQyXX0=
 -->
