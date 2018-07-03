@@ -155,9 +155,13 @@
    Gigabit,Yes
  - Storage optimized,i3.metal,72,512,8 x 1900 (SSD),Yes,25 Gigabit,Yes
 
+---
+Additional Information:
+
+See the follow
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NTY3OTQyOSwtMjkwNDAwMDMxLC04MD
-ExOTg5NjYsLTkxNzgxNTE0LC0xNTIzNDY1NzY3LC0xNjQxMTY2
-NjM2LDIxMTE0ODgyODAsLTE3NTg3MDM0NTcsODc4ODU5MTQyXX
-0=
+eyJoaXN0b3J5IjpbMTg0Mzg3NDY3MiwtODQ1Njc5NDI5LC0yOT
+A0MDAwMzEsLTgwMTE5ODk2NiwtOTE3ODE1MTQsLTE1MjM0NjU3
+NjcsLTE2NDExNjY2MzYsMjExMTQ4ODI4MCwtMTc1ODcwMzQ1Ny
+w4Nzg4NTkxNDJdfQ==
 -->
