@@ -44,7 +44,7 @@
 **EC2 Instance Types**
 *(Family, Type, vCPUs, Memory, Instance Storage, EBS Opt., Network Performance, IPv6 Support)*
 
-11 Type Families: T, M, C, F, G, P, R, X, D, I, H (*fight mc px rd*)
+11 Type Families: T, M, C, F, G, P, R, X, D, I, H (*fight dr mc px*)
 
  - General purpose,t2.nano,1,0.5,EBS only,-,Low to Moderate,Yes
  - General purpose,t2.micro,1,1,EBS only,-,Low to Moderate,Yes
@@ -162,8 +162,8 @@ See the following website for a very comprehensive view of EC2 instances, and co
 
 [https://ec2instances.info](https://ec2instances.info/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwODE1OTU3MywtODQ1Njc5NDI5LC0yOT
-A0MDAwMzEsLTgwMTE5ODk2NiwtOTE3ODE1MTQsLTE1MjM0NjU3
-NjcsLTE2NDExNjY2MzYsMjExMTQ4ODI4MCwtMTc1ODcwMzQ1Ny
-w4Nzg4NTkxNDJdfQ==
+eyJoaXN0b3J5IjpbLTUyMzgzMDk5NywtMzA4MTU5NTczLC04ND
+U2Nzk0MjksLTI5MDQwMDAzMSwtODAxMTk4OTY2LC05MTc4MTUx
+NCwtMTUyMzQ2NTc2NywtMTY0MTE2NjYzNiwyMTExNDg4MjgwLC
+0xNzU4NzAzNDU3LDg3ODg1OTE0Ml19
 -->
