@@ -12,7 +12,11 @@ IPV4 Subnet Cheat Sheet
 
  - [Calculator.NET](https://www.calculator.net/ip-subnet-calculator.html)
 
+---
+Unddfrstanding IP Addressing by Chuck Semeria (PD
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTY2MjgzNzgsNDg2NTEzNTIsLTM5OT
-kzOTA1NCwxNzc2NTEyODIsMTEwMDkzMDIwNF19
+eyJoaXN0b3J5IjpbLTU1NDQ2NjEwLC0xMDE2NjI4Mzc4LDQ4Nj
+UxMzUyLC0zOTk5MzkwNTQsMTc3NjUxMjgyLDExMDA5MzAyMDRd
+fQ==
 -->
