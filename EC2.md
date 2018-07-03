@@ -1,4 +1,4 @@
-## Elastic Cloud Compute
+## Elastic Cloud Compute (EC2)
 
 **EC2 Options**
 
@@ -150,6 +150,7 @@
  - Storage optimized,i3.metal,72,512,8 x 1900 (SSD),Yes,25 Gigabit,Yes
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjM0NjU3NjcsLTE2NDExNjY2MzYsMj
-ExMTQ4ODI4MCwtMTc1ODcwMzQ1Nyw4Nzg4NTkxNDJdfQ==
+eyJoaXN0b3J5IjpbLTkxNzgxNTE0LC0xNTIzNDY1NzY3LC0xNj
+QxMTY2NjM2LDIxMTE0ODgyODAsLTE3NTg3MDM0NTcsODc4ODU5
+MTQyXX0=
 -->
