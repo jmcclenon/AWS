@@ -34,7 +34,11 @@
 
 **Use case**:
 
+---
+
 **Dedicated Hosts**: Physical EC2 server dedicated for your use. Dedicated hosts can help you reduce costs by allowing you to use your existing server-bound software licenses.
+
+**Use Case**:
 
 ---
 **EC2 Instance Types**
@@ -152,7 +156,8 @@
  - Storage optimized,i3.metal,72,512,8 x 1900 (SSD),Yes,25 Gigabit,Yes
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MDQwMDAzMSwtODAxMTk4OTY2LC05MT
-c4MTUxNCwtMTUyMzQ2NTc2NywtMTY0MTE2NjYzNiwyMTExNDg4
-MjgwLC0xNzU4NzAzNDU3LDg3ODg1OTE0Ml19
+eyJoaXN0b3J5IjpbNTkyMDQxMDg3LC0yOTA0MDAwMzEsLTgwMT
+E5ODk2NiwtOTE3ODE1MTQsLTE1MjM0NjU3NjcsLTE2NDExNjY2
+MzYsMjExMTQ4ODI4MCwtMTc1ODcwMzQ1Nyw4Nzg4NTkxNDJdfQ
+==
 -->
