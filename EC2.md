@@ -30,7 +30,7 @@
 
 ---
 
-**Spot**: Enables you to bid whatever price you want for instance capacity, providing for even greater savings if your applications have flexible start and end times.
+**Spot**: Enables you to bid whatever price you want for instance capacity, providing for even greater savings if your applications have flexible start and end times. Pricing varies...
 
 **Use case**:
 
@@ -156,8 +156,8 @@
  - Storage optimized,i3.metal,72,512,8 x 1900 (SSD),Yes,25 Gigabit,Yes
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkyMDQxMDg3LC0yOTA0MDAwMzEsLTgwMT
-E5ODk2NiwtOTE3ODE1MTQsLTE1MjM0NjU3NjcsLTE2NDExNjY2
-MzYsMjExMTQ4ODI4MCwtMTc1ODcwMzQ1Nyw4Nzg4NTkxNDJdfQ
-==
+eyJoaXN0b3J5IjpbLTg0NTY3OTQyOSwtMjkwNDAwMDMxLC04MD
+ExOTg5NjYsLTkxNzgxNTE0LC0xNTIzNDY1NzY3LC0xNjQxMTY2
+NjM2LDIxMTE0ODgyODAsLTE3NTg3MDM0NTcsODc4ODU5MTQyXX
+0=
 -->
