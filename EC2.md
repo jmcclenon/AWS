@@ -38,10 +38,11 @@
 **EC2 Instance Types**
 *(Family, Type, vCPUs, Memory, Instance Storage, EBS Opt., Network Performance, IPv6 Support)*
 
-General purpose,t2.nano,1,0.5,EBS only,-,Low to Moderate,Yes
-General purpose,t2.micro,1,1,EBS only,-,Low to Moderate,Yes
-General purpose,t2.small,1,2,EBS only,-,Low to Moderate,Yes,
-General purpose,t2.medium,2,4,EBS only,-,Low to Moderate,Yes
+ - General purpose,t2.nano,1,0.5,EBS only,-,Low to Moderate,Yes
+ - General purpose,t2.micro,1,1,EBS only,-,Low to Moderate,Yes
+ - General purpose,t2.small,1,2,EBS only,-,Low to Moderate,Yes,
+ - General purpose,t2.medium,2,4,EBS only,-,Low to Moderate,Yes
+
 General purpose,t2.large,2,8,EBS only,-,Low to Moderate,Yes
 General purpose,t2.xlarge,4,16,EBS only,-,Moderate,Yes
 General purpose,t2.2xlarge,8,32,EBS only,-,Moderate,Yes
@@ -130,6 +131,6 @@ Storage optimized,i3.metal,72,512,8 x 1900 (SSD),Yes,25 Gigabit,Yes
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMTQ4ODI4MCwtMTc1ODcwMzQ1Nyw4Nz
-g4NTkxNDJdfQ==
+eyJoaXN0b3J5IjpbODIxNzQ4NjkwLDIxMTE0ODgyODAsLTE3NT
+g3MDM0NTcsODc4ODU5MTQyXX0=
 -->
