@@ -13,10 +13,12 @@ IPV4 Subnet Cheat Sheet
  - [Calculator.NET](https://www.calculator.net/ip-subnet-calculator.html)
 
 ---
-Unddfrstanding IP Addressing by Chuck Semeria (P
+**Resources**
+
+ - [Understanding IP Addressing](https://staff.informatics.buu.ac.th/~seree/lecture/netlab/ipaddressing.pdf) by Chuck Semeria (PDF)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMzc5Mzk4MiwtMTAxNjYyODM3OCw0OD
+eyJoaXN0b3J5IjpbMTI2MjMyMTIxOCwtMTAxNjYyODM3OCw0OD
 Y1MTM1MiwtMzk5OTM5MDU0LDE3NzY1MTI4MiwxMTAwOTMwMjA0
 XX0=
 -->
