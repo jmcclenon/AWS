@@ -11,6 +11,9 @@ IPV4 Subnet Cheat Sheet
  - IP Subnet
    Calculator](http://www.subnet-calculator.com/subnet.php?net_class=A)
 
+ - [Calculator.NET](https://www.calculator.net/ip-subnet-calculator.html)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NjUxMjgyLDExMDA5MzAyMDRdfQ==
+eyJoaXN0b3J5IjpbLTM5OTkzOTA1NCwxNzc2NTEyODIsMTEwMD
+kzMDIwNF19
 -->
