@@ -8,6 +8,10 @@ The model is a product of the  [Open Systems Interconnection](https://en.wikiped
 
 
 ![enter image description here](https://www.geekshangout.com/wp-content/uploads/2008/08/osi_feature-950x640.jpg)
+
+OSI Model Layer Descriptions:
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA3NTc2MzkwXX0=
+eyJoaXN0b3J5IjpbLTE4MzIyODYxMzIsNjA3NTc2MzkwXX0=
 -->
