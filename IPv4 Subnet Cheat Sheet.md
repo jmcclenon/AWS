@@ -17,10 +17,10 @@ IPV4 Subnet Cheat Sheet
 
  - [Understanding IP Addressing](https://staff.informatics.buu.ac.th/~seree/lecture/netlab/ipaddressing.pdf) by Chuck Semeria (PDF)
  - [Internet Protocols RFC 791](https://tools.ietf.org/html/rfc791)
- - WikiPedia List
+ - WikiPedia: [List of RFCs](https://en.wikipedia.org/wiki/List_of_RFCs)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMjM1MjAwOSwtMjExMTExMzQ0MSwxMj
+eyJoaXN0b3J5IjpbLTQ2NDIyMzI2NywtMjExMTExMzQ0MSwxMj
 YyMzIxMjE4LC0xMDE2NjI4Mzc4LDQ4NjUxMzUyLC0zOTk5Mzkw
 NTQsMTc3NjUxMjgyLDExMDA5MzAyMDRdfQ==
 -->
