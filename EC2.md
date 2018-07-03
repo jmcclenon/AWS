@@ -99,26 +99,33 @@
  - GPU compute,p2.8xlarge,32,488,EBS only,Yes,10 Gigabit,Yes
  - GPU compute,p2.16xlarge,64,732,EBS only,Yes,25 Gigabit,Yes
  - GPU compute,p3.2xlarge,8,61,EBS only,Yes,Up to 10 Gigabit,Yes
+ - GPU compute,p3.8xlarge,32,244,EBS only,Yes,10 Gigabit,Yes
+ - GPU compute,p3.16xlarge,64,488,EBS only,Yes,25 Gigabit,Yes
+ - Memory optimized,r4.large,2,15.25,EBS only,Yes,Up to 10 Gigabit,Yes
+ - Memory optimized,r4.xlarge,4,30.5,EBS only,Yes,Up to 10 Gigabit,Yes
+ - Memory optimized,r4.2xlarge,8,61,EBS only,Yes,Up to 10 Gigabit,Yes
+ - Memory optimized,r4.4xlarge,16,122,EBS only,Yes,Up to 10 Gigabit,Yes
+ - Memory optimized,r4.8xlarge,32,244,EBS only,Yes,10 Gigabit,Yes
+ - Memory optimized,r4.16xlarge,64,488,EBS only,Yes,25 Gigabit,Yes
+ - Memory optimized,x1.16xlarge,64,976,1 x 1920 (SSD),Yes,10 Gigabit,Yes
+ - Memory optimized,x1e.xlarge,4,122,1 x 120 (SSD),Yes,Up to 10
+   Gigabit,Yes
+ - Memory optimized,x1e.2xlarge,8,244,1 x 240 (SSD),Yes,Up to 10
+   Gigabit,Yes
+ - Memory optimized,x1e.4xlarge,16,488,1 x 480 (SSD),Yes,Up to 10
+   Gigabit,Yes
+ - Memory optimized,x1e.8xlarge,32,976,1 x 960 (SSD),Yes,Up to 10
+   Gigabit,Yes
+ - Memory optimized,x1e.16xlarge,64,1952,1 x 1920 (SSD),Yes,10
+   Gigabit,Yes
+ - Memory optimized,x1e.32xlarge,128,3904,2 x 1920 (SSD),Yes,25
+   Gigabit,Yes
+ - Memory optimized,x1.32xlarge,128,1952,2 x 1920 (SSD),Yes,25
+   Gigabit,Yes
+ - Storage optimized,d2.xlarge,4,30.5,3 x 2048,Yes,Moderate,Yes
+ - Storage optimized,d2.2xlarge,8,61,6 x 2048,Yes,High,Yes
+ - Storage optimized,d2.4xlarge,16,122,12 x 2048,Yes,High,Yes
 
-GPU compute,p3.8xlarge,32,244,EBS only,Yes,10 Gigabit,Yes
-GPU compute,p3.16xlarge,64,488,EBS only,Yes,25 Gigabit,Yes
-Memory optimized,r4.large,2,15.25,EBS only,Yes,Up to 10 Gigabit,Yes
-Memory optimized,r4.xlarge,4,30.5,EBS only,Yes,Up to 10 Gigabit,Yes
-Memory optimized,r4.2xlarge,8,61,EBS only,Yes,Up to 10 Gigabit,Yes
-Memory optimized,r4.4xlarge,16,122,EBS only,Yes,Up to 10 Gigabit,Yes
-Memory optimized,r4.8xlarge,32,244,EBS only,Yes,10 Gigabit,Yes
-Memory optimized,r4.16xlarge,64,488,EBS only,Yes,25 Gigabit,Yes
-Memory optimized,x1.16xlarge,64,976,1 x 1920 (SSD),Yes,10 Gigabit,Yes
-Memory optimized,x1e.xlarge,4,122,1 x 120 (SSD),Yes,Up to 10 Gigabit,Yes
-Memory optimized,x1e.2xlarge,8,244,1 x 240 (SSD),Yes,Up to 10 Gigabit,Yes
-Memory optimized,x1e.4xlarge,16,488,1 x 480 (SSD),Yes,Up to 10 Gigabit,Yes
-Memory optimized,x1e.8xlarge,32,976,1 x 960 (SSD),Yes,Up to 10 Gigabit,Yes
-Memory optimized,x1e.16xlarge,64,1952,1 x 1920 (SSD),Yes,10 Gigabit,Yes
-Memory optimized,x1e.32xlarge,128,3904,2 x 1920 (SSD),Yes,25 Gigabit,Yes
-Memory optimized,x1.32xlarge,128,1952,2 x 1920 (SSD),Yes,25 Gigabit,Yes
-Storage optimized,d2.xlarge,4,30.5,3 x 2048,Yes,Moderate,Yes
-Storage optimized,d2.2xlarge,8,61,6 x 2048,Yes,High,Yes
-Storage optimized,d2.4xlarge,16,122,12 x 2048,Yes,High,Yes
 Storage optimized,d2.8xlarge,36,244,24 x 2048,Yes,10 Gigabit,Yes
 Storage optimized,i2.xlarge,4,30.5,1 x 800 (SSD),Yes,Moderate,Yes
 Storage optimized,i2.2xlarge,8,61,2 x 800 (SSD),Yes,High,Yes
@@ -139,6 +146,6 @@ Storage optimized,i3.metal,72,512,8 x 1900 (SSD),Yes,25 Gigabit,Yes
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMTMxMjgxNywyMTExNDg4MjgwLC0xNz
-U4NzAzNDU3LDg3ODg1OTE0Ml19
+eyJoaXN0b3J5IjpbLTIwMzE0MjAwNzAsMjExMTQ4ODI4MCwtMT
+c1ODcwMzQ1Nyw4Nzg4NTkxNDJdfQ==
 -->
