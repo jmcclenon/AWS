@@ -42,20 +42,23 @@
  - General purpose,t2.micro,1,1,EBS only,-,Low to Moderate,Yes
  - General purpose,t2.small,1,2,EBS only,-,Low to Moderate,Yes,
  - General purpose,t2.medium,2,4,EBS only,-,Low to Moderate,Yes
+ - General purpose,t2.large,2,8,EBS only,-,Low to Moderate,Yes
+ - General purpose,t2.xlarge,4,16,EBS only,-,Moderate,Yes
+ - General purpose,t2.2xlarge,8,32,EBS only,-,Moderate,Yes
+ - General purpose,m5d.large,2,8,1 x 75 (SSD),Yes,Up to 10 Gigabit,Yes
+ - General purpose,m5d.xlarge,4,16,1 x 150 (SSD),Yes,Up to 10
+   Gigabit,Yes
+ - General purpose,m5d.2xlarge,8,32,1 x 300 (SSD),Yes,Up to 10
+   Gigabit,Yes
+ - General purpose,m5d.4xlarge,16,64,2 x 300 (SSD),Yes,Up to 10
+   Gigabit,Yes
+ - General purpose,m5d.12xlarge,48,192,2 x 900 (SSD),Yes,10 Gigabit,Yes
+ - General purpose,m5d.24xlarge,96,384,4 x 900 (SSD),Yes,25 Gigabit,Yes
+ - General purpose,m5.large,2,8,EBS only,Yes,Up to 10 Gigabit,Yes
+ - General purpose,m5.xlarge,4,16,EBS only,Yes,Up to 10 Gigabit,Yes
+ - General purpose,m5.2xlarge,8,32,EBS only,Yes,Up to 10 Gigabit,Yes
+ - General purpose,m5.4xlarge,16,64,EBS only,Yes,Up to 10 Gigabit,Yes
 
-General purpose,t2.large,2,8,EBS only,-,Low to Moderate,Yes
-General purpose,t2.xlarge,4,16,EBS only,-,Moderate,Yes
-General purpose,t2.2xlarge,8,32,EBS only,-,Moderate,Yes
-General purpose,m5d.large,2,8,1 x 75 (SSD),Yes,Up to 10 Gigabit,Yes
-General purpose,m5d.xlarge,4,16,1 x 150 (SSD),Yes,Up to 10 Gigabit,Yes
-General purpose,m5d.2xlarge,8,32,1 x 300 (SSD),Yes,Up to 10 Gigabit,Yes
-General purpose,m5d.4xlarge,16,64,2 x 300 (SSD),Yes,Up to 10 Gigabit,Yes
-General purpose,m5d.12xlarge,48,192,2 x 900 (SSD),Yes,10 Gigabit,Yes
-General purpose,m5d.24xlarge,96,384,4 x 900 (SSD),Yes,25 Gigabit,Yes
-General purpose,m5.large,2,8,EBS only,Yes,Up to 10 Gigabit,Yes
-General purpose,m5.xlarge,4,16,EBS only,Yes,Up to 10 Gigabit,Yes
-General purpose,m5.2xlarge,8,32,EBS only,Yes,Up to 10 Gigabit,Yes
-General purpose,m5.4xlarge,16,64,EBS only,Yes,Up to 10 Gigabit,Yes
 General purpose,m5.12xlarge,48,192,EBS only,Yes,10 Gigabit,Yes
 General purpose,m5.24xlarge,96,384,EBS only,Yes,25 Gigabit,Yes
 General purpose,m4.large,2,8,EBS only,Yes,Moderate,Yes
@@ -131,6 +134,6 @@ Storage optimized,i3.metal,72,512,8 x 1900 (SSD),Yes,25 Gigabit,Yes
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIxNzQ4NjkwLDIxMTE0ODgyODAsLTE3NT
-g3MDM0NTcsODc4ODU5MTQyXX0=
+eyJoaXN0b3J5IjpbLTE3OTY4Mzc3NjksMjExMTQ4ODI4MCwtMT
+c1ODcwMzQ1Nyw4Nzg4NTkxNDJdfQ==
 -->
