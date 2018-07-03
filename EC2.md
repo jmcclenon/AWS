@@ -36,7 +36,7 @@
 
 ---
 EC2 Instance Types
-(Family, 
+(Family, Type,vCPUs, Memory, Instance Storage, EBS Opt., Network Performance, IPv6 
 
 General purpose,t2.nano,1,0.5,EBS only,-,Low to Moderate,Yes
 General purpose,t2.micro,1,1,EBS only,-,Low to Moderate,Yes
@@ -130,6 +130,6 @@ Storage optimized,i3.metal,72,512,8 x 1900 (SSD),Yes,25 Gigabit,Yes
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMTQwNjU0NCwtMTc1ODcwMzQ1Nyw4Nz
+eyJoaXN0b3J5IjpbLTQwODkxODE5NiwtMTc1ODcwMzQ1Nyw4Nz
 g4NTkxNDJdfQ==
 -->
