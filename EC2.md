@@ -40,7 +40,7 @@
 **EC2 Instance Types**
 *(Family, Type, vCPUs, Memory, Instance Storage, EBS Opt., Network Performance, IPv6 Support)*
 
-11 Type Families: T, M, C, F, G, P, R, X, D, I, H
+11 Type Families: T, M, C, F, G, P, R, X, D, I, H (
 
  - General purpose,t2.nano,1,0.5,EBS only,-,Low to Moderate,Yes
  - General purpose,t2.micro,1,1,EBS only,-,Low to Moderate,Yes
@@ -152,7 +152,7 @@
  - Storage optimized,i3.metal,72,512,8 x 1900 (SSD),Yes,25 Gigabit,Yes
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMTE5ODk2NiwtOTE3ODE1MTQsLTE1Mj
-M0NjU3NjcsLTE2NDExNjY2MzYsMjExMTQ4ODI4MCwtMTc1ODcw
-MzQ1Nyw4Nzg4NTkxNDJdfQ==
+eyJoaXN0b3J5IjpbLTE5NTM2MjczMTAsLTgwMTE5ODk2NiwtOT
+E3ODE1MTQsLTE1MjM0NjU3NjcsLTE2NDExNjY2MzYsMjExMTQ4
+ODI4MCwtMTc1ODcwMzQ1Nyw4Nzg4NTkxNDJdfQ==
 -->
