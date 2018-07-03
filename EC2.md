@@ -1,3 +1,5 @@
+## Elastic Cloud Compute
+
 **EC2 Options**
 
 **On Demand**: Allows you to pay a fixed rate by the hour (or by the second) with no commitment. Linux instances are by the second. Windows instances are by the hour (for now).
@@ -148,6 +150,6 @@
  - Storage optimized,i3.metal,72,512,8 x 1900 (SSD),Yes,25 Gigabit,Yes
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDExNjY2MzYsMjExMTQ4ODI4MCwtMT
-c1ODcwMzQ1Nyw4Nzg4NTkxNDJdfQ==
+eyJoaXN0b3J5IjpbLTE1MjM0NjU3NjcsLTE2NDExNjY2MzYsMj
+ExMTQ4ODI4MCwtMTc1ODcwMzQ1Nyw4Nzg4NTkxNDJdfQ==
 -->
