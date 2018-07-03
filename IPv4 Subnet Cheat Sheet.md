@@ -6,13 +6,13 @@ IPV4 Subnet Cheat Sheet
 **Online Subnet Calculators:**
 
 
- - WintelGuy 
+ - [WintelGuy](http://wintelguy.com) 
 
  - IP Subnet
 
  - [Calculator.NET](https://www.calculator.net/ip-subnet-calculator.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg2NTEzNTIsLTM5OTkzOTA1NCwxNzc2NT
-EyODIsMTEwMDkzMDIwNF19
+eyJoaXN0b3J5IjpbLTc1MDE1ODA0LDQ4NjUxMzUyLC0zOTk5Mz
+kwNTQsMTc3NjUxMjgyLDExMDA5MzAyMDRdfQ==
 -->
