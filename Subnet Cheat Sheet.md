@@ -5,8 +5,15 @@ IPV4 Subnet Cheat Sheet
 ---
 Online Subnet Calculators:
 
-[WintelGuy (shows ranges)](http://wintelguy.com/subnetcalc.pl)
-IP
+[
+
+ - WintelGuy (shows ranges)](http://wintelguy.com/subnetcalc.pl)
+
+
+
+ - IP Subnet
+   Calculator](http://www.subnet-calculator.com/subnet.php?net_class=A)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NTU4MTUzLDExMDA5MzAyMDRdfQ==
+eyJoaXN0b3J5IjpbMTg5ODI4MTYwMywxMTAwOTMwMjA0XX0=
 -->
