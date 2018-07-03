@@ -11,8 +11,9 @@ The model is a product of the  [Open Systems Interconnection](https://en.wikiped
 
 OSI Model Layer Descriptions:
 
-GeeksforGeeks - Article
+ - [GeeksforGeeks](https://www.geeksforgeeks.org/layers-osi-model/) *Article*
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMTA2OTQ1NiwtMTgzMjI4NjEzMiw2MD
+eyJoaXN0b3J5IjpbLTYxMTI0MzQxOCwtMTgzMjI4NjEzMiw2MD
 c1NzYzOTBdfQ==
 -->
