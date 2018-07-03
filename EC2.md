@@ -35,7 +35,8 @@
 **Dedicated Hosts**: Physical EC2 server dedicated for your use. Dedicated hosts can help you reduce costs by allowing you to use your existing server-bound software licenses.
 
 ---
-EC2 Instance 
+EC2 Instance Types
+(Family, 
 
 General purpose,t2.nano,1,0.5,EBS only,-,Low to Moderate,Yes
 General purpose,t2.micro,1,1,EBS only,-,Low to Moderate,Yes
@@ -129,6 +130,6 @@ Storage optimized,i3.metal,72,512,8 x 1900 (SSD),Yes,25 Gigabit,Yes
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTU1MDY2NjEsLTE3NTg3MDM0NTcsOD
-c4ODU5MTQyXX0=
+eyJoaXN0b3J5IjpbLTkzMTQwNjU0NCwtMTc1ODcwMzQ1Nyw4Nz
+g4NTkxNDJdfQ==
 -->
