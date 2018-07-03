@@ -160,10 +160,10 @@ Additional Information:
 
 See the following website for a very comprehensive view of EC2 instances, and comparative information:
 
-http://ec2instances.info
+[https://ec2instances.info](https://ec2instances.info/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzczNTY1MTMsLTg0NTY3OTQyOSwtMj
-kwNDAwMDMxLC04MDExOTg5NjYsLTkxNzgxNTE0LC0xNTIzNDY1
-NzY3LC0xNjQxMTY2NjM2LDIxMTE0ODgyODAsLTE3NTg3MDM0NT
-csODc4ODU5MTQyXX0=
+eyJoaXN0b3J5IjpbLTMwODE1OTU3MywtODQ1Njc5NDI5LC0yOT
+A0MDAwMzEsLTgwMTE5ODk2NiwtOTE3ODE1MTQsLTE1MjM0NjU3
+NjcsLTE2NDExNjY2MzYsMjExMTQ4ODI4MCwtMTc1ODcwMzQ1Ny
+w4Nzg4NTkxNDJdfQ==
 -->
