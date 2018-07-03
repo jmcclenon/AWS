@@ -81,24 +81,25 @@
  - Compute optimized,c5.2xlarge,8,16,EBS only,Yes,Up to 10 Gigabit,Yes
  - Compute optimized,c5.4xlarge,16,32,EBS only,Yes,Up to 10 Gigabit,Yes
  - Compute optimized,c5.9xlarge,36,72,EBS only,Yes,10 Gigabit,Yes
+ - Compute optimized,c5.18xlarge,72,144,EBS only,Yes,25 Gigabit,Yes
+ - Compute optimized,c4.large,2,3.75,EBS only,Yes,Moderate,Yes
+ - Compute optimized,c4.xlarge,4,7.5,EBS only,Yes,High,Yes
+ - Compute optimized,c4.2xlarge,8,15,EBS only,Yes,High,Yes
+ - Compute optimized,c4.4xlarge,16,30,EBS only,Yes,High,Yes
+ - Compute optimized,c4.8xlarge,36,60,EBS only,Yes,10 Gigabit,Yes
+ - FPGA instances,f1.2xlarge,8,122,1 x 470 (SSD),Yes,Up to 10
+   Gigabit,Yes
+ - FPGA instances,f1.16xlarge,64,976,4 x 940 (SSD),Yes,25 Gigabit,Yes
+ - GPU graphics,g3.4xlarge,16,122,EBS only,Yes,Up to 10 Gigabit,Yes
+ - GPU graphics,g3.8xlarge,32,244,EBS only,Yes,10 Gigabit,Yes
+ - GPU graphics,g3.16xlarge,64,488,EBS only,Yes,25 Gigabit,Yes
+ - GPU instances,g2.2xlarge,8,15,1 x 60 (SSD),Yes,High,-
+ - GPU instances,g2.8xlarge,32,60,2 x 120 (SSD),-,10 Gigabit,-
+ - GPU compute,p2.xlarge,4,61,EBS only,Yes,High,Yes
+ - GPU compute,p2.8xlarge,32,488,EBS only,Yes,10 Gigabit,Yes
+ - GPU compute,p2.16xlarge,64,732,EBS only,Yes,25 Gigabit,Yes
+ - GPU compute,p3.2xlarge,8,61,EBS only,Yes,Up to 10 Gigabit,Yes
 
-Compute optimized,c5.18xlarge,72,144,EBS only,Yes,25 Gigabit,Yes
-Compute optimized,c4.large,2,3.75,EBS only,Yes,Moderate,Yes
-Compute optimized,c4.xlarge,4,7.5,EBS only,Yes,High,Yes
-Compute optimized,c4.2xlarge,8,15,EBS only,Yes,High,Yes
-Compute optimized,c4.4xlarge,16,30,EBS only,Yes,High,Yes
-Compute optimized,c4.8xlarge,36,60,EBS only,Yes,10 Gigabit,Yes
-FPGA instances,f1.2xlarge,8,122,1 x 470 (SSD),Yes,Up to 10 Gigabit,Yes
-FPGA instances,f1.16xlarge,64,976,4 x 940 (SSD),Yes,25 Gigabit,Yes
-GPU graphics,g3.4xlarge,16,122,EBS only,Yes,Up to 10 Gigabit,Yes
-GPU graphics,g3.8xlarge,32,244,EBS only,Yes,10 Gigabit,Yes
-GPU graphics,g3.16xlarge,64,488,EBS only,Yes,25 Gigabit,Yes
-GPU instances,g2.2xlarge,8,15,1 x 60 (SSD),Yes,High,-
-GPU instances,g2.8xlarge,32,60,2 x 120 (SSD),-,10 Gigabit,-
-GPU compute,p2.xlarge,4,61,EBS only,Yes,High,Yes
-GPU compute,p2.8xlarge,32,488,EBS only,Yes,10 Gigabit,Yes
-GPU compute,p2.16xlarge,64,732,EBS only,Yes,25 Gigabit,Yes
-GPU compute,p3.2xlarge,8,61,EBS only,Yes,Up to 10 Gigabit,Yes
 GPU compute,p3.8xlarge,32,244,EBS only,Yes,10 Gigabit,Yes
 GPU compute,p3.16xlarge,64,488,EBS only,Yes,25 Gigabit,Yes
 Memory optimized,r4.large,2,15.25,EBS only,Yes,Up to 10 Gigabit,Yes
@@ -138,6 +139,6 @@ Storage optimized,i3.metal,72,512,8 x 1900 (SSD),Yes,25 Gigabit,Yes
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY2OTk1MTgwLDIxMTE0ODgyODAsLTE3NT
-g3MDM0NTcsODc4ODU5MTQyXX0=
+eyJoaXN0b3J5IjpbMTUwMTMxMjgxNywyMTExNDg4MjgwLC0xNz
+U4NzAzNDU3LDg3ODg1OTE0Ml19
 -->
