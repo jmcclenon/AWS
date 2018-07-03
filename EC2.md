@@ -125,27 +125,29 @@
  - Storage optimized,d2.xlarge,4,30.5,3 x 2048,Yes,Moderate,Yes
  - Storage optimized,d2.2xlarge,8,61,6 x 2048,Yes,High,Yes
  - Storage optimized,d2.4xlarge,16,122,12 x 2048,Yes,High,Yes
-
-Storage optimized,d2.8xlarge,36,244,24 x 2048,Yes,10 Gigabit,Yes
-Storage optimized,i2.xlarge,4,30.5,1 x 800 (SSD),Yes,Moderate,Yes
-Storage optimized,i2.2xlarge,8,61,2 x 800 (SSD),Yes,High,Yes
-Storage optimized,i2.4xlarge,16,122,4 x 800 (SSD),Yes,High,Yes
-Storage optimized,i2.8xlarge,32,244,8 x 800 (SSD),-,10 Gigabit,Yes
-Storage optimized,h1.2xlarge,8,32,1 x 2000,Yes,Up to 10 Gigabit,Yes
-Storage optimized,h1.4xlarge,16,64,2 x 2000,Yes,Up to 10 Gigabit,Yes
-Storage optimized,h1.8xlarge,32,128,4 x 2000,Yes,10 Gigabit,Yes
-Storage optimized,h1.16xlarge,64,256,8 x 2000,Yes,25 Gigabit,Yes
-Storage optimized,i3.large,2,15.25,1 x 475 (SSD),Yes,Up to 10 Gigabit,Yes
-Storage optimized,i3.xlarge,4,30.5,1 x 950 (SSD),Yes,Up to 10 Gigabit,Yes
-Storage optimized,i3.2xlarge,8,61,1 x 1900 (SSD),Yes,Up to 10 Gigabit,Yes
-Storage optimized,i3.4xlarge,16,122,2 x 1900 (SSD),Yes,Up to 10 Gigabit,Yes
-Storage optimized,i3.8xlarge,32,244,4 x 1900 (SSD),Yes,10 Gigabit,Yes
-Storage optimized,i3.16xlarge,64,488,8 x 1900 (SSD),Yes,25 Gigabit,Yes
-Storage optimized,i3.metal,72,512,8 x 1900 (SSD),Yes,25 Gigabit,Yes
-
-
+ - Storage optimized,d2.8xlarge,36,244,24 x 2048,Yes,10 Gigabit,Yes
+ - Storage optimized,i2.xlarge,4,30.5,1 x 800 (SSD),Yes,Moderate,Yes
+ - Storage optimized,i2.2xlarge,8,61,2 x 800 (SSD),Yes,High,Yes
+ - Storage optimized,i2.4xlarge,16,122,4 x 800 (SSD),Yes,High,Yes
+ - Storage optimized,i2.8xlarge,32,244,8 x 800 (SSD),-,10 Gigabit,Yes
+ - Storage optimized,h1.2xlarge,8,32,1 x 2000,Yes,Up to 10 Gigabit,Yes
+ - Storage optimized,h1.4xlarge,16,64,2 x 2000,Yes,Up to 10 Gigabit,Yes
+ - Storage optimized,h1.8xlarge,32,128,4 x 2000,Yes,10 Gigabit,Yes
+ - Storage optimized,h1.16xlarge,64,256,8 x 2000,Yes,25 Gigabit,Yes
+ - Storage optimized,i3.large,2,15.25,1 x 475 (SSD),Yes,Up to 10
+   Gigabit,Yes
+ - Storage optimized,i3.xlarge,4,30.5,1 x 950 (SSD),Yes,Up to 10
+   Gigabit,Yes
+ - Storage optimized,i3.2xlarge,8,61,1 x 1900 (SSD),Yes,Up to 10
+   Gigabit,Yes
+ - Storage optimized,i3.4xlarge,16,122,2 x 1900 (SSD),Yes,Up to 10
+   Gigabit,Yes
+ - Storage optimized,i3.8xlarge,32,244,4 x 1900 (SSD),Yes,10 Gigabit,Yes
+ - Storage optimized,i3.16xlarge,64,488,8 x 1900 (SSD),Yes,25
+   Gigabit,Yes
+ - Storage optimized,i3.metal,72,512,8 x 1900 (SSD),Yes,25 Gigabit,Yes
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzE0MjAwNzAsMjExMTQ4ODI4MCwtMT
+eyJoaXN0b3J5IjpbLTE2NDExNjY2MzYsMjExMTQ4ODI4MCwtMT
 c1ODcwMzQ1Nyw4Nzg4NTkxNDJdfQ==
 -->
