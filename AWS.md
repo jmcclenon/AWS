@@ -2,7 +2,7 @@
 
 This is an overview of all of the current services on Amazon Web Services. The descriptions are from the AWS console, and there are links to some of the services and software in Wikipedia.
 
-Created: 6/20/2018
+File Created: 6/20/2018 by John M.
 
 **COMPUTE**
 
