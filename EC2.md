@@ -32,13 +32,13 @@
 
 **Spot**: Enables you to bid whatever price you want for instance capacity, providing for even greater savings if your applications have flexible start and end times. Pricing varies...
 
-**Use case**:
+**Use case**: ToDo
 
 ---
 
 **Dedicated Hosts**: Physical EC2 server dedicated for your use. Dedicated hosts can help you reduce costs by allowing you to use your existing server-bound software licenses.
 
-**Use Case**:
+**Use Case**: Todo
 
 ---
 **EC2 Instance Types**
