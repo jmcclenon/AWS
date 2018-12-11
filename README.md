@@ -9,6 +9,6 @@ The [Geekbooks](https://www.geekbooks.me/) website has a large collection of boo
 
 I will also list some of the more important whitepapers that have been published by AWS, and provide links to them.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0OTI1NDI5NywxOTUzMzEzODQ4LDg4MT
-c0MDcyMywtMTg3MDU3NTI5MF19
+eyJoaXN0b3J5IjpbLTIxMjc4MzIzMTUsLTY0OTI1NDI5NywxOT
+UzMzEzODQ4LDg4MTc0MDcyMywtMTg3MDU3NTI5MF19
 -->
