@@ -8,7 +8,7 @@ The AWS Global Infrastructure is currently comprised of **18 AWS Regions** world
 
 **Region**: 
 Each **AWS Region** is a separate geographic area. Each **AWS Region** has multiple, isolated locations known as Availability Zones.
-Each Amazon EC2 region is designed to be completely isolated from the other Amazon EC2 regions. This achieves the greatest possible fault tolerance and stability.
+Each Amazon EC2 region is designed to be completely isolated from the other Amazon EC2 regions. This achieves the greatest possible fault tolerance and stability (KEY POINT).
 
  - US East (**Ohio**) *us-east-2*
  - US East (**N. Virginia**) *us-east-1*
@@ -126,9 +126,10 @@ The cloud infrastructure is a composition of two or more distinct cloud infrastr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNjE2MjU5MCwtMjgyNjQ0MDY5LDEzNT
-g3NTU0NjMsLTE1MTU5MjU1NDYsMTM1MTc0NDQ4NywtMTQwNDgw
-NDk5MiwxMTUzMDc0MDU2LDQ5MDExNjA3MCwtMTU3MDI4NDE2OC
-wtMTYwNDcwMDg2NywxNTk4MDE2OTM5LDkyNjMwMjkwNiw5Njkw
-ODU3OTYsLTE1MDQ2MjkwNSwtMTc3MTIyOTY0M119
+eyJoaXN0b3J5IjpbLTc3MTU1ODIzNiwtNTA2MTYyNTkwLC0yOD
+I2NDQwNjksMTM1ODc1NTQ2MywtMTUxNTkyNTU0NiwxMzUxNzQ0
+NDg3LC0xNDA0ODA0OTkyLDExNTMwNzQwNTYsNDkwMTE2MDcwLC
+0xNTcwMjg0MTY4LC0xNjA0NzAwODY3LDE1OTgwMTY5MzksOTI2
+MzAyOTA2LDk2OTA4NTc5NiwtMTUwNDYyOTA1LC0xNzcxMjI5Nj
+QzXX0=
 -->
