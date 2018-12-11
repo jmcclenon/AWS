@@ -9,5 +9,6 @@
  - When you create a new VPC, a route table is automatically created.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTk0NDIwOTVdfQ==
+eyJoaXN0b3J5IjpbLTEyMDg4MjE1ODAsLTIxMTk0NDIwOTVdfQ
+==
 -->
