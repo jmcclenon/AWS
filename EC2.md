@@ -162,8 +162,8 @@ See the following website for a very comprehensive view of EC2 instances, and co
 
 [https://ec2instances.info](https://ec2instances.info/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMzgzMDk5NywtMzA4MTU5NTczLC04ND
-U2Nzk0MjksLTI5MDQwMDAzMSwtODAxMTk4OTY2LC05MTc4MTUx
-NCwtMTUyMzQ2NTc2NywtMTY0MTE2NjYzNiwyMTExNDg4MjgwLC
-0xNzU4NzAzNDU3LDg3ODg1OTE0Ml19
+eyJoaXN0b3J5IjpbMTA2NjQ2MTI1MCwtNTIzODMwOTk3LC0zMD
+gxNTk1NzMsLTg0NTY3OTQyOSwtMjkwNDAwMDMxLC04MDExOTg5
+NjYsLTkxNzgxNTE0LC0xNTIzNDY1NzY3LC0xNjQxMTY2NjM2LD
+IxMTE0ODgyODAsLTE3NTg3MDM0NTcsODc4ODU5MTQyXX0=
 -->
